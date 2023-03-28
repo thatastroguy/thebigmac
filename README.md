@@ -18,6 +18,7 @@ The purpose of this catalog is to have an exhaustive list of all known multiple 
 - Multiple AGNs in a galaxy interaction, merger, or post-merger <br />
 - Multiple AGNs that are gravitationally bound, e.g. binary AGNs <br />
 - The appearance of multiple AGNs due to gravitational lensing (e.g. an Einstein cross) <br />
+
 This catalog should be exhaustive, so include not only confirmed systems but also candidate systems. These systems should be everything that indicates or potentially indicates the presence or apparent presence of more than one AGN associated with a system (e.g. multiple X-ray/radio component, doubling of spectroscopic lines, astrometric jitter, etc.) However, note that gravitational lenses **_are not purposefully included in this catalog_**; this catalog is meant to encapsulate only multiple, but physically distinct, AGN systems, not systems comprising images of a single AGN.
 
 ## WMAGN catalog columns: <br />
