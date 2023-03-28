@@ -1,0 +1,98 @@
+J/MNRAS/392/1539    Metal absorption systems in pairs of QSOs    (Tytler+, 2009)
+================================================================================
+Metal absorption systems in spectra of pairs of QSOs:
+how absorbers cluster around QSOs and other absorbers.
+    Tytler D., Gleed M., Melis C., Chapman A., Kirkman D., Lubin D.,
+    Paschos P., Jena T., Crotts A.P.S.
+   <Mon. Not. R. Astron. Soc., 392, 1539-1572 (2009)>
+   =2009MNRAS.392.1539T
+================================================================================
+ADC_Keywords: QSOs ; Redshifts
+Keywords: intergalactic medium - quasars: absorption lines - quasars: general -
+          cosmology: observations
+
+Abstract:
+    We present the first large sample of metal absorption systems in pairs
+    of QSOs with sightlines separated by about 1Mpc at z=2. We found
+    690 absorption systems in the spectra of 310 QSOs in 170 pairings.
+    Most systems show CIV or MgII absorption.
+
+Description:
+    We use spectra of the 310 QSOs which include 140 pairs and 10
+    triplets. We use spectra that we obtained with LRIS on the Keck I
+    telescope, the Kast spectrograph on the Lick 3-m Shane telescope and
+    from CTIO and KPNO. We also use spectra from the SDSS data release 5
+    (DR5). We obtained spectra with LRIS from 2001 to 2004 September.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat     43      310   QSO targets, in order of QSO pair label number,
+                              not RA.
+table4.dat    115      996   The 690 metal-line absorption systems in the
+                              spectra of the 310 QSOs
+--------------------------------------------------------------------------------
+
+See also:
+  J/AJ/126/2579 : SDSS quasar catalog. II. First data release (Schneider+, 2003)
+  http://www.sdss.org : SDSS Home Page
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  2  I2    h       RAh       Right ascension (J2000)
+   4-  5  I2    min     RAm       Right ascension (J2000)
+   7- 11  F5.2  s       RAs       Right ascension (J2000)
+      13  A1    ---     DE-       Declination sign (J2000)
+  14- 15  I2    deg     DEd       Declination (J2000)
+  17- 18  I2    arcmin  DEm       Declination (J2000)
+  20- 24  F5.2  arcsec  DEs       Declination (J2000)
+  26- 30  F5.3  ---     zem       Emission redshift
+      32  A1    ---     ---       [P]
+  33- 35  I3    ---     Pair      [1,155] QSO pair number
+      36  A1    ---   m_Pair      [abc] Multiplicity index for pairs/triplets
+  38- 43  F6.2  arcsec  Sep       Separation between pairs
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+       1  A1    ---     ---       [P]
+   2-  4  I3    ---     Pair      [1,155] QSO pair number
+       5  A1    ---   m_Pair      [abc] Multiplicity index for pairs/triplets
+   7- 13  F7.5  ---     z         Redshift (1)
+  15- 78  A64   ---     Ions      Ions or zem (2)
+  80-101  A22   ---     Notes     Notes and system classifications (3)
+ 104-108  F5.2  0.1nm   Wrest     ? Rest frame equivalent width for one of the
+                                    stronger doublet lines (1548, 2796 or 1238)
+                                    in order of preference
+     109  A1    ---   f_Wrest     [?] ? Wrest value for CIV 1550 or NV 1242
+ 111-115  F5.2  0.1nm   Wpm       ? Wpm is the minimum Wrest that we could have
+                                    seen for the same line in the spectrum
+                                    of the partner QSO at the same z
+--------------------------------------------------------------------------------
+Note (1): We give 5 decimal places for the redshifts of the coincident
+     absorption systems, and 4 decimals for most other absorbers.
+Note (2): # indicates significantly blended absorption line.
+Note (3): Abbreviations used:
+     EA = emission-absorption coincident absorbers are close to the
+          emission redshift of the partner QSO, with -0.005<Dz_EA_<0.005
+    EAV = coincident absorbers (V for velocity) are like EA coincidences
+          but with have v_EA_<1000km/s and |Dz_EA_|>0.005
+     AA = absorption-absorption) coincident systems have a partner in the
+          paired QSO with -0.005<Dz_AA_<0.005
+    AAV = coincident systems (V for velocity) have v_AA_<1000km/s but
+          |Dv_AA_|>0.005
+    AAA = associated absorber-absorber coincident systems have
+          |v_AA_|<1000km/s and one or both absorbers at v_abs_<3000km/s
+          from their QSO
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+================================================================================
+(End)                                      Patricia Vannier [CDS]    24-Aug-2009

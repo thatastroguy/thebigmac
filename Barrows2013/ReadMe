@@ -1,0 +1,129 @@
+J/ApJ/769/95    [NeV] or [NeIII] double peaked SDSS quasars    (Barrows+, 2013)
+================================================================================
+Identification of outflows and candidate dual active galactic nuclei in
+SDSS quasars at z = 0.8-1.6.
+    Barrows R.S., Lacy C.H.S., Kennefick J., Comerford J.M., Kennefick D.,
+    Berrier J.C.
+   <Astrophys. J., 769, 95 (2013)>
+   =2013ApJ...769...95B
+================================================================================
+ADC_Keywords: Spectroscopy ; QSOs ; Redshifts ; Active gal. nuclei
+Keywords: galaxies: active; galaxies: high-redshift; galaxies: jets;
+          galaxies: nuclei; quasars: emission lines
+
+Abstract:
+    We present a sample of 131 quasars from the Sloan Digital Sky Survey
+    at redshifts 0.8<z<1.6 with double peaks in either of the
+    high-ionization narrow emission lines [NeV]{lambda}3426 or
+    [NeIII]{lambda}3869. These sources were selected with the intention of
+    identifying high-redshift analogs of the z<0.8 active galactic nuclei
+    (AGNs) with double-peaked [OIII]{lambda}5007 lines, which might
+    represent AGN outflows or dual AGNs. Lines of high ionization
+    potential are believed to originate in the inner, highly photoionized
+    portion of the narrow line region, and we exploit this assumption to
+    investigate the possible kinematic origins of the double-peaked lines.
+    For comparison, we measure the [NeV]{lambda}3426 and
+    [NeIII]{lambda}3869 double peaks in low-redshift (z<0.8)
+    [OIII]-selected sources. We find that [NeV]{lambda}3426 and
+    [NeIII]{lambda}3869 show a correlation between line splitting and line
+    width similar to that of [OIII]{lambda}5007 in other studies, and the
+    velocity splittings are correlated with the quasar Eddington ratio.
+    These results suggest an outflow origin for at least a subset of the
+    double peaks, allowing us to study the high-ionization gas kinematics
+    around quasars. However, we find that a non-negligible fraction of our
+    sample show no evidence for an ionization stratification. For these
+    sources, the outflow scenario is less compelling, leaving the dual AGN
+    scenario as a viable possibility. Finally, we find that our sample
+    shows an anti-correlation between the velocity-offset ratio and
+    luminosity ratio of the components, which is a potential dynamical
+    argument for the presence of dual AGNs. Therefore, this study serves
+    as a first attempt at extending the selection of candidate dual AGNs
+    to higher redshifts.
+
+Description:
+    Our parent sample consists of archival spectra drawn from the quasar
+    catalog of the SDSS Data Release 7 (DR7) which is described in detail
+    in Schneider et al. (2010, Cat. VII/260). The typical resolution of
+    the SDSS spectra is {lambda}/{Delta}{lambda}~2000.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe            80        .   This file
+table1.dat        85       80   Emission line properties for double-peaked
+                                 [Ne V] {lambda}3426
+table2.dat        85       89   Emission line properties for double-peaked
+                                 [Ne III] {lambda}3869
+table3.dat        75      131   General quasar properties for our sample
+--------------------------------------------------------------------------------
+
+See also:
+  VII/270 : SDSS quasar catalog: tenth data release (Paris+, 2014)
+  VII/260 : The SDSS-DR7 quasar catalog (Schneider+, 2010)
+  II/294  : The SDSS Photometric Catalog, Release 7 (Adelman-McCarthy+, 2009)
+  J/ApJS/201/31  : Emission-line galaxies from SDSS. I. (Ge+, 2012)
+  J/AJ/144/125   : Phot. and spectro. of Markarian 266 (Mazzarella+, 2012)
+  J/ApJ/753/42   : Double-peaked AGN. I. Dual AGN candidates (Comerford+, 2012)
+  J/ApJ/737/101  : AGN pairs from SDSS-DR7. I. (Liu+, 2011)
+  J/ApJS/194/45  : QSO properties from SDSS-DR7 (Shen+, 2011)
+  J/ApJ/716/866  : SDSS search for binary AGN (Smith+, 2010)
+  J/ApJ/708/427  : Type 2 AGNs with double-peaked [OIII] lines (Liu+, 2010)
+  J/MNRAS/405/2302 : Improved redshifts for SDSS quasar spectra (Hewett+, 2010)
+  J/ApJ/705/L76  : AGNs with double-peaked [OIII] lines (Wang+, 2009)
+  J/ApJS/166/470 : SDSS-Spitzer type I QSOs IR photometry (Richards+, 2006)
+  J/A+A/417/515  : I Zw 1 unusual emission line spectrum (Veron-Cetty+, 2004)
+  J/AJ/126/1720  : ugriz and H{alpha} of double-peaked AGN (Strateva+, 2003)
+  J/AJ/126/1183  : Major galaxy mergers at z<~3 (Conselice+, 2003)
+  J/ApJ/599/886  : Emission lines of radio-loud AGN (Eracleous+, 2003)
+
+Byte-by-byte Description of file: table[12].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units        Label Explanations
+--------------------------------------------------------------------------------
+   1- 19 A19    ---          SDSS  SDSS name
+  21- 25 F5.1 10-19W/m2/nm   Fb    [4/150] Flux density; blue component (1)
+  27- 29 I3   10-19W/m2/nm e_Fb    The 1{sigma} uncertainty in Fluxb (1)
+  31- 34 I4     km/s         dVb   [-47/2387] Velocity offset from the
+                                     quasar redshift; blue component
+  36- 38 I3     km/s       e_dVb   [0/327] The 1{sigma} uncertainty in dVb
+  40- 43 I4     km/s         FWHMb Full Width at Half Maximum; blue component
+  45- 47 I3     km/s       e_FWHMb The 1{sigma} uncertainty in FWHMb
+  49- 53 F5.1 10-19W/m2/nm   Fr    [5/245] Flux density; red component (1)
+  55- 57 I3   10-19W/m2/nm e_Fr    The 1{sigma} uncertainty in Fluxr (1)
+  59- 62 I4     km/s         dVr   [-831/721] Velocity offset from the
+                                     quasar redshift; red component
+  64- 66 I3     km/s       e_dVr   The 1{sigma} uncertainty in dVr
+  68- 71 I4     km/s         FWHMr Full Width at Half Maximum; red component
+  73- 75 I3     km/s       e_FWHMr The 1{sigma} uncertainty in FWHMr
+      77 I1     ---          Br    Broad component? 0='no', 1='yes'
+  79- 82 F4.2   ---          chi2  [0.3/2.5] Reduced {chi}-squared
+  84- 85 I2     ---          dof   [10/92] Number of degrees of freedom
+--------------------------------------------------------------------------------
+Note (1): In units of 10-17 erg/s/cm^2^/{AA}.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 19  A19   ---     SDSS      SDSS quasar name
+  21- 26  F6.4  ---     zsdss     [0.8/1.6] SDSS redshift
+  28- 33  F6.4  ---   e_zsdss     [0.0009/0.006] Error in zsdss
+  35- 40  F6.4  ---     zmgii     [0.8/1.6] MgII redshift
+  42- 47  F6.4  ---   e_zmgii     [0.001/0.02] Error in zmgii
+  49- 52  I4    km/s    FWHMfeii  Fe II Full Width at Half Maximum
+  54- 60  F7.2  km/s    FWHMmgii  [1460/9828] Mg II FWHM (1)
+  62- 69  F8.2  km/s  e_FWHMmgii  Error in FWHMmgii
+  71- 75  F5.3  ---     fedd      Eddington Ratio as described in Section 5.2
+                                    (f_Edd_=L_bol_/L_Edd_)
+--------------------------------------------------------------------------------
+Note (1): From the SDSS DR7 Catalog of Quasar Properties
+     (Shen et al. 2011, J/ApJS/194/45).
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                 Greg Schwarz [AAS], Emmanuelle Perret [CDS]    15-Dec-2014

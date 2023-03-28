@@ -1,0 +1,180 @@
+
+From Mortlock+1999 list (Table 1):
+##################################
+MG 0023+171   Binary? OR Hewitt et al. (1987)
+Q 0101.8-3012 Unknown O2 Boyle et al. (1998)
+Q 0151+0448   Binary? O2 Meylan et al. (1990) *
+QJ 0240-343   Unknown O2 Tinney (1995)
+Q 1120-0195   Unknown O2 Meylan & Djorgovski (1988, 1989) *
+PKS 1145-071  Binary O2R Meylan et al. (1987) and Djorgovski et al. (1987)
+Q 1208+1011   Lens?   O2 Magain et al. (1992) and Maoz et al. (1992)
+HS 1216+5032  Binary O2R Hagen et al. (1996)
+Q 1343+2640   Binary O2R Crampton et al. (1988)
+Q 1429-0053   Unknown O2 Hewett et al. (1989)
+**** Q 1634+267    Unknown O2 Djorgovski & Spinrad (1984)
+**** J 1643+3156   Binary O2R Brotherton et al. (1999)
+Q 2138-431    Unknown O2 Hawkins et al. (1997)
+Q 2153-2056   Binary? O2 Hewett et al. (1998)
+MGC 2214+3550 Binary O2R MunÄoz et al. (1998)
+**** Q 2345+007    Lens?   O2 Weedman et al. (1982)  
+
+
+# Now compiling papers and lists of targets from the literature for the years ~1970-2000.
+#########################################################################################
+
+
+System_type , Literature_name , Component_name, Discovery_type, z, z_type, RA, Dec, Coord_lambda_nu, Coord_source, delta_x(arcsec) , delta_x(kpc) , Paper(s) , Bibcode(s) , DOI , Notes
+
+Double Quasar , Ton 155 ; Ton 156 , Ton 155 , Spectroscopic Observations , 1.703 , spec ,  ,  ,  ,  ,  ,  , Stockton+1972 , 1972NPhS..238R..37S , https://doi.org/10.1038/physci238037a0 , Quasars are at significantly different redshifts but are within roughly 35'' of each other. Unlikely to be physically associated with one another.
+Double Quasar , Ton 155 ; Ton 156 , Ton 156 , Spectroscopic Observations , 0.549 , spec ,  ,  ,  ,  ,  ,  , Stockton+1972 , 1972NPhS..238R..37S , https://doi.org/10.1038/physci238037a0 , Quasars are at significantly different redshifts but are within roughly 35'' of each other. Unlikely to be physically associated with one another.
+
+Double Quasar / Grav Lens , (4C11.50) 1548+115 , 1548+115a , Spectroscopic Observations , 0.4359 , spec ,  ,  ,  ,  ,  ,  ,  , Hazard+1973 ; Wampler+1973 ; Stannard+1974 ; Gott+1974 ; Barnothy+1975 , 1973Natur.246..205H ; 1973Natur.246..203W ; 1974Natur.247..527S ; 1974ApJ...190L.105G ; 1975ApJ...198L..61B ,  https://doi.org/10.1038/246205a0 ; https://doi.org/10.1038/246203a0 ; https://doi.org/10.1038/247527a0 ; https://doi.org/10.1086/181517 ;  https://doi.org/10.1086/181811 , Disconcordant redshifts ; QSOs are aligned by lie at significantly different redshifts. Stannard+ finds no radio association between the two. Gott+ argue for a possible lens scenario, but Barnothy+1975 disputes the arguments by Gott+.
+Double Quasar / Grav Lens , (4C11.50) 1548+115 , 1548+115b , Spectroscopic Observations , 1.901 ,  spec ,  ,  ,  ,  ,  ,  ,  , Hazard+1973 ; Wampler+1973 ; Stannard+1974 ; Gott+1974 ; Barnothy+1975 , 1973Natur.246..205H ; 1973Natur.246..203W ; 1974Natur.247..527S ; 1974ApJ...190L.105G ; 1975ApJ...198L..61B ,  https://doi.org/10.1038/246205a0 ; https://doi.org/10.1038/246203a0 ; https://doi.org/10.1038/247527a0 ; https://doi.org/10.1086/181517 ;  https://doi.org/10.1086/181811 , Disconcordant redshifts ; QSOs are aligned by lie at significantly different redshifts. Stannard+ finds no radio association between the two. Gott+ argue for a possible lens scenario, but Barnothy+1975 disputes the arguments by Gott+.
+
+Double Quasar , 0254-334/R ; 0254-334/2 , 0254-334/R , Two-Color Plates / Spectroscopic follow-up , 1.915 , spec ,  ,  ,  ,  ,  ,  , Peterson+1976 , 1976ApJ...207L...5P , https://doi.org/10.1086/182165 , Pairs of QSOs but no obvious relation between the redshifts of the pairs. These pairs are confirmed here, but other candidates were found in previous works and not followed-up here.  
+Double Quasar , 0254-334/R ; 0254-334/2 , 0254-334/2 , Two-Color Plates / Spectroscopic follow-up , 1.849 , spec ,  ,  ,  ,  ,  ,  , Peterson+1976 , 1976ApJ...207L...5P , https://doi.org/10.1086/182165 , Pairs of QSOs but no obvious relation between the redshifts of the pairs. These pairs are confirmed here, but other candidates were found in previous works and not followed-up here.  
+Double Quasar , 2143-156/R ; 2143-156/2 , 2143-156/R , Two-Color Plates / Spectroscopic follow-up , 0.700 , spec ,  ,  ,  ,  ,  ,  , Peterson+1976 , 1976ApJ...207L...5P , https://doi.org/10.1086/182165 , Pairs of QSOs but no obvious relation between the redshifts of the pairs. These pairs are confirmed here, but other candidates were found in previous works and not followed-up here.  
+Double Quasar , 2143-156/R ; 2143-156/2 , 2143-156/2 , Two-Color Plates / Spectroscopic follow-up , 2.055 , spec ,  ,  ,  ,  ,  ,  , Peterson+1976 , 1976ApJ...207L...5P , https://doi.org/10.1086/182165 , Pairs of QSOs but no obvious relation between the redshifts of the pairs. These pairs are confirmed here, but other candidates were found in previous works and not followed-up here.  
+
+
+Double Quasar , 2320—035 ,  , Two-Color Plates / Spectroscopic follow-up , 1.411 , spec ,  ,  ,  ,  ,  , Bolton+1976 , 1976ApJ...210L...1B , https://doi.org/10.1086/182289 , Pair of QSOs but with disconcordant redshifts  
+Double Quasar , 2320—035 ,  , Two-Color Plates / Spectroscopic follow-up , 2.041 , spec ,  ,  ,  ,  ,  , Bolton+1976 , 1976ApJ...210L...1B , https://doi.org/10.1086/182289 , Pair of QSOs but with disconcordant redshifts
+
+
+##################
+# Above is double quasars / lens candidates with DISSIMILAR redshifts.
+# Below if my list of targets (mostly drawn from Mortlock+ and Kochanek+) of binary quasars / lens candidates with CLOSE separations, in order of year.
+##################
+
+System_type , Literature_name , Component_name, Discovery_type, z, z_type, RA, Dec, Coord_lambda_nu, Coord_source, delta_x(arcsec) , delta_x(kpc) , Paper(s) , Bibcode(s) , DOI , Notes
+
+Binary Quasar / Lens , 2345+007 , 2345+007A , Low-Dispersion Spectroscopy , 2.152 , spec ,  ,  ,  ,  ,  7.3 ,  , Weedman+1982 ; Wier+1991 ; Duncan+1991 ; Steidel+1991 ; Bonnet+1993 ; Fischer+1994 ; Mellier+1994 ; Patnaik+1996 ; Dolan+1996 ; Small+1997 ; Green+2002 , 1982ApJ...255L...5W ; 1991AJ....101...66W ; 1991ApJ...375L..41D ; 1991AJ....102.1610S ; 1993A&A...280L...7B ; 1994ApJ...431L..71F ; 1994A&A...289L..15M ; 1996MNRAS.281L..17P ; 1996Ap&SS.240..295D ; 1997AJ....114.2254S ;  2002ApJ...571..721G , https://doi.org/10.1086/183759 ; https://doi.org/10.1086/115666 ; https://doi.org/10.1086/186083 ; https://doi.org/10.1086/115983 ; NA ; https://doi.org/10.1086/187475 ; NA ; https://doi.org/10.1093/mnras/281.2.L17 ; https://doi.org/10.1007/BF00639593 ; https://doi.org/10.1086/118645 ; https://doi.org/10.1086/340051 , No X-ray evidence for a foreground lensing cluster found by Green+2002 and no lens identified; X-ray continua are found to be incompatible as are the optical to X-ray flux ratios; the optical spectral similarities remains a mystery
+Binary Quasar / Lens , 2345+007 , 2345+007B , Low-Dispersion Spectroscopy , 2.147 , spec ,  ,  ,  ,  ,  7.3 ,  , Weedman+1982 ; Wier+1991 ; Duncan+1991 ; Steidel+1991 ; Bonnet+1993 ; Fischer+1994 ; Mellier+1994 ; Patnaik+1996 ; Dolan+1996 ; Small+1997 ; Green+2002 , 1982ApJ...255L...5W ; 1991AJ....101...66W ; 1991ApJ...375L..41D ; 1991AJ....102.1610S ; 1993A&A...280L...7B ; 1994ApJ...431L..71F ; 1994A&A...289L..15M ; 1996MNRAS.281L..17P ; 1996Ap&SS.240..295D ; 1997AJ....114.2254S ;  2002ApJ...571..721G , https://doi.org/10.1086/183759 ; https://doi.org/10.1086/115666 ; https://doi.org/10.1086/186083 ; https://doi.org/10.1086/115983 ; NA ; https://doi.org/10.1086/187475 ; NA ; https://doi.org/10.1093/mnras/281.2.L17 ; https://doi.org/10.1007/BF00639593 ; https://doi.org/10.1086/118645 ; https://doi.org/10.1086/340051 , No X-ray evidence for a foreground lensing cluster found by Green+2002 and no lens identified; X-ray continua are found to be incompatible as are the optical to X-ray flux ratios; the optical spectral similarities remains a mystery
+
+Binary Quasar / Lens , 1635+267 , 1635+267A , Slitless Spectroscopic Survey / CCD spectra and imaging , 1.961 , spec ,  ,  ,  ,  ,  ,  , Djorgovski+1984 ; Steidel+1991 ; Small+1997 ; Peng+1999 , 1984ApJ...282L...1D ; 1991AJ....102.1610S ; 1997AJ....114.2254S ; 1999ApJ...524..572P , https://doi.org/10.1086/184291 ; https://doi.org/10.1086/115983 ; https://doi.org/10.1086/118645 ; https://doi.org/10.1086/307860 , Spectra have striking similarities but no evidence for a lensing cluster of galaxy even in HST imaging
+Binary Quasar / Lens , 1635+267 , 1635+267B , Slitless Spectroscopic Survey / CCD spectra and imaging , 1.961 , spec ,  ,  ,  ,  ,  ,  , Djorgovski+1984 ; Steidel+1991 ; Small+1997 ; Peng+1999 , 1984ApJ...282L...1D ; 1991AJ....102.1610S ; 1997AJ....114.2254S ; 1999ApJ...524..572P , https://doi.org/10.1086/184291 ; https://doi.org/10.1086/115983 ; https://doi.org/10.1086/118645 ; https://doi.org/10.1086/307860 , Spectra have striking similarities but no evidence for a lensing cluster of galaxy even in HST imaging
+
+Dual AGN , 3C 75 , 3C 75 ,  ,  ,  ,  ,  ,  ,  ,  ,  , Owen+1985 , 1985ApJ...294L..85O , https://doi.org/10.1086/184514 , 
+Dual AGN , 3C 75 , 3C 75 ,  ,  ,  ,  ,  ,  ,  ,  ,  , Owen+1985 , 1985ApJ...294L..85O , https://doi.org/10.1086/184514 , 
+
+Dual AGN/Quasar Candidate , PKS 1614+051 , PKS 1614+051 QSO , Narrow-band imaging / Spectroscopic confirmation , 3.209 , spec ,  ,  ,  ,  ,  ,  , Djorgovski+1985 ; Djorgovski+1987 ; Hu+1987 , 1985ApJ...299L...1D ; 1987AJ.....93.1318D ; 1987ApJ...317L...7H , https://doi.org/10.1086/184569 ; https://doi.org/10.1086/114414 ; https://doi.org/10.1086/184902 , Possible QSO-AGN pair at similar redshifts but note the redshift differences as these might be further away than originally thought ; Hu+1987 call into question interepretation and conclude that companion is likely just an ionized gas cloud
+Dual AGN/Quasar Candidate , PKS 1614+051 , PKS 1614+051 A   , Narrow-band imaging / Spectroscopic confirmation , 3.215 , spec ,  ,  ,  ,  ,  ,  , Djorgovski+1985 ; Djorgovski+1987 ; Hu+1987 , 1985ApJ...299L...1D ; 1987AJ.....93.1318D ; 1987ApJ...317L...7H , https://doi.org/10.1086/184569 ; https://doi.org/10.1086/114414 ; https://doi.org/10.1086/184902 , Possible QSO-AGN pair at similar redshifts but note the redshift differences as these might be further away than originally thought ; Hu+1987 call into question interepretation and conclude that companion is likely just an ionized gas cloud
+
+Binary Quasar , PKS 1145-071 , PKS 1145-071A , Optical Spectroscopic Observations , 1.345 , spec ,  ,  ,  ,  , 4.2 ,  , Djorgovski+1987 , 1987ApJ...321L..17D , https://doi.org/10.1086/184998 ,  
+Binary Quasar , PKS 1145-071 , PKS 1145-071B , Optical Spectroscopic Observations , 1.345 , spec ,  ,  ,  ,  , 4.2 ,  , Djorgovski+1987 , 1987ApJ...321L..17D , https://doi.org/10.1086/184998 ,  
+
+Dual AGN Candidate , NGC 5548 , NGC 5548 , Optical Spectroscopy ,  ,  ,  ,  ,  ,  ,  ,  , Peterson+1987 , 1987ApJ...312L...1P , https://doi.org/10.1086/184808 , Distinct BLR emitting regions can be plausibly explained via a dual AGN scenario. Not conclusive at this point.
+Dual AGN Candidate , NGC 5548 , NGC 5548 , Optical Spectroscopy ,  ,  ,  ,  ,  ,  ,  ,  , Peterson+1987 , 1987ApJ...312L...1P , https://doi.org/10.1086/184808 , Distinct BLR emitting regions can be plausibly explained via a dual AGN scenario. Not conclusive at this point.
+
+Lens / Binary Quasar Candidate , 0023+171 , 0023+171 AB_opt , Radio Imaging / Optical Spectroscopic Follow-up , 0.946 , spec ,  ,  ,  ,  , 4.8 ,  , Hewitt+1987 , 1987ApJ...321..706H , https://doi.org/10.1086/165663 , Separation of optical sources AB_opt and C is 4.8 arcsec but separation of radio sources is roughly 5.9 arcsec
+Lens / Binary Quasar Candidate , 0023+171 , 0023+171 C      , Radio Imaging / Optical Spectroscopic Follow-up , 0.946 , spec ,  ,  ,  ,  , 4.8 ,  , Hewitt+1987 , 1987ApJ...321..706H , https://doi.org/10.1086/165663 , Separation of optical sources AB_opt and C is 4.8 arcsec but separation of radio sources is roughly 5.9 arcsec
+
+Binary SMBH Candidate , Arp 102B , Arp 102B , Optical Spectroscopy ,  ,  ,  ,  ,  ,  ,  ,  , Halpern+1988 ; Miller+1990 , 1988Natur.331...46H ; 1990ApJ...361...98M , https://doi.org/10.1038/331046a0 ; https://doi.org/10.1086/169170 , Halpern+1988 test binary hypothesis based on offset broad emission line but no firm conclusion made
+Binary SMBH Candidate , Arp 102B , Arp 102B , Optical Spectroscopy ,  ,  ,  ,  ,  ,  ,  ,  , Halpern+1988 ; Miller+1990 , 1988Natur.331...46H ; 1990ApJ...361...98M , https://doi.org/10.1038/331046a0 ; https://doi.org/10.1086/169170 , Halpern+1988 test binary hypothesis based on offset broad emission line but no firm conclusion made
+
+Binary AGN Candidate , OJ 287 , OJ 287 , Optical Monitoring / Light Curve Variability , 0.306 , spec , ,  ,  ,  ,  ,  , Salanpää+1988 , 1988ApJ...325..628S , https://doi.org/10.1086/166033 , Proposed as a SMBH binary with separation ~0.1pc.
+Binary AGN Candidate , OJ 287 , OJ 287 , Optical Monitoring / Light Curve Variability , 0.306 , spec , ,  ,  ,  ,  ,  , Salanpää+1988 , 1988ApJ...325..628S , https://doi.org/10.1086/166033 , Proposed as a SMBH binary with separation ~0.1pc.
+
+Binary Quasar / lens candidate , 1343.4+2640 , 1343.4+2640A , Plate identification / Spectroscopic Confirmation , 2.0312 , spec ,  ,  ,  ,  , 9.5 ,  , Crampton+1988 ; Crotts+1994 ; Dinshaw+1994 , 1988ApJ...330..184C ; 1994ApJ...437L..79C ; 1994ApJ...437L..87D , https://doi.org/10.1086/166465 ; https://doi.org/10.1086/187687 ;  https://doi.org/10.1086/187689 , Redshifts from Crampton+1988 but Dinshaw+1994 quote slightly different redshifts
+Binary Quasar / lens candidate , 1343.4+2640 , 1343.4+2640B , Plate identification / Spectroscopic Confirmation , 2.0313 , spec ,  ,  ,  ,  , 9.5 ,  , Crampton+1988 ; Crotts+1994 ; Dinshaw+1994 , 1988ApJ...330..184C ; 1994ApJ...437L..79C ; 1994ApJ...437L..87D , https://doi.org/10.1086/166465 ; https://doi.org/10.1086/187687 ;  https://doi.org/10.1086/187689 , Redshifts from Crampton+1988 but Dinshaw+1994 quote slightly different redshifts
+
+Dual AGN Candidate , Mrk 266 , Mrk 266 , CCD Photometry / Spectroscopy ,  ,  ,  ,  ,  ,  ,  ,  , Mazzarella+1988 , 1988ApJ...333..168M , https://doi.org/10.1086/166733 , Dual candidate and see earlier papers by Petrosian+1980 Osterbrock+1983 and Kollatschny+1984 about optical spectroscopy.
+Dual AGN Candidate , Mrk 266 , Mrk 266 , CCD Photometry / Spectroscopy ,  ,  ,  ,  ,  ,  ,  ,  , Mazzarella+1988 , 1988ApJ...333..168M , https://doi.org/10.1086/166733 , Dual candidate and see earlier papers by Petrosian+1980 Osterbrock+1983 and Kollatschny+1984 about optical spectroscopy.
+
+Binary Quasar / Lens Candidate , UM 425 , UM 425A , CCD imaging / Spectroscopic confirmation , 1.465 , spec ,  ,  ,  ,  , 6.5 ,  , Meylan+1989 ; Kochanek+1993 , 1989ApJ...338L...1M ; 1993ApJ...417..438K , https://doi.org/10.1086/185386 ; https://doi.org/10.1086/173324 , 
+Binary Quasar / Lens Candidate , UM 425 , UM 425B , CCD imaging / Spectroscopic confirmation , 1.465 , spec ,  ,  ,  ,  , 6.5 ,  , Meylan+1989 ; Kochanek+1993 , 1989ApJ...338L...1M ; 1993ApJ...417..438K , https://doi.org/10.1086/185386 ; https://doi.org/10.1086/173324 , 
+
+Binary Quasar / Lens Candidate , Q1429—008 , Q1429—008A , Plate Imaging / Spectroscopic Follow-up , 2.076 , spec ,  ,  ,  ,  , 5.14 ,  , Hewett+1989 , 1989ApJ...346L..61H , https://doi.org/10.1086/185579 , Considered a lens candidate by Hewett+89 but binary interpretation cannot be ruled out
+Binary Quasar / Lens Candidate , Q1429—008 , Q1429—008B , Plate Imaging / Spectroscopic Follow-up , 2.076 , spec ,  ,  ,  ,  , 5.14 ,  , Hewett+1989 , 1989ApJ...346L..61H , https://doi.org/10.1086/185579 , Considered a lens candidate by Hewett+89 but binary interpretation cannot be ruled out
+
+Binary Quasar , PHL 1222, PHL 1222A , CCD Imaging / Spectroscopic Confirmation , 1.91 , spec ,  ,  ,  ,  , 3.3 ,  , Meylan+1990 ,  1990Msngr..59...47M ,  ,   
+Binary Quasar , PHL 1222, PHL 1222A , CCD Imaging / Spectroscopic Confirmation , 1.91 , spec ,  ,  ,  ,  , 3.3 ,  , Meylan+1990 ,  1990Msngr..59...47M ,  ,   
+
+Dual AGN Candidate , Arp 220 , Arp 220A , Infrared Imaging ,  ,  ,  ,  ,  ,  ,  ,  , Graham+1990 ,  1990ApJ...354L...5G , https://doi.org/10.1086/185709 , 
+Dual AGN Candidate , Arp 220 , Arp 220B , Infrared Imaging ,  ,  ,  ,  ,  ,  ,  ,  , Graham+1990 , 1990ApJ...354L...5G , https://doi.org/10.1086/185709 , 
+
+******* Gravitational Lens , Q1009-0252 , Q1009-0252A , CCD Imaging / Optical Spectroscopic Follow-up , 2.739 , spec ,  ,  ,  ,  , 1.53 ,  , Hewett+1994 ; Lehár+2000 , 1994AJ....108.1534H ; 2000ApJ...536..584L , https://doi.org/10.1086/117174 ; Https://doi.org/10.1086/308963 , Considered a good candidate for a lens system but the bianry hypothesis cannot be ruled out by Hewett+ ; Lehar+2000 identified the lens galaxy in HST imaging
+******* Gravitational Lens , Q1009-0252 , Q1009-0252B , CCD Imaging / Optical Spectroscopic Follow-up , 2.739 , spec ,  ,  ,  ,  , 1.53 ,  , Hewett+1994 ; Lehár+2000 , 1994AJ....108.1534H ; 2000ApJ...536..584L , https://doi.org/10.1086/117174 ; Https://doi.org/10.1086/308963 , Considered a good candidate for a lens system but the bianry hypothesis cannot be ruled out by Hewett+ ; Lehar+2000 identified the lens galaxy in HST imaging
+
+Binary AGN / Lens Candidate , Q1208+1011 , Q1208+1011A , CCD Imaging , 3.803 ,  ,  ,  ,  ,  , 0.45 ,  , Magain+1992 ; Maoz+1992 ; Hjorn+1995 ; Giallongo+1999 , 1992A&A...253L..13M ; 1992ApJ...386L...1M ; 1995A&A...299..365H ; 1999ApJ...510..605G , NA ; https://doi.org/10.1086/186278 ; NA ; https://doi.org/10.1086/306636 , Maoz+1992 really seems to put the question of lens or binary to rest as they resolve the quasar into three separate sources but I will keep this target in this list for now (as of Sept 1 2020)
+Binary AGN / Lens Candidate , Q1208+1011 , Q1208+1011B , CCD Imaging , 3.803 ,  ,  ,  ,  ,  , 0.45 ,  , Magain+1992 ; Maoz+1992 ; Hjorn+1995 ; Giallongo+1999 , 1992A&A...253L..13M ; 1992ApJ...386L...1M ; 1995A&A...299..365H ; 1999ApJ...510..605G , NA ; https://doi.org/10.1086/186278 ; NA ; https://doi.org/10.1086/306636 , Maoz+1992 really seems to put the question of lens or binary to rest as they resolve the quasar into three separate sources but I will keep this target in this list for now (as of Sept 1 2020)
+
+Binary AGN / Lens Candidate, HS 1216+5032 , HS 1216+5032A , Imaging / Spectroscopic Confirmation , 1.455 , spec ,  ,  ,  ,  , 9.1 ,  , Hagen+1996 ; Lopez+2000 , 1996A&A...308L..25H , NA , Redshifts adopted from Lopez+2000 and Lopez+ point out that the lens interpreation cannot yet be ruled out.
+Binary AGN / Lens Candidate, HS 1216+5032 , HS 1216+5032B , Imaging / Spectroscopic Confirmation , 1.451 , spec ,  ,  ,  ,  , 9.1 ,  , Hagen+1996 ; Lopez+2000 , 1996A&A...308L..25H , NA , Redshifts adopted from Lopez+2000 and Lopez+ point out that the lens interpreation cannot yet be ruled out.
+
+Binary AGN Candidate , RX J1042+1212 , RX J1042+1212 , X-ray Selection / Optical Spectroscopic Follow-up , 0.271 ,  ,  ,  ,  ,  ,  ,  , Puchnarewicz+1996 , 1996MNRAS.283.1311P , https://doi.org/10.1093/mnras/283.4.1311 , 
+Binary AGN Candidate , RX J1042+1212 , RX J1042+1212 , X-ray Selection / Optical Spectroscopic Follow-up , 0.271 ,  ,  ,  ,  ,  ,  ,  , Puchnarewicz+1996 , 1996MNRAS.283.1311P , https://doi.org/10.1093/mnras/283.4.1311 , 
+
+Binary SMBH Candidate , OX 169 , OX 169 , Optical Spectroscopy / Double-peaked Optical Emission lines , 0.21 ,  ,  ,  ,  ,  ,  ,  , Stockton+1991 , 1991ApJ...371..525S , https://doi.org/10.1086/169916 , 
+Binary SMBH Candidate , OX 169 , OX 169 , Optical Spectroscopy / Double-peaked Optical Emission lines , 0.21 ,  ,  ,  ,  ,  ,  ,  , Stockton+1991 , 1991ApJ...371..525S , https://doi.org/10.1086/169916 , 
+
+Binary SMBH Candidate , 3C 390.3 , 3C 390.3 , Optical Spectroscopy / Double-peaked Optical Emission lines ,  ,  ,  ,  ,  ,  ,  ,  , Zheng+1991 , 1991ApJ...381..418Z , https://doi.org/10.1086/170664 , 
+Binary SMBH Candidate , 3C 390.3 , 3C 390.3 , Optical Spectroscopy / Double-peaked Optical Emission lines ,  ,  ,  ,  ,  ,  ,  ,  , Zheng+1991 , 1991ApJ...381..418Z , https://doi.org/10.1086/170664 , 
+
+Lens / Binary Quasar Candidate , QJ0240-343AB , QJ0240-343A , CCD Imaging / Optical Spectroscopic Follow-up , 1.406 , spec ,  ,  ,  ,  , 6.1 ,  , Tinney+1995 , 1995MNRAS.277..609T , https://doi.org/10.1093/mnras/277.2.609 , Likely lens but a binary hypothesis could not be ruled out
+Lens / Binary Quasar Candidate , QJ0240-343AB , QJ0240-343B , CCD Imaging / Optical Spectroscopic Follow-up , 1.406 , spec ,  ,  ,  ,  , 6.1 ,  , Tinney+1995 , 1995MNRAS.277..609T , https://doi.org/10.1093/mnras/277.2.609 , Likely lens but a binary hypothesis could not be ruled out
+
+Binary Quasar / Lens Candidate , Q2138-431 , Q2138-431A , METHOD?? , 1.641 , spec ,  ,  ,  ,  , 4.5 ,  , Hawkins+1997 , 1997MNRAS.291..811H , https://doi.org/10.1093/mnras/291.4.811 , Dark lens hypothesis argued to be the best explanation by Hawkins+1997 but binary interpretation cannot be ruled out
+Binary Quasar / Lens Candidate , Q2138-431 , Q2138-431B , METHOD?? , 1.641 , spec ,  ,  ,  ,  , 4.5 ,  , Hawkins+1997 , 1997MNRAS.291..811H , https://doi.org/10.1093/mnras/291.4.811 , Dark lens hypothesis argued to be the best explanation by Hawkins+1997 but binary interpretation cannot be ruled out
+
+Binary Quasar , MGC 2214+3550 , MGC 2214+3550A , CCD Imaging / Spectroscopic Follow-up , 0.88 , spec ,  ,  ,  ,  , 3.0 ,  , Muñoz+1998 ,  1998ApJ...492L...9M , https://doi.org/10.1086/311093 , 
+Binary Quasar , MGC 2214+3550 , MGC 2214+3550B , CCD Imaging / Spectroscopic Follow-up , 0.88 , spec ,  ,  ,  ,  , 3.0 ,  , Muñoz+1998 ,  1998ApJ...492L...9M , https://doi.org/10.1086/311093 , 
+
+Binary Quasar / Lens Candidate , 2153-2056 , 2153-2056A , Plate Imaging / Spectroscopic Follow-up , 1.845 , spec ,  ,  ,  ,  , 7.8 , Hewitt+1998 , 1998AJ....115..383H , https://doi.org/10.1086/300224 , 
+Binary Quasar / Lens Candidate , 2153-2056 , 2153-2056B , Plate Imaging / Spectroscopic Follow-up , 1.845 , spec ,  ,  ,  ,  , 7.8 , Hewitt+1998 , 1998AJ....115..383H , https://doi.org/10.1086/300224 , 
+
+Binary Quasar / Lens Candidate , Q0101.8-3012 , Q0101.8-3012A , Optical Spectroscopic Follow-up , 0.89 , spec ,  ,  ,  ,  , 17 ,  , Boyle+1999 , 1999RSPTA.357..185B , https://doi.org/10.1098/rsta.1999.0322 , Few details are provided by Boyle+1999 but it is considered a lens candidate though certainly the binary interpretation cannot be ruled out; the spectra look similar although B has a huge Mg II absorption trough and A does not
+Binary Quasar / Lens Candidate , Q0101.8-3012 , Q0101.8-3012B , Optical Spectroscopic Follow-up , 0.89 , spec ,  ,  ,  ,  , 17 ,  , Boyle+1999 , 1999RSPTA.357..185B , https://doi.org/10.1098/rsta.1999.0322 , Few details are provided by Boyle+1999 but it is considered a lens candidate though certainly the binary interpretation cannot be ruled out; the spectra look similar although B has a huge Mg II absorption trough and A does not
+
+Dual AGN / Binary Quasar , FIRST J164311.3+315618 , FIRST J164311.3+315618A , Optical Spectroscopy / Infrared Imaging / Radio Imaging , 0.586 , spec ,  ,  ,  ,  , 2.3 ,  , Brotherton+1999 , 1999ApJ...514L..61B , https://doi.org/10.1086/311956 , Lens hypthesis ruled out based on extreme differences between the optical flux ratio and radio flux ratio of the two sources ; Source A is a quasar and source B is a Seyfert 1. 
+Dual AGN / Binary Quasar , FIRST J164311.3+315618 , FIRST J164311.3+315618B , Optical Spectroscopy / Infrared Imaging / Radio Imaging , 0.586 , spec ,  ,  ,  ,  , 2.3 ,  , Brotherton+1999 , 1999ApJ...514L..61B , https://doi.org/10.1086/311956 , Lens hypthesis ruled out based on extreme differences between the optical flux ratio and radio flux ratio of the two sources ; Source A is a quasar and source B is a Seyfert 1. 
+
+Binary Quasar / Lens Candidate , CTQ 839 , CTQ 839A , Optical Imaging / Infrared Imaging / Optical Spectroscopy , 2.24 , spec ,  ,  ,  ,  , 2.1 ,  , Morgan+2000 , 2000AJ....119.1083M , https://doi.org/10.1086/301271 , Spectral dissimilarities and broadband flux ratios as well as lack of lens argue in favor of binary hypothesis
+Binary Quasar / Lens Candidate , CTQ 839 , CTQ 839B , Optical Imaging / Infrared Imaging / Optical Spectroscopy , 2.24 , spec ,  ,  ,  ,  , 2.1 ,  , Morgan+2000 , 2000AJ....119.1083M , https://doi.org/10.1086/301271 , Spectral dissimilarities and broadband flux ratios as well as lack of lens argue in favor of binary hypothesis
+
+Lens / Binary Quasar Candidate , HE 0512-3329 , HE 0512-3329 , HST Imaging / Ground-based Spectroscopy , 1.565 , spec ,  ,  ,  ,  , 0.622 ,  , Gregg+2000 , 2000AJ....119.2535G , https://doi.org/10.1086/301377 , Very likely to be a lens rather than a binary ; redshifts correspond to the redshift of component A
+Lens / Binary Quasar Candidate , HE 0512-3329 , HE 0512-3329 , HST Imaging / Ground-based Spectroscopy , 1.565 , spec ,  ,  ,  ,  , 0.622 ,  , Gregg+2000 , 2000AJ....119.2535G , https://doi.org/10.1086/301377 , Very likely to be a lens rather than a binary ; redshifts correspond to the redshift of component A
+
+Binary Quasar , SDSSp J143952.58-003359.2 , SDSSp J143952.58-003359.2A , Optical Spectroscopy , 4.25 , spec ,  ,  ,  ,  , 33.4 ,  , Schneider+2000 , 2000AJ....120.2183S , https://doi.org/10.1086/316834 , 
+Binary Quasar , SDSSp J143952.58-003359.2 , SDSSp J143952.58-003359.2B , Optical Spectroscopy , 4.25 , spec ,  ,  ,  ,  , 33.4 ,  , Schneider+2000 , 2000AJ....120.2183S , https://doi.org/10.1086/316834 , 
+
+Binary Quasar / Lens Candidate , RX J0921+4529 , RX J0921+4529A , Optical Spectroscopy / Optical Imaging , 1.66 , spec ,  ,  ,  ,  , 6.93 ,  , Muñoz+2001a , 2001ApJ...546..769M , https://doi.org/10.1086/318322 , This is very likely a lens system but is only included because they could not conclusively rule out the binary hypothesis but there is indeed a lens candidate in between the two quasar images
+Binary Quasar / Lens Candidate , RX J0921+4529 , RX J0921+4529B , Optical Spectroscopy / Optical Imaging , 1.66 , spec ,  ,  ,  ,  , 6.93 ,  , Muñoz+2001a , 2001ApJ...546..769M , https://doi.org/10.1086/318322 , This is very likely a lens system but is only included because they could not conclusively rule out the binary hypothesis but there is indeed a lens candidate in between the two quasar images
+
+Lens / Binary Quasar Candidate , FBQ 1633+3134 , FBQ 1633+3134A , CCD Imaging / Optical Spectroscopy , 1.52 , spec ,  ,  ,  ,  , 0.663 ,  , Morgan+2001 , 2001AJ....121..611M , https://doi.org/10.1086/318744 , Considered a good lens candidate but without the detection of a foreground lens candidate the binary hypothesis cannot be ruled out
+Lens / Binary Quasar Candidate , FBQ 1633+3134 , FBQ 1633+3134B , CCD Imaging / Optical Spectroscopy , 1.52 , spec ,  ,  ,  ,  , 0.663 ,  , Morgan+2001 , 2001AJ....121..611M , https://doi.org/10.1086/318744 , Considered a good lens candidate but without the detection of a foreground lens candidate the binary hypothesis cannot be ruled out
+
+Binary Quasar , LBQS 0103-2753 , LBQS 0103-2753A , HST UV Spectroscopy , 0.834 , spec ,  ,  ,  ,  , 0.30 ,  , Junkkarinen+2001 , 2001ApJ...549L.155J , https://doi.org/10.1086/319173 , 
+Binary Quasar , LBQS 0103-2753 , LBQS 0103-2753B , HST UV Spectroscopy , 0.858 , spec ,  ,  ,  ,  , 0.30 ,  , Junkkarinen+2001 , 2001ApJ...549L.155J , https://doi.org/10.1086/319173 , 
+
+Binary Quasar , SDSS J233646.2-010732.6 , SDSS J2336-0107A , Infrared Imaging / Optical Spectroscopy , 1.2853 , spec ,  ,  ,  ,  , 1.67 ,  , Gregg+2002 , 2002ApJ...571..721G , https://doi.org/10.1086/340051 , Component B is a FeLoBAL quasar ; the striking differences in the spectra and short time delay rule out a lens interpretation
+Binary Quasar , SDSS J233646.2-010732.6 , SDSS J2336-0107B , Infrared Imaging / Optical Spectroscopy , 1.2871 , spec ,  ,  ,  ,  , 1.67 ,  , Gregg+2002 , 2002ApJ...571..721G , https://doi.org/10.1086/340051 , Component B is a FeLoBAL quasar ; the striking differences in the spectra and short time delay rule out a lens interpretation
+
+Binary Quasar , LBQS 0015+0239 , LBQS 0015+0239A , CCD Imaging / Optical Spectroscopy , 2.4747 , spec ,  ,  ,  ,  , 2.2 ,  , Impey+2002 , 2002ApJ...574..623I , https://doi.org/10.1086/341064 , Binary interpretation is favored for this system due to a lack of a lens ; dissimilarities in the N V and C IV emission line profiles; and the line of sight velocity difference.
+Binary Quasar , LBQS 0015+0239 , LBQS 0015+0239B , CCD Imaging / Optical Spectroscopy , 2.4831 , spec ,  ,  ,  ,  , 2.2 ,  , Impey+2002 , 2002ApJ...574..623I , https://doi.org/10.1086/341064 , Binary interpretation is favored for this system due to a lack of a lens ; dissimilarities in the N V and C IV emission line profiles; and the line of sight velocity difference.
+
+
+
+
+Dual AGN , NGC 6240 , Komossa+2003 , 2003ApJ...582L..15K , https://doi.org/10.1086/346145 , 
+Dual AGN , NGC 6240 , Komossa+2003 , 2003ApJ...582L..15K , https://doi.org/10.1086/346145 , 
+
+Binary SMBH Candidate , 3C 66B , Sudou+2003 , 2003Sci...300.1263S , https://doi.org/10.1126/science.1082817 , 
+Binary SMBH Candidate , 3C 66B , Sudou+2003 , 2003Sci...300.1263S , https://doi.org/10.1126/science.1082817 , 
+
+Binary Quasar Candidate , PKS 0537-441 , Heidt+2003 , 2003A&A...406..565H , https://doi.org/10.1051/0004-6361:20030804 , 
+Binary Quasar Candidate , PKS 0537-441 , Heidt+2003 , 2003A&A...406..565H , https://doi.org/10.1051/0004-6361:20030804 , 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,199 @@
+J/ApJ/678/635    Spectroscopy of quasar binary candidates         (Myers+, 2008)
+================================================================================
+Quasar clustering at 25 h^-1^ kpc from a complete sample of binaries.
+    Myers A.D., Richards G.T., Brunner R.J., Schneider D.P., Strand N.E.,
+    Hall P.B., Blomquist J.A., York D.G.
+   <Astrophys. J., 678, 635-646 (2008)>
+   =2008ApJ...678..635M
+================================================================================
+ADC_Keywords: Binaries, spectroscopic ; Redshifts ; QSOs
+Keywords: cosmology: observations - large-scale structure of universe -
+          quasars: general - surveys
+
+Abstract:
+    We present spectroscopy of binary quasar candidates, with component
+    separations of 3"<={Delta}{theta}<6", selected from SDSS DR4 using
+    kernel density estimation (KDE). Of our 27 new quasar pair
+    observations, 10 are binary quasars, which doubles the number of known
+    g<21 binaries with 3"<={Delta}{theta}<6" separations. Several of our
+    observed binaries are wide-separation lens candidates that merit
+    additional higher resolution spectroscopy, as well as deep imaging to
+    search for lensing galaxies. Our candidates are initially selected by
+    UV excess (u-g<1), but are otherwise selected irrespective of the
+    relative colors of the quasar pair, and we thus use them to suggest
+    optimal color similarity and photometric redshift approaches for
+    targeting binary quasars or projected quasar pairs. We find that a
+    third or more of all binary quasars have quite dissimilar components
+    on the basis of a typical color similarity criterion
+    ({chi}^2^_color_<~20). From a sample that is complete on proper scales
+    of 23.7h^-1^kpc<R_prop_<29.9h^-1^kpc, we determine the projected
+    quasar correlation function.
+
+Description:
+    Spectroscopy of our DR4 KDE binary quasar candidates was obtained with
+    the Ritchey-Chretien Spectrograph on the Mayall 4m telescope at Kitt
+    Peak National Observatory (KPNO) over five nights (UT 2007 February
+    22-26). We used a 1.5"x98" long slit set at the position angle of the
+    candidate binary, which allowed both components to be simultaneously
+    observed.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat    104       10   DR4 KDE candidate binaries for which we have
+                             observed one member
+table2.dat    104       16  *Confirmed binary quasars in the DR4 KDE
+                             candidate sample
+table3.dat    104       20   Confirmed projected pairs in the DR4 KDE
+                             candidate sample
+table4.dat    104        8  *Ambiguous pairs in the DR4 KDE binary quasar
+                             candidate sample
+table5.dat    100       46   Previously identified DR4 KDE binary quasar
+                             candidates with 3"<={Delta}{theta}<6"
+--------------------------------------------------------------------------------
+Note on table2.dat: We define a binary quasar by a line-of-sight velocity
+     difference of |{Delta}v_//_|<2000km/s in the rest frame of either
+     component. The pair containing SDSS J143002.66+071415.6 has a velocity
+     difference of |{Delta}v_//_|=2000+/-400km/s, which is just inside our
+     definition of a binary. Components are denoted A and B such that the
+     position angle from A to B lies between 0{deg} and 180{deg}.
+Note on table4.dat: The ambiguities, and why we conclude that SDSS
+     J1235+6836 and SDSS J1507+2903 are binaries but the other pairs are
+     not, are discussed in Section 2.2.2.
+--------------------------------------------------------------------------------
+
+See also:
+   VII/260 : The SDSS-DR7 quasar catalog (Schneider+, 2010)
+   VII/258 : Quasars and Active Galactic Nuclei (13th Ed.) (Veron+ 2010)
+   J/AJ/135/496    : SDSS quasar lens search. II. (Inada+, 2008)
+   J/ApJS/175/29   : Spectroscopy of QSO pairs (Marble+, 2008)
+   J/ApJ/658/99    : Pairs of QSO in SDSS-DR4 (Myers+, 2007)
+   J/AJ/131/1      : Binary quasars in the SDSS (Hennawi+, 2006)
+   J/MNRAS/311/456 : RIXOS source catalogue (Mason+, 2000)
+
+Byte-by-byte Description of file: table1.dat table2.dat table3.dat table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units    Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4    ---      ---      [SDSS]
+   6- 24  A19   ---      SDSS     SDSS designation (JHHMMSS.ss+DDMMSS.s or
+                                  JHHMM+DDMMA)
+  26- 27  I2    h        RAh      Hour of right ascension (J2000)
+  29- 30  I2    min      RAm      Minute of right ascension (J2000)
+  32- 37  F6.3  s        RAs      Second of right ascension (J2000)
+      39  A1    ---      DE-      Declination sign (J2000)
+  40- 41  I2    deg      DEd      Degree of declination (J2000)
+  43- 44  I2    arcmin   DEm      Arcminute of declination (J2000)
+  46- 50  F5.2  arcsec   DEs      Arcsecond of declination (J2000)
+  52- 56  F5.2  mag      gmag     g-band magnitude not corrected for Galactic
+                                  extinction
+  58- 61  F4.2  ---      zlow     Lowest extent of photometric redshift range
+  63- 67  F5.3  ---      zpeak    Peak of photometric redshift range
+  69- 72  F4.2  ---      zhigh    Highest extent of photometric redshift range
+  74- 78  F5.3  ---      pr(z)    probability of the true redshift lying in
+                                  this range
+  79- 83  F5.3  ---      zSDSS    ?=- SDSS spectroscopic redshift (1)
+      85  A1    ---    n_z        [*NFPO] Note on z (2)
+  86- 90  F5.3  ---      z        ?=- Spectroscopic redshift from KPNO data (1)
+      91  A1    ---    u_z        [D?] when redshift is based on a single
+                                  emission line (3)
+  93- 98  F6.1  ---      chi2     {chi}^2^ color: each pair's color similarity
+                                  statistic (4)
+     100  A1    ---    f_Dphi     [*] Possible lens (5)
+ 101-104  F4.2  arcsec   Dphi     Angular pair separation
+--------------------------------------------------------------------------------
+Note (1): The zSDSS column shows matches to any spectroscopic object in the
+     SDSS DR6 Catalog Archive Server (mainly, e.g., Schneider et al. 2007,
+     Cat. VII/252 obsoleted by VII/260). In the zSDSS and "Our z" columns
+     (z), the object is a quasar at the provided redshift, unless otherwise
+     noted.
+Note (2): Flag as follows:
+    P = SDSS J1320+3056A first appeared with a confirmed redshift (z=1.587) in
+        Veron-Cetty et al. (2004, Cat. VII/235 obsoleted by VII/258).
+    N = SDSS J112556.32+143148.0 is a NELG (narrow emission line galaxy).
+    O = Subsequent to our observations, SDSS J094309.36+103401.3 appeared in
+        Inada et al. (2008, Cat. J/AJ/135/496) with z=1.433.
+    F = Featureless
+    * = star
+Note (3): which is reasonably assumed to be MgII except for
+    * SDSS J123122.37+493430.7 which is based on a single CIV emission line,
+      with weak confirming CIII].
+    * D = derived from a single emission line. This differs from the single
+      question mark notation, as the redshift is based on similar emission
+      in the other component (rather than simply assuming that the emission
+      is MgII).
+Note (4): Following equation 1. See section 3.
+Note (5): An asterisk denotes that our spectroscopy alone is insufficient
+     to rule out a lens interpretation for this pair (see Section 2.2.1).
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table5.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  2  A2    ---     oc        Object categories (1)
+   4-  7  A4    ---     ---       [SDSS]
+   9- 27  A19   ---     SDSS      SDSS designation (JHHMMSS.ss+DDMMSS.s or
+                                  JHHMM+DDMMA) (2)
+  29- 30  I2    h       RAh       Hour of right ascension (J2000)
+  32- 33  I2    min     RAm       Minute of right ascension (J2000)
+  35- 40  F6.3  s       RAs       Second of right ascension (J2000)
+      42  A1    ---     DE-       Declination sign (J2000)
+  43- 44  I2    deg     DEd       Degree of declination (J2000)
+  46- 47  I2    arcmin  DEm       Arcminute of declination (J2000)
+  49- 53  F5.2  arcsec  DEs       Arcsecond of declination (J2000)
+  55- 59  F5.2  mag     gmag      g-band magnitude
+  61- 64  F4.2  ---     zlow      Lowest extent of photometric redshift range
+  66- 70  F5.3  ---     zpeak     Peak of photometric redshift range
+  72- 75  F4.2  ---     zhigh     Highest extent of photometric redshift range
+  77- 81  F5.3  ---     pr(z)     probability of the true redshift lying in this
+                                  range
+      83  A1    ---     Rem       [*mchf] Remark on object (3)
+  84- 88  F5.3  ---     z         ? Redshift from litterature
+      89  A1    ---     f_z       [SIDio] Flag on redshifts (4)
+  91- 95  F5.1  ---     chi2      {chi}^2^ color: each pair's color similarity
+                                  statistic (5)
+  97-100  F4.2  arcsec  Dphi      Angular pair separation
+--------------------------------------------------------------------------------
+Note (1): Categories as follows:
+    PP = Projected pairs
+    BQ = Binary quasars
+    CL = Confirmed lenses
+Note (2): Components of a binary are denoted A and B such that the position
+     angle from A to B lies between 0{deg} and 180{deg}. This convention
+     differs from Hennawi et al. (2006, Cat. J/AJ/131/1), from which we
+     take identifications and redshifts, except for objects flagged in
+     col. f_z.
+Note (3): Flag as follows:
+    * = star
+    m = Both of the quasars SDSS J162902.59+372430.8 and
+        SDSS J162902.63+372435.1 first appear in Mason et al. (2000,
+        Cat. J/MNRAS/311/456).
+    c = SDSS J1004+4112A was discovered by Cao et al. (1999A&AS..135..243C),
+    h = SDSS J1432-0106B was discovered by Hewett et al. (1991AJ....101.1121H).
+    f = We note that we mistakenly listed SDSS J095454.73+373419.7 as lying at
+        z=1.554 in Myers et al. (2007, Cat. J/ApJ/658/99).
+Note (4): Redshifts from Hennawi et al. (2006, Cat. J/AJ/131/1), except for
+          objects flagged as follows:
+     S = taken from the SDSS,
+     D = discovered by Sramek & Weedman (1978ApJ...221..468S), confirmed as a
+         possible lens by Djorgovski & Spinrad (1984ApJ...282L...1D), and likely
+         a binary instead; e.g., Kochanek et al. (1999ApJ...510..590K); Peng et
+         al., 1999ApJ...524..572P; Rusin 2002ApJ...572..705R),
+     i = part of the quad lens from Inada et al. (2003Natur.426..810I),
+     o = Oguri et al. (2005ApJ...622..106O),
+     I = Inada et al. (2008, Cat. J/AJ/135/496).
+Note (5): Following equation 1. See section 3.
+--------------------------------------------------------------------------------
+
+Nomenclature note:
+    In table2 and 4, format JHHMM+DDMMA is <[MRB2008] JHHMM+DDMMA> in Simbad.
+    In table5, format JHHMM+DDMMA is <[HSO2006] JHHMM+DDMMA> or
+    <QSO JHHMM+DDMMA> in Simbad.
+
+History:
+    From electronic version of the journal
+================================================================================
+(End)                                     Emmanuelle Perret [CDS]    20-Sep-2010

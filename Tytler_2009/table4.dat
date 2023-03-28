@@ -1,0 +1,996 @@
+P  1a 0.9397  Mg II,Fe II                                                                             | 2.29   0.08
+P  1b 1.0091  Mg II,Fe II                                                                             | 0.68   0.1
+P  1a 1.1355  Mg II,Fe II                                                                             | 1.59   0.10
+P  1b 1.4267  C IV,Mg II                                                                              | 0.68   0.15
+P  1a 1.541   Mg II                                                                                   | 0.31   0.20
+P  1b 1.7244  H I,C II,C IV, Si II,Si III, Si IV,Al II, Al III,Mg II,Fe II                            | 0.86   0.15
+P  1b 1.7584  C IV                                                                                    | 0.39   0.15
+P  1b 1.85837 H I,C IV,Si IV                                                   AAA23                  | 0.62   0.18
+P  1b 1.8755  zem                                                              EAV17                  |
+P  1a 1.86730 H I,N V#,C IV                                                    EAV17 AAA23            | 0.38   0.10
+P  1a 1.8767  zem                                                                                     |
+P  2a 2.1142  H I,C IV,Si IV                                                                          | 0.63   0.10
+P  2b 2.1323  zem                                                                                     |
+P  2a 2.2193  H I,C IV,Si IV                                                                          | 1.05   0.10
+P  2a 2.2586  zem                                                                                     |
+P  3a 0.96767 Mg II,Fe II                                                      AA1                    | 1.29   0.10
+P  3b 0.96770 Mg I,Mg II,Fe II                                                 AA1                    | 1.33   0.10
+P  3b 1.0322  Mg II                                                                                   | 0.26   0.10
+P  3b 1.5483  C IV#                                                                                   | 0.34   0.30
+P  3b 1.7854  H I,C IV,Si III, Si IV                                                                  | 0.50   0.25
+P  3a 1.954   N V,C IV,Si IV                                                   BAL                    |11.3    0.15
+P  3a 1.9700  zem                                                                                     |
+P  3b 1.9760  zem                                                                                     |
+P  4b 1.0359  Mg II                                                                                   | 0.29   0.15
+P  4b 1.2947  C IV                                                                                    | 0.23   0.05
+P  4b 1.3801  C IV                                                                                    | 0.18   0.05
+P  4a 1.8294  H I,C IV,Si IV                                                                          | 0.58
+P  4b 1.832   N V,C IV                                                         BAL                    | 9.2    0.20
+P  4b 1.8630  zem                                                                                     |
+P  4a 1.9187  zem                                                                                     |
+P  5a 0.580   Mg II,Fe II                                                                             | 0.65   0.10
+P  5b 0.8888  Mg II,Fe II                                                                             | 1.44   0.10
+P  5a 1.0578  Mg II                                                                                   | 0.35   0.10
+P  5a 1.423   Fe II                                                                                   |
+P  5b 1.635   H I,C IV                                                                                | 0.29   0.15
+P  5a 1.70401 C IV                                                             AA2                    | 0.41   0.10
+P  5b 1.70520 C IV                                                             AA2                    | 0.28   0.15
+P  5b 1.7873  H I,C IV,Si II, Si III,Si IV, Al II,Al III, Fe II                                       | 1.14   0.15
+P  5a 2.03484 H I,C IV,Si IV                                                   AAV18                  | 0.31  -1.
+P  5b 2.04286 H I,C IV,N V, Si III                                             AAV18                  | 0.43   0.15
+P  5b 2.1285  zem                                                              EAV18                  |
+P  5b 2.12173 H I,C IV,S IV                                                    AAA24                  | 0.36   0.15
+P  5a 2.12306 H I,C IV,N V                                                     EAV18,AAA24            | 0.28   0.10
+P  5a 2.1520  zem                                                                                     |
+P  6a 0.56696 Mg II                                                            AA3                    | 0.64   0.40
+P  6b 0.56927 Mg II                                                            AA3                    | 0.32   0.30
+P  6a 1.5258  Mg II                                                                                   | 0.69   0.40
+P  6a 1.7999  C IV                                                                                    | 0.25   0.20
+P  6a 2.3682  H I,C IV                                                                                | 0.30  -1.
+P  6b 2.3911  H I,C IV,Si IV                                                                          | 1.09  -1.
+P  6b 2.54327 H I,N V#,C IV#                                                   AAA25                  | 0.26
+P  6b 2.5492  zem                                                              EA1                    |
+P  6a 2.54697 H I,N V,C IV#                                                    EA1,AAA25              | 0.17?
+P  6a 2.5667  zem                                                                                     |
+P  7b 2.13694 C IV                                                             AA4                    | 0.33   0.10
+P  7a 2.13685 H I,C IV,Al III, Al II,Si II                                     AA4                    | 2.12   0.25
+P  7a 2.1910  zem                                                                                     |
+P  7b 2.20209 C IV                                                                                    | 0.24   0.10
+P  7b 2.2987  C IV,O VI                                                        BAL                    | 3.57
+P  7b 2.315   C IV,O VI                                                        BAL                    | 5.35
+P  7b 2.3596  zem                                                                                     |
+P  8a 0.4215  Ca II                                                                                   |
+P  8a 0.8183  Mg II                                                                                   | 0.53   0.20
+P  8c 2.03118 H I,C IV                                                         AAA26                  | 0.35   0.20
+P  8c 2.0407  zem                                                              EA2,EAV20              |
+P  8a 2.03912 H I,C IV                                                         EA2,AAA26 AAA27        | 0.16   0.20
+P  8b 2.04602 H I,C IV#                                                        EAV20,EAV19,AAA27      | 0.77   0.15
+P  8a 2.0515  zem                                                              EA3,EAV19              |
+P  8b 2.05115 H I,C IV#                                                        EA3                    | 0.52?  0.14
+P  8b 2.0627  zem                                                                                     |
+P  9b 1.744   H I,Mg II                                                                               | 0.84   0.25
+P  9a 1.899   H I,C II,C IV                                                                           | 0.51   0.50
+P  9b 2.032   H I,N V,C IV                                                     BAL                    | 3.94   0.20
+P  9a 2.0458  zem                                                                                     |
+P  9b 2.0451  zem                                                                                     |
+P 10b 2.2960  C IV#                                                                                   | 0.81   0.18
+P 10a 2.315   C IV                                                                                    | 0.20   0.50
+P 10b 2.3368  C IV                                                                                    | 0.28   0.20
+P 10b 2.4665  zem                                                                                     |
+P 10a 2.4790  zem                                                                                     |
+P 10a 2.4864  C IV                                                                                    | 0.20   0.20
+P 11b 0.7775  Mg II                                                                                   | 1.68   0.20
+P 11b 0.7995  Mg II                                                                                   | 0.50   0.20
+P 11a 1.3469  Fe II                                                                                   |
+P 11a 1.3505  Fe II                                                                                   |
+P 11a 1.3811  C IV,Fe II                                                                              | 0.85   0.18
+P 11a 1.4249  C IV                                                                                    | 0.42   0.25
+P 11b 1.4524  C IV                                                                                    | 0.46   0.20
+P 11b 1.9231  H I,N V                                                                                 | 0.71   0.15
+P 11b 1.9376  zem                                                                                     |
+P 11a 1.9799  zem                                                                                     |
+P 12a 0.7992  Mg II,Fe II,Mg I                                                                        | 1.28   0.25
+P 12b 1.9818  zem                                                                                     |
+P 12b 1.9753  H I,N V                                                                                 | 0.52  -1.
+P 12a 2.1183  H I,N V                                                                                 | 0.66   0.15
+P 12a 2.1357  zem                                                                                     |
+P 13a 1.2233  Mg II                                                                                   | 0.54   0.15
+P 13b 1.2767  C IV                                                                                    | 0.18   0.15
+P 13b 1.3057  C IV,Si II                                                                              | 0.53   0.35
+P 13a 1.6355  H I,Fe II,Mg II                                                                         | 2.00   1.00
+P 13b 1.8769  zem                                                                                     |
+P 13b 1.8789  H I,N V                                                                                 | 0.46   0.40
+P 13a 2.1249  zem                                                                                     |
+P 14b 0.6858  Mg II                                                                                   | 1.71   0.50
+P 14a 1.1669  Mg II,Fe II                                                                             | 1.92   0.25
+P 14b 1.8498  zem                                                                                     |
+P 14a 1.8932  zem                                                                                     |
+P 15b 1.0498  Mg II,Fe II                                                                             | 1.84   0.20
+P 15a 1.1012  Mg II                                                                                   | 0.43   0.15
+P 15b 1.3718  C IV                                                                                    | 0.65   0.20
+P 15a 1.710   H I,Si IV                                                                               |
+P 15a 1.9087  H I,N V,Si III                                                                          | 0.38   0.50
+P 15a 1.9152  zem                                                                                     |
+P 15b 2.0300  zem                                                                                     |
+P 16a 1.3355  Mg II                                                                                   | 0.94   0.25
+P 16b 1.5954  C IV,Si IV#                                                                             | 0.43   0.10
+P 16a 2.0070  H I,C IV,Si IV                                                                          | 0.31   0.15
+P 16b 2.1904  zem                                                                                     |
+P 16a 2.1974  zem                                                                                     |
+P 17b 1.0431  Mg II,Fe II                                                                             | 0.38   0.15
+P 17a 1.638   H I,Si IV                                                                               |
+P 17a 1.9673  H I,N V#                                                                                | 0.11?  0.25
+P 17b 2.0309  zem                                                                                     |
+P 17a 2.0192  zem                                                                                     |
+P 18a 1.1971  Mg II                                                                                   | 0.84
+P 18a 2.7887  C IV                                                                                    | 0.38
+P 18a 2.8390  C IV                                                                                    | 0.25
+P 18b 2.8801  C IV#                                                                                   | 0.62
+P 18b 3.2405  H I,C IV,Si IV                                                                          | 0.36
+P 18a 3.8092  zem                                                              EAV21                  |
+P 18b 3.82420 H I,C II,C III, Si IV                                            EAV21                  | 0.24
+P 18b 3.8310  zem                                                                                     |
+P 19a 1.9222  H I,C IV,Si III                                                                         | 0.48   0.30
+P 19b 1.9978  C IV,N V                                                                                | 0.37   0.15
+P 19b 2.0186  zem                                                                                     |
+P 19a 2.3680  zem                                                                                     |
+P 20b 0.9314  Al II,Mg II Fe II                                                                       | 0.91   0.75
+P 20b 1.9350  C IV                                                                                    | 0.79   0.75
+P 20a 2.101   H I,N V,C IV,                                                    BAL                    |13.7    0.20
+P 20b 2.1295  zem                                                                                     |
+P 20a 2.1270  zem                                                                                     |
+P 21a 1.2457  C IV,Mg II                                                                              | 1.09   0.35
+P 21b 1.4080  C IV                                                                                    | 0.33   0.25
+P 21b 1.4776  C IV                                                                                    | 1.14   0.25
+P 21a 1.8291  zem                                                                                     |
+P 21b 1.9072  N V                                                                                     | 0.22   0.15
+P 21b 1.9107  N V                                                                                     | 0.29   0.15
+P 21b 1.9952  zem                                                                                     |
+P 22a 0.7069  Mg II                                                                                   | 0.54   0.15
+P 22c 0.7871  Mg II                                                                                   | 0.59   0.15
+P 22a 1.0918  Mg II                                                                                   | 0.64   0.15
+P 22c 1.6558  H I,C IV                                                                                | 0.31   0.25
+P 22b 1.69909 H I,C IV,Si IV                                                   AAV19                  | 0.41   0.15
+P 22a 1.70693 H I,C IV,Si IV                                                   AAV19                  | 1.18   0.15
+P 22a 1.8255  H I,C IV,Si IV                                                                          | 0.55   0.15
+P 22b 2.05521 H I,C IV                                                         AAA28,AAA29            | 0.39?
+P 22c 2.05997 H I,N V,Si III                                                   EAV22,AA5 AAA28,AAA30  | 0.16
+P 22b 2.06039 H I,C IV                                                         AAA30,AAA31            | 0.39?
+P 22a 2.06449 H I,C IV,Si IV                                                   EA4,AA5 AAA29,AAA31    | 1.25
+P 22b 2.0669  zem                                                              EA4,EAV22              |
+P 22a 2.1010  zem                                                                                     |
+P 22c 2.1299  zem                                                                                     |
+P 23a 1.258   Mg II,Fe II                                                                             | 0.55   1.00
+P 23b 1.3543  C IV                                                                                    | 0.48   0.20
+P 23a 1.4505  C IV,Si IV                                                                              | 0.69   1.75
+P 23b 1.5984  C IV                                                                                    | 0.52   0.25
+P 23b 1.9025  N V                                                                                     | 0.47   0.20
+P 23a 1.92402 H I,C IV                                                         EA5                    | 0.14   0.30
+P 23b 1.9280  zem                                                              EA5                    |
+P 23a 1.9343  zem                                                                                     |
+P 24b 1.0333  Mg II,Fe II                                                                             | 0.60   0.35
+P 24a 2.0281  H I,C IV                                                                                | 0.48   0.25
+P 24a 2.0839  H I,C IV                                                                                | 0.44   0.25
+P 24b 2.2126  H I,C IV#                                                                               | 0.57   0.30
+P 24a 2.3183  zem                                                              EA6                    |
+P 24b 2.32216 H I,C IV                                                         EA6                    | 0.35   0.10
+P 24b 2.3863  H I,C IV,Si IV                                                                          | 0.55   0.20
+P 24b 2.3928  zem                                                                                     |
+P 25b 1.2909  C IV                                                                                    | 0.21   0.10
+P 25b 1.30267 C IV                                                             AA6                    | 0.28   0.10
+P 25a 1.30321 C IV,Mg II Si IV,Fe II                                           AA6                    | 0.77   0.10
+P 25a 1.42401 C IV                                                             AA7                    | 0.29   0.10
+P 25b 1.42593 C IV#,Mg II                                                      AA7                    | 0.69   0.10
+P 25b 1.668   H I,C IV,N V                                                     BAL                    | 4.45   1.75
+P 25b 1.724   H I,Mg II C II,Fe II                                                                    | 0.38   2.00
+P 25a 1.8546  H I,N V                                                                                 | 0.14   0.10
+P 25b 1.8782  zem                                                                                     |
+P 25a 1.8920  zem                                                                                     |
+P 26a 0.7575  Mg II                                                                                   | 0.26   0.10
+P 26a 0.9014  Mg II                                                                                   | 0.13   0.10
+P 26b 1.0026  Mg II                                                                                   | 0.41   0.10
+P 26a 1.2442  Mg II                                                                                   | 0.15   0.25
+P 26a 1.4434  C IV                                                                                    | 0.30   0.25
+P 26a 1.4757  C IV                                                                                    | 0.13   0.25
+P 26b 1.6135  Si IV                                                                                   | 0.48   0.10
+P 26b 1.8495  H I,N V                                                          BAL                    |14.1    0.10
+P 26b 1.8820  zem                                                              EAV23,EAV24            |
+P 26a 1.8820  zem                                                                                     |
+P 26a 1.88951 H I,N V#                                                         EAV23                  | 0.80
+P 26a 1.89084 H I,N V#                                                         EAV24                  | 0.80
+P 27a 1.4621  Fe II                                                                                   |
+P 27b 2.3444  C IV                                                                                    | 0.18   0.25
+P 27b 2.3838  zem                                                                                     |
+P 27a 2.3892  zem                                                                                     |
+P 28b 1.0848  Mg II                                                                                   | 0.54   0.50
+P 28b 1.0867  Mg II,Fe II                                                                             | 0.79   0.50
+P 28a 2.1690  zem                                                              EA7                    |
+P 28b 2.16863 C IV#                                                            EA7                    | 2.72   0.20
+P 28b 2.1916  zem                                                                                     |
+P 29a 0.390   Mg II                                                                                   | 0.89   0.15
+P 29b 1.008   Mg II                                                                                   | 0.52   0.10
+P 29a 1.4366  C IV                                                                                    | 0.57   0.25
+P 29a 1.4543  C IV                                                                                    | 0.35   0.25
+P 29a 1.4606  C IV                                                                                    | 0.20   0.25
+P 29b 1.594   H I,C IV                                                                                | 0.41   0.45
+P 29b 1.689   H I,C IV,Si III                                                                         | 1.04   0.30
+P 29b 1.844   H I,C IV                                                                                | 0.27   0.30
+P 29a 1.9701  N V                                                                                     | 0.25   0.10
+P 29a 1.9746  H I,N V                                                                                 | 0.18   0.10
+P 29a 1.9841  zem                                                                                     |
+P 29b 2.1406  zem                                                                                     |
+P 30b 0.451   Fe II                                                                                   |
+P 30a 1.3473  C IV                                                                                    | 0.23   0.10
+P 30a 1.3730  C IV                                                                                    | 0.08   0.10
+P 30a 1.5791  H I,Si IV,Si II, O I,C II,Al III                                                        | 0.75   0.10
+P 30a 1.6834  Si IV                                                                                   |
+P 30a 1.8938  zem                                                                                     |
+P 30b 1.8709  H I,Si III                                                                              |
+P 30b 1.9354  N V                                                                                     | 0.64
+P 30b 2.0026  zem                                                                                     |
+P 31b 1.02786 Mg II                                                            AA8                    | 0.38   0.10
+P 31a 1.02822 Mg II                                                            AA8                    | 0.20   0.10
+P 31a 1.4066  C IV                                                                                    | 0.72   0.20
+P 31b 1.43606 C IV                                                             AA9                    | 0.18   0.10
+P 31a 1.43632 C IV                                                             AA9, AAV20             | 1.04   0.10
+P 31b 1.44407 C IV                                                             AAV20                  | 0.23   0.10
+P 31a 1.9596  N V                                                                                     | 0.41   0.15
+P 31a 1.9970  zem                                                                                     |
+P 31b 2.0961  zem                                                                                     |
+P 32a 0.7955  Mg II                                                                                   | 0.33   0.10
+P 32a 1.7404  H I,O I,Si II, Al III,Al II,Fe II,Mg II                                                 | 1.95   0.60
+P 32a 1.7422  Si IV                                                                                   |
+P 32a 1.9936  H I,Si II,Si III                                                                        |
+P 32a 2.0129  C IV                                                                                    | 0.45   0.20
+P 32b 2.0838  zem                                                                                     |
+P 32b 2.0816  H I,C IV                                                                                | 0.28   0.15
+P 32a 2.1113  zem                                                                                     |
+P 34a 0.7759  Mg II                                                                                   | 0.64  -2.
+P 34b 1.1437  Mg II                                                                                   | 0.34   0.15
+P 34b 2.0062  H I,Si III,Al III                                                                       |
+P 34a 2.1433  zem                                                                                     |
+P 34a 2.1418  C IV                                                                                    | 0.25  -2.
+P 34b 2.180   O IV,C IV                                                        BAL                    |32.8    0.25
+P 34b 2.2090  zem                                                                                     |
+P 34b 2.2282  O VI,C IV Al II,Al III                                                                  | 0.83   0.15
+P 35b 0.6294  Mg II,Fe II                                                                             | 0.84   0.25
+P 35a 1.3702  Mg II,Fe II                                                                             | 0.64   0.15
+P 35a 1.4132  C IV                                                                                    | 0.17   0.10
+P 35a 1.6651  H I,Si IV,Mg II, Fe II,C IV,Al II,Si II                                                 | 0.34   0.10
+P 35a 1.6651  H I,Si IV,Mg II, Fe II,C IV,Al II,Si II                                                 | 1.05   0.20
+P 35b 1.9484  zem                                                                                     |
+P 35a 2.0296  zem                                                                                     |
+P 36b 1.0965  Mg II                                                                                   | 0.10   0.10
+P 36b 1.4151  Fe II                                                                                   |
+P 36a 1.96622 H I,Si III,N V                                                   AAA32                  | 0.13
+P 36b 1.96688 H I,Si III,Al III Si II,Al II                                    EA8,AAA32              | 0.52
+P 36a 1.9680  zem                                                              EA8                    |
+P 36b 2.0800  C IV                                                                                    | 0.58   0.15
+P 36b 2.217   C IV                                                                                    | 1.5    0.15
+P 36b 2.2806  C IV                                                                                    | 0.37   0.15
+P 36b 2.3086  zem                                                                                     |
+P 36b 2.3087  C IV                                                                                    | 0.20   0.15
+P 37b 0.8164  Mg II                                                                                   | 0.31   0.10
+P 37b 0.8562  Mg II                                                                                   | 0.67   0.10
+P 37b 1.9359  C IV                                                                                    | 0.18   0.10
+P 37b 1.9390  C IV                                                                                    | 0.63   0.10
+P 37b 1.9461  C IV                                                                                    | 0.13?  0.10
+P 37a 2.0288  C IV#                                                                                   | 0.46?  0.10
+P 37b 2.215   H I,C IV#,Si IV                                                                         | 1.33   0.10
+P 37a 2.2532  H I,O I,Si II, C IV,Si III                                                              | 0.33   0.10
+P 37a 2.2939  C IV                                                                                    | 0.10   0.10
+P 37a 2.3612  Si IV                                                                                   | 0.45   0.10
+P 37b 2.4254  C IV                                                                                    | 0.17   0.15
+P 37b 2.4910  H I,Si III,C IV, Al II,Si IV,C II                                                       | 0.90   0.15
+P 37a 2.541   H I,Si III,C IV C II,Si IV,Al III O I,Si II,Al II                                       | 0.96   0.12
+P 37a 2.5898  C IV                                                                                    | 0.41   0.12
+P 37b 2.6158  zem                                                                                     |
+P 37a 2.6416  H I,C IV,N V, O VI                                               BAL                    | 7.59   0.10
+P 37a 2.6450  zem                                                                                     |
+P 38a 0.6779  Mg II                                                                                   | 0.64   0.15
+P 38a 0.7427  Mg II                                                                                   | 1.34   0.15
+P 38b 0.9214  Mg II                                                                                   | 0.43   0.10
+P 38b 1.023   Mg II                                                                                   | 0.51   0.10
+P 38b 1.389   Fe II,Si IV                                                                             |
+P 38b 1.395   Si II,C IV                                                                              | 1.15   0.10
+P 38a 1.42153 C IV#                                                            AA10                   | 0.76   0.10
+P 38b 1.42173 C IV                                                             AA10                   | 0.98   0.10
+P 38a 1.43562 C IV                                                             AA11                   | 0.13   0.10
+P 38b 1.43650 C IV                                                             AA11                   | 0.22   0.10
+P 38a 1.91658 H I,Al III,Al II                                                 EA9                    | 0.45
+P 38b 1.9179  zem                                                              EA9                    |
+P 38a 2.0661  zem                                                                                     |
+P 38a 2.079   N V                                                                                     | 0.41   0.10
+P 38a 2.085   N V                                                                                     | 0.16   0.10
+P 39b 1.458   Fe II                                                                                   |
+P 39a 2.015   C IV                                                                                    | 0.51   1.00
+P 39a 2.060   N V                                                                                     | 0.37  -2.
+P 39a 2.0976  zem                                                                                     |
+P 39b 2.118   H I,C IV                                                         BAL                    | 4.47   0.25
+P 39b 2.1290  zem                                                                                     |
+P 39b 2.132   H I,N V,C IV                                                                            | 1.59   0.10
+P 40b 1.688   Si IV                                                                                   |
+P 40a 1.9640  zem                                                                                     |
+P 40b 2.0748  zem                                                                                     |
+P 41a 0.408   Mg II                                                                                   | 0.92   0.10
+P 41b 0.783   Mg II                                                                                   | 0.50   0.15
+P 41a 0.908   Mg II                                                                                   | 1.34   0.15
+P 41b 1.027   Mg II                                                                                   | 0.39   0.15
+P 41b 1.617   C IV                                                                                    | 0.32   0.15
+P 41a 1.858   C IV#                                                                                   | 0.87   0.15
+P 41a 1.898   C IV                                                                                    | 0.28   0.15
+P 41a 2.038   H I,C IV,Si IV, N V,Si III                                                              | 1.72   0.15
+P 41a 2.0426  zem                                                                                     |
+P 41b 2.1556  zem                                                                                     |
+P 42a 0.900   Mg II                                                                                   | 0.43   0.10
+P 42a 1.14819 Mg II,Fe II,C IV                                                 AA12                   | 1.02   0.10
+P 42b 1.15264 Mg II                                                            AA12                   | 0.32   0.15
+P 42a 1.268   C IV                                                                                    | 0.14   0.15
+P 42a 1.46291 C IV                                                             AA13                   | 0.22   0.10
+P 42b 1.46438 C IV                                                             AA13                   | 0.20   0.10
+P 42a 1.8194  zem                                                                                     |
+P 42b 2.0067  C IV                                                                                    | 0.44   0.30
+P 42b 2.0975  zem                                                                                     |
+P 43a 1.490   C IV                                                                                    | 0.25   0.15
+P 43a 1.495   C IV                                                                                    | 0.60   0.15
+P 43b 2.0716  zem                                                              EAV25                  |
+P 43a 2.06623 C IV                                                             EAV25                  | 0.32   0.20
+P 43a 2.2084  zem                                                                                     |
+P 44a 0.968   Mg II                                                                                   | 0.22   0.10
+P 44b 1.14252 C IV                                                             AA14                   | 0.58   0.20
+P 44a 1.14352 C IV,Mg II,Fe II, Al II                                          AA14                   | 1.16   0.10
+P 44b 1.217   C IV#                                                                                   | 0.15?  0.10
+P 44b 1.328   C IV                                                                                    | 0.12   0.10
+P 44b 1.44427 C IV                                                                                    | 0.26   0.10
+P 44a 1.471   Si IV                                                                                   |
+P 44a 1.48419 C IV                                                                                    | 0.60   0.10
+P 44a 1.7930  zem                                                                                     |
+P 44b 1.8159  zem                                                                                     |
+P 45b 0.5222  Mg II                                                                                   | 0.89   0.50
+P 45a 1.232   Mg II                                                                                   | 0.49   0.35
+P 45b 1.280   Mg II,Fe II                                                                             | 1.14   0.25
+P 45b 1.566   C IV                                                                                    | 0.77   0.25
+P 45a 2.0811  zem                                                                                     |
+P 45a 2.082   C IV                                                                                    | 0.33   0.50
+P 45b 2.125   H I,C IV,N V, Si IV                                              BAL                    | 9.0    0.25
+P 45b 2.1488  zem                                                                                     |
+P 46a 1.7178  C IV                                                                                    | 0.34   0.25
+P 46b 1.762   C IV                                                                                    | 0.19   0.20
+P 46b 1.8280  zem                                                                                     |
+P 46a 2.0084  C IV,Si IV                                                                              | 0.51   0.30
+P 46a 2.0832  C IV                                                                                    | 0.55   0.30
+P 46a 2.2155  H I,C IV                                                                                | 0.43   0.30
+P 46a 2.3574  zem                                                                                     |
+P 47a 0.617   Mg II,Fe II                                                                             | 1.41   0.10
+P 47b 1.8813  zem                                                                                     |
+P 47b 1.874   C IV                                                                                    | 0.12   0.50
+P 47a 1.9130  zem                                                                                     |
+P 49b 0.998   Mg II                                                                                   | 0.55   0.30
+P 49b 1.084   Fe II                                                                                   |
+P 49c 1.4967  C IV                                                                                    | 0.88   0.35
+P 49a 1.645   C IV                                                                                    | 0.95   0.60
+P 49a 1.675   C IV                                                                                    | 1.04   0.60
+P 49c 1.743   Mg II                                                                                   | 0.82   0.50
+P 49c 1.7724  C IV                                                                                    | 0.32   0.50
+P 49b 1.7862  C IV                                                                                    | 0.70   0.50
+P 49c 1.80389 C IV                                                                                    | 0.70   0.50
+P 49b 1.82350 Si IV                                                                                   |
+P 49c 1.83379 C IV                                                                                    | 0.76   0.50
+P 49c 1.8552  zem                                                                                     |
+P 49a 1.8732  H I,C IV                                                                                | 0.40   0.60
+P 49a 1.9905  H I,Si III,Si IV, Al II,C II,Si II, C IV#,Fe II,Mg II                                   | 1.49   0.60
+P 49b 2.1710  zem                                                                                     |
+P 49a 2.3870  zem                                                                                     |
+P 50a 1.8568  Mg II,C IV                                                                              | 0.72   0.40
+P 50a 1.8749  zem                                                                                     |
+P 50b 2.1532  H I,C IV                                                                                | 0.40   0.30
+P 50b 2.2310  H I,C IV,C II, Si II,Si III                                                             | 0.59   0.30
+P 50b 2.3219  zem                                                                                     |
+P 52b 0.772   Mg II                                                                                   | 0.59   0.50
+P 52a 0.9788  Mg II                                                                                   | 0.35   0.40
+P 52b 1.5628  C IV                                                                                    | 0.42   0.30
+P 52a 1.6045  C IV,Mg II,Fe II                                                                        | 0.96   0.50
+P 52a 1.6801  C IV                                                                                    | 0.85   0.45
+P 52a 1.7162  C IV                                                                                    | 0.31   0.45
+P 52a 2.0488  zem                                                                                     |
+P 52a 2.0553  H I,C IV,Si III Si IV                                                                   | 1.09   0.90
+P 52b 2.254   H I,O VI,N V                                                                            | 0.38   0.50
+P 52b 2.2655  zem                                                                                     |
+P 54a 1.851   C IV                                                                                    | 0.11   1.00
+P 54a 1.892   C IV,Fe II,Mg II, Si IV,Al II,C II                                                      | 0.52   1.00
+P 54a 1.941   C IV,Si IV                                                                              | 0.36   1.00
+P 54b 1.9617  zem                                                                                     |
+P 54a 2.2087  zem                                                                                     |
+P 55b 1.534   C IV,Mg II,Fe II                                                                        | 0.70   0.90
+P 55b 1.5414  C IV                                                                                    | 0.36   0.90
+P 55c 1.559   C IV                                                                                    | 1.22   0.30
+P 55b 1.667   C IV                                                                                    | 0.25   0.90
+P 55c 2.0079  zem                                                                                     |
+P 55b 2.1583  zem                                                                                     |
+P 55a 2.4170  zem                                                                                     |
+P 56c 1.171   Mg II,Fe II                                                                             | 1.13   0.35
+P 56a 2.0213  zem                                                                                     |
+P 56b 2.3047  zem                                                                                     |
+P 56c 2.468   H I,Si III                                                                              |
+P 56c 2.596   H I,Si III,C IV, Si IV                                                                  | 0.31   0.35
+P 56c 2.6466  zem                                                                                     |
+P 57a 0.722   Mg II                                                                                   | 0.96
+P 57b 2.1710  zem                                                                                     |
+P 57a 2.5098  zem                                                                                     |
+P 58a 1.3106  Mg II,Fe II                                                                             | 1.64   0.35
+P 58c 1.8947  zem                                                                                     |
+P 58a 2.0273  zem                                                              EAV26                  |
+P 58b 2.03355 H I,C IV,Si III, Si IV,Mg II                                     EAV26                  | 0.53   0.50
+P 58b 2.321   H I,N V                                                                                 | 0.44   0.40
+P 58b 2.377   C IV,N V                                                                                | 0.82   0.40
+P 58b 2.409   H I,C IV                                                                                | 0.67   0.40
+P 58b 2.4329  zem                                                                                     |
+P 60b 0.9511  Mg II                                                                                   | 1.40   0.30
+P 60a 1.3699  C IV                                                                                    | 0.70  -1.
+P 60b 1.529   C IV                                                                                    | 0.72   0.40
+P 60b 1.9607  C IV                                                                                    | 0.92   0.30
+P 60b 1.9644  zem                                                                                     |
+P 60a 2.0340  zem                                                                                     |
+P 61a 1.413   Mg II,Fe II,Al III                                                                      | 1.53   0.30
+P 61a 1.543   Mg II                                                                                   | 0.77   0.30
+P 61a 1.952   H I,Si III,Si IV, Al II,Si II,Mg II,Fe II                                               | 1.58   0.90
+P 61b 2.20    C IV,O VI                                                        BAL                    | 7.04   0.30
+P 61b 2.224   H I,Si III,N V, C IV,Si II,C II                                                         | 0.92   0.30
+P 61a 2.2423  zem                                                                                     |
+P 61b 2.3240  zem                                                                                     |
+P 62a 1.804   C IV                                                                                    | 0.51   0.50
+P 62b 1.8580  zem                                                                                     |
+P 62a 2.258   H I,Si III,C IV, Si IV                                                                  | 0.97   0.70
+P 62a 2.5420  zem                                                                                     |
+P 63c 1.394   Mg II,Fe II,Mg I                                                                        | 1.90   0.40
+P 63b 1.65274 H I,C IV,Si IV                                                   AAV21                  | 0.36   0.70
+P 63a 1.65802 C IV#,Mg II, Fe II,Al II                                         AAV21                  | 2.02
+P 63a 1.8960  zem                                                                                     |
+P 63b 1.9890  zem                                                                                     |
+P 63c 2.291   C IV                                                                                    | 1.28   0.80
+P 63c 2.294   H I,Si III                                                                              |
+P 63c 2.768   H I,C IV,Si III, Al II,Si IV,Si II, C II                                                | 0.53   0.80
+P 63c 3.0189  zem                                                                                     |
+P 63c 3.036   H I,Si III                                                                              |
+P 64a 0.885   Mg II,Fe II                                                                             | 1.14   0.25
+P 64b 1.585   C IV                                                                                    | 0.34   0.75
+P 64a 1.988   C IV                                                                                    | 0.80   0.35
+P 64a 1.9997  zem                                                              EA10                   |
+P 64b 2.00451 C IV,Si IV                                                       EA10                   | 0.54   0.30
+P 64b 2.268   H I,C IV,Si III                                                                         | 0.10   0.80
+P 64b 2.2922  zem                                                                                     |
+P 65a 2.0400  zem                                                                                     |
+P 65b 2.3203  zem                                                                                     |
+P 66a 1.8880  zem                                                                                     |
+P 66b 2.1520  zem                                                                                     |
+P 67a 1.561   Mg II                                                                                   | 0.63
+P 67a 1.957   Mg II,Fe II                                                                             | 0.78
+P 67a 1.990   Mg II,Fe II                                                                             | 1.38
+P 67b 2.2000  zem                                                                                     |
+P 67a 2.2000  zem                                                                                     |
+P 68b 0.4618  Mg II                                                                                   | 0.38   1.00
+P 68b 2.2394  zem                                                                                     |
+P 68b 2.253   H I,C IV,Si IV, Si III,N V                                                              | 1.13   0.35
+P 68a 2.6410  zem                                                                                     |
+P 69b 2.5250  zem                                                                                     |
+P 69a 2.7630  zem                                                                                     |
+P 70a 1.727   C IV#                                                                                   | 0.33?  0.50
+P 70a 1.83710 Mg II,Fe II                                                      AA15                   | 0.79   0.55
+P 70b 1.83782 C IV                                                             AA15                   | 0.36   0.70
+P 70a 2.0119  zem                                                                                     |
+P 70b 2.134   C IV,N V                                                                                | 0.84   0.35
+P 70b 2.1548  zem                                                                                     |
+P 71a 2.4640  zem                                                                                     |
+P 71b 2.4640  zem                                                                                     |
+P 72a 0.953   Mg II                                                                                   | 0.52   0.30
+P 72a 1.8686  C IV                                                             BAL                    |10.5    0.50
+P 72a 1.8756  zem                                                                                     |
+P 72a 1.886   Mg II,C IV,Si IV                                                                        | 1.09   0.25
+P 72b 2.036   C IV                                                                                    | 0.32   0.50
+P 72b 2.1699  zem                                                                                     |
+P 73b 1.0476  Mg II                                                                                   | 0.23   1.00
+P 73b 1.6004  C IV                                                                                    | 0.23   1.00
+P 73b 1.6581  C IV                                                                                    | 0.10   1.00
+P 73a 1.9502  C IV                                                                                    | 2.41
+P 73b 1.9761  C IV                                                                                    | 0.18   1.00
+P 73b 2.0279  zem                                                                                     |
+P 73a 2.4612  C IV                                                                                    | 0.29   0.10
+P 73a 3.2229  C IV                                                                                    | 0.42   0.25
+P 73a 3.4495  zem                                                                                     |
+P 74b 0.5477  Mg II                                                                                   | 1.32   0.50
+P 74a 2.048   H I,Si IV,Fe II                                                                         |
+P 74a 2.177   H I,C IV,N V                                                                            | 0.41   0.50
+P 74a 2.2420  zem                                                                                     |
+P 74b 2.4569  zem                                                                                     |
+P 75a 0.3914  Mg II                                                                                   | 1.39   0.60
+P 75b 1.2215  Mg II                                                                                   | 0.70   0.60
+P 75b 1.2866  Mg II,Fe II                                                                             | 0.91   0.60
+P 75b 1.9451  zem                                                                                     |
+P 75b 1.9360  C IV                                                                                    | 0.27   0.45
+P 75a 2.096   C IV                                                                                    | 0.46   0.50
+P 75a 2.2041  zem                                                                                     |
+P 76b 1.536   C IV                                                                                    | 0.13  -1.
+P 76a 1.9263  zem                                                                                     |
+P 76b 2.056   H I,Si III,C IV                                                                         | 2.03   1.5
+P 76b 2.2179  zem                                                                                     |
+P 77a 2.0367  zem                                                                                     |
+P 77b 2.0471  zem                                                              EAV27                  |
+P 77a 2.03922 C IV,Si IV                                                       EAV27                  | 1.96   0.40
+P 78a 1.1499  Fe II,Mg II                                                                             | 1.51  -1.
+P 78b 1.7690  zem                                                                                     |
+P 78a 1.8791  C IV                                                                                    | 0.65  -1.
+P 78a 1.9439  H I,C IV,Si III                                                                         | 0.75  -1.
+P 78a 1.9490  zem                                                                                     |
+P 79b 2.0143  zem                                                                                     |
+P 79a 2.1303  zem                                                                                     |
+P 80b 0.412   Mg II                                                                                   | 0.71   0.35
+P 80a 0.610   Mg II,Fe II                                                                             | 2.07   0.40
+P 80b 1.304   Mg II                                                                                   | 0.48   0.25
+P 80b 1.412   Mg II,Al II                                                                             | 1.36   0.25
+P 80a 1.645   C IV                                                                                    | 0.22   0.50
+P 80a 2.1244  zem                                                                                     |
+P 80b 2.2242  zem                                                                                     |
+P 81a 0.422   Mg II                                                                                   | 0.76   0.25
+P 81b 0.887   Mg II                                                                                   | 0.22   0.40
+P 81b 1.531   C IV,Si II                                                                              | 0.26?  0.40
+P 81b 1.56594 C IV,Si IV Mg I,Si II, Fe II,Mg II Al II,Al III                                         | 1.41   0.40
+P 81a 1.60653 C IV,Mg II,Al II                                                                        | 0.52   0.25
+P 81a 1.730   H I,C IV                                                                                | 0.70   0.25
+P 81b 1.799   H I,Si IV,C IV                                                                          | 0.37   0.40
+P 81b 1.886   C IV                                                                                    | 0.15   0.40
+P 81b 1.8986  zem                                                                                     |
+P 81a 1.968   H I,C IV,Si IV, Si III                                                                  | 0.35   0.20
+P 81a 2.122   C IV                                                                                    | 0.27   0.20
+P 81a 2.1790  zem                                                                                     |
+P 82a 1.81447 C IV,Si IV                                                                              | 1.19   1.00
+P 82a 1.82945 C IV,Si IV                                                                              | 0.50   1.00
+P 82a 1.93931 C IV,Si IV                                                                              | 1.13   1.00
+P 82a 1.98055 C IV,Si IV                                                       EA11                   | 0.58   1.00
+P 82b 1.9850  zem                                                              EA11                   |
+P 82a 2.0103  zem                                                                                     |
+P 83b 1.503   Mg II                                                                                   | 0.81   0.50
+P 83b 2.030   C IV,Si IV                                                                              | 1.11   0.70
+P 83b 2.082   C IV                                                                                    | 0.37   0.70
+P 83a 2.301   H I,C IV,Si II Si III,O I C II,Al II                                                    | 0.12   0.35
+P 83b 2.32654 H I,Si III                                                       AAA33                  | 0.44
+P 83a 2.32874 H I,C IV                                                         AAA33                  | 0.28   0.35
+P 83a 2.3411  zem                                                                                     |
+P 83b 2.4172  zem                                                                                     |
+P 84a 3.157   H I,Si III                                                                              |
+P 84a 3.1808  zem                                                                                     |
+P 84b 3.407   H I,C IV,N V                                                                            | 0.80   1.00
+P 84b 3.461   C IV                                                                                    | 0.45   1.00
+P 84b 3.470   N V                                                                                     | 0.12   1.00
+P 84b 3.4637  zem                                                                                     |
+P 85b 2.836   H I,C IV,Si III                                                                         | 0.86   1.00
+P 85b 3.290   H I,Si III,Si II                                                                        |
+P 85b 3.595   H I,Si III,O VI                                                                         |
+P 85b 3.6249  zem                                                                                     |
+P 85a 3.684   H I,Si III                                                                              |
+P 85a 3.699   N V                                                                                     | 0.16   0.50
+P 85a 3.7409  zem                                                                                     |
+P 86b 2.478   H I,C IV,Si III                                                                         | 0.22   0.65
+P 86b 2.611   H I,Si III                                                                              |
+P 86b 2.6295  zem                                                                                     |
+P 86a 2.840   H I,Si III                                                                              |
+P 86a 2.863   H I,Si III                                                                              |
+P 86a 2.8847  zem                                                                                     |
+P 87b 1.435   Mg II                                                                                   | 1.76   1.00
+P 87a 1.705   Mg II,Fe II,Al II                                                                       | 2.02  -1.
+P 87a 2.5580  zem                                                                                     |
+P 87b 2.958   H I,N V                                                                                 | 0.42   1.4
+P 87b 2.9997  zem                                                                                     |
+P 88b 2.103   C IV#                                                                                   | 0.81   1.00
+P 88b 2.185   C IV#                                                                                   | 1.04   1.00
+P 88b 2.899   N V                                                                                     | 0.43   1.00
+P 88b 2.9433  zem                                                                                     |
+P 88a 3.3399  zem                                                                                     |
+P 89a 1.705   C IV                                                                                    | 0.50   1.00
+P 89a 1.778   C IV                                                                                    | 0.26   1.00
+P 89a 2.222   H IV,C IV,Si III, Si IV,Mg II                                                           | 0.56   1.00
+P 89a 2.4084  zem                                                                                     |
+P 89b 2.729   H I,C IV,N V,                                                                           | 0.77   0.40
+P 89b 2.734   H I,C IV,N V,                                                                           | 1.91   0.40
+P 89b 2.7477  zem                                                                                     |
+P 90b 1.0839  Mg II                                                                                   | 0.35   0.75
+P 90a 1.638   Fe II,Mg II Al II,Al III                                                                | 2.62   0.25
+P 90a 1.869   C IV                                                                                    | 0.92   0.35
+P 90b 2.094   C IV,Fe II,Al II, Si II,Si IV                                                           | 0.60   0.50
+P 90a 2.270   H I,C IV,Si IV, C II,Si II,Mg II, Al II,N V,Fe II                                       | 2.36   0.35
+P 90a 2.270   H I,C IV,Si IV, C II,Si II,Mg II, Al II,N V,Fe II                                       | 1.01   0.35
+P 90b 2.378   H I,Si III,C IV                                                                         | 0.24   0.75
+P 90b 2.415   H I,Si III,C IV                                                                         | 0.40   0.75
+P 90a 2.468   H I,C IV,N V                                                                            | 1.11   0.35
+P 90a 2.471   H I,C IV,N V                                                                            | 0.98   0.35
+P 90a 2.489   C IV,Si IV                                                                              | 0.90
+P 90a 2.4910  zem                                                                                     |
+P 90b 2.503   C IV                                                                                    | 0.24   0.75
+P 90b 2.8507  zem                                                                                     |
+P 91a 2.422   H I,C IV,N V                                                     BAL                    | 4.29   1.3
+P 91a 2.4350  zem                                                                                     |
+P 91b 2.789   H I,C IV                                                                                | 0.50   1.50
+P 91b 2.793   H I,C IV                                                                                | 0.72   1.50
+P 91b 2.797   H I,C IV                                                                                | 0.70   1.50
+P 91b 2.870   H I,C IV,N V, Si IV,O VI                                         BAL                    | 7.07   1.50
+P 91b 2.8980  zem                                                                                     |
+P 92b 3.0308  zem                                                                                     |
+P 92a 3.1174  zem                                                                                     |
+P 93a 2.077   C IV                                                                                    | 0.89   1.00
+P 93a 2.085   C IV                                                                                    | 0.36   1.00
+P 93a 2.143   C IV                                                                                    | 0.40   1.00
+P 93a 2.533   H I,C IV,Si III                                                                         | 0.29   1.00
+P 93a 2.552   H I,C IV,N V                                                                            | 0.49   1.00
+P 93a 2.5554  zem                                                                                     |
+P 93b 2.607   C IV                                                                                    | 0.66?  0.35
+P 93b 2.866   H I,C IV,N V,                                                                           | 0.26   0.35
+P 93b 2.872   H I,C IV,N V, Si IV,C II,Si II O VI                                                     | 0.95?  0.35
+P 93b 2.9537  zem                                                                                     |
+P 94a 3.2030  zem                                                              EA12                   |
+P 94b 3.20784 H I,C IV#,Si II, Si III,N V,Si IV                                EA12                   | 1.0   -1.
+P 94b 3.657   H I,C IV,Si III, Si IV,N V,Al II, Si II,C II,C III, O VI                                | 0.36  -1.
+P 94b 3.8504  zem                                                                                     |
+P 95c 1.154   Mg II,Fe II                                                                             | 1.14   1.50
+P 95a 2.302   C IV                                                                                    | 1.29
+P 95c 2.646   Si IV                                                                                   |
+P 95c 2.809   H I,C IV,Si III, Al II,C II,Si IV                                                       | 0.56   2.00
+P 95a 3.0655  zem                                                                                     |
+P 95c 3.12618 H I,C IV,Si III, N V                                                                    | 0.15?  0.90
+P 95b 3.14571 H I,C IV#,Si III                                                 EAV28                  | 0.69?  0.90
+P 95c 3.1523  zem                                                              EAV28                  |
+P 95b 3.1710  zem                                                                                     |
+P 96b 1.533   Mg II                                                                                   | 1.97   0.75
+P 96b 1.743   Mg II                                                                                   | 1.17   0.75
+P 96a 3.230   H I,C IV,O VI, N V                                                                      | 1.83   1.00
+P 96a 3.2310  zem                                                                                     |
+P 96b 3.7200  zem                                                                                     |
+P 97b 1.643   Mg II,Fe II                                                                             | 0.90   2.00
+P 97b 3.097   H I,C IV,Al II, Si II,Si IV,C II                                                        | 0.44?  2.00
+P 97b 3.158   C IV                                                                                    | 1.33   2.00
+P 97b 4.0295  zem                                                                                     |
+P 97a 4.5678  zem                                                                                     |
+P 98b 1.187   Mg II                                                                                   | 1.04   0.75
+P 98b 1.610   Mg II                                                                                   | 0.62   0.75
+P 98b 2.756   C IV#                                                                                   | 0.99?  1.00
+P 98b 3.466   H I,C IV,C II, Si II,Al II,Si III N V                                                   | 0.88  -1.
+P 98a 3.513   H I,C IV,Si IV, N V,O VI                                         BAL                    |42.0    1.00
+P 98b 3.660   H I,Si III                                                                              |
+P 98b 3.690   H I,C IV,O VI, Si III,N V                                                               | 0.13   1.30
+P 98a 3.7140  zem                                                                                     |
+P 98b 3.7169  zem                                                                                     |
+P 99b 1.840   Mg II                                                                                   | 1.63   2.00
+P 99b 3.419   H I,Si III                                                                              |
+P 99a 3.544   H I,C IV,O VI, N V                                               BAL                    | 9.06   1.00
+P 99a 3.564   Si IV                                                                                   |
+P 99a 3.6206  zem                                                                                     |
+P 99b 3.8139  zem                                                                                     |
+P100b 2.366   C IV                                                                                    | 0.40   1.50
+P100a 3.003   H I,Si II,Si III, C II                                                                  |
+P100a 3.0686  zem                                                                                     |
+P100b 3.2999  zem                                                                                     |
+P101a 3.023   H I,N V,Si III                                                                          |
+P101a 3.1149  zem                                                                                     |
+P101b 3.2510  zem                                                                                     |
+P102a 2.1283  C IV                                                                                    | 0.53   1.50
+P102b 2.2363  zem                                                                                     |
+P102a 2.6089  H I,C IV,Si IV                                                                          | 1.46   1.50
+P102a 2.9804  zem                                                                                     |
+P103a 1.3816  Mg II,Fe II,Mg I                                                                        | 2.07   0.50
+P103b 1.5625  C IV,Mg II,Fe II, Al II                                                                 | 1.85   0.50
+P103a 1.6681  Fe II,Mg II                                                                             | 1.89   0.75
+P103b 1.8561  C IV                                                                                    | 0.66   0.50
+P103b 2.3209  H I,Si IV,C IV N V                                                                      | 1.21   0.50
+P103b 2.3170  zem                                                                                     |
+P103a 3.2697  H I,C IV,Si III, Al III,C II,Si II, Si IV,Al II                                         | 1.98   0.50
+P103a 3.3320  zem                                                                                     |
+P104b 0.9850  Mg II,Fe II                                                                             | 0.65   0.50
+P104b 1.3657  Mg II,Fe II,Al II                                                                       | 0.50   0.50
+P104a 1.7119  Mg II,Fe II                                                                             | 1.20   0.50
+P104b 1.9785  zem                                                                                     |
+P104a 2.9212  H I,C IV,Si IV                                                                          | 1.20   0.50
+P104a 2.9611  zem                                                                                     |
+P105b 1.513   Mg II,Fe II                                                                             | 2.17   0.60
+P105a 1.805   Mg II,Fe II                                                                             | 0.94   2.00
+P105a 2.915   H I,C IV,Si II, C II,Si IV                                                              | 0.50   0.50
+P105b 3.012   H I,Si III,C IV, Al II,Si II                                                            | 1.16   0.40
+P105b 3.369   H I,N V,Si III, C II,Si IV,Si II, Al II,C IV                                            | 0.73   0.50
+P105a 3.7495  zem                                                                                     |
+P105b 3.7719  zem                                                                                     |
+P106b 0.504   Mg II                                                                                   | 2.25  -1.
+P106a 0.691   Mg II                                                                                   | 0.25   2.00
+P106a 0.755   Mg II                                                                                   | 0.30   2.00
+P106a 1.381   Mg II                                                                                   | 0.38   2.00
+P106a 1.610   Mg II,Fe II                                                                             | 0.74   2.00
+P106a 1.760   C IV                                                                                    | 0.69   2.00
+P106a 1.873   Mg II,Fe II,C IV                                                                        | 0.40   2.00
+P106a 2.103   C IV                                                                                    | 0.48   2.00
+P106b 2.3740  zem                                                                                     |
+P106a 2.493   H I,N V,Si III,                                                                         | 0.15   2.00
+P106a 2.5338  zem                                                                                     |
+P107a 2.666   H I,Si III,C IV, N V,Si IV                                                              | 1.54  -1.
+P107a 2.680   zem                                                                                     |
+P107b 2.842   zem                                                                                     |
+P108a 2.606   zem                                                                                     |
+P108b 2.630   zem                                                                                     |
+P109a 1.531   Mg II                                                                                   | 1.73   0.45
+P109a 1.711   Fe II                                                                                   |
+P109b 1.754   Mg II,Fe II                                                                             | 1.30   1.20
+P109b 2.198   Mg II,Fe II                                                                             | 2.00  -1.
+P109b 2.338   C IV                                                                                    | 0.81   2.00
+P109b 2.4265  C IV#                                                                                   | 0.85   2.00
+P109a 3.016   H I,C IV,O VI N V                                                BAL                    | 9.55  -1.
+P109a 3.043   zem                                                                                     |
+P109b 3.056   H I,C IV,Si IV, N V,O VI                                         BAL                    |24.2    2.00
+P109b 3.110   zem                                                                                     |
+P111a 2.713   C IV                                                                                    | 0.73   1.75
+P111b 2.8982  zem                                                                                     |
+P111a 3.140   H I,C IV,N V, O VI                                               BAL                    |11.7    1.50
+P111a 3.152   zem                                                                                     |
+P112b 3.371   zem                                                                                     |
+P112a 3.670   zem                                                                                     |
+P113b 1.6988  Mg II                                                                                   | 1.01   1.50
+P113b 2.0054  Mg II,Fe II                                                                             | 2.45  -1.
+P113b 2.2540  C IV                                                                                    | 0.68   3.00
+P113b 3.0868  C IV                                                                                    | 0.29   3.00
+P113b 3.1166  zem                                                                                     |
+P113a 3.249   zem                                                                                     |
+P114a 2.582   H I,C IV,Si III                                                                         | 0.47   1.20
+P114a 2.5931  zem                                                                                     |
+P114b 2.983   H I,C IV,Si III, N V                                                                    | 1.15   3.00
+P114b 2.994   zem                                                                                     |
+P115b 1.245   Mg II                                                                                   | 0.70  -1.
+P115b 1.902   C IV                                                                                    | 0.23  -1.
+P115b 2.007   C IV                                                                                    | 0.87  -1.
+P115b 2.050   C IV#,Si IV,Mg II, Fe II,Al II                                                          | 0.60  -1.
+P115a 2.276   H I,C IV#                                                                               | 0.83   0.40
+P115b 2.3072  H I,C IV,Si III                                                                         | 0.56   1.50
+P115b 2.3172  H I,C IV,Si III                                                                         | 0.58   1.50
+P115b 2.565   H I,C IV,N V, Si IV                                              BAL                    |18.1    1.50
+P115b 2.590   zem                                                                                     |
+P115a 2.954   H I,C IV                                                         BAL                    | 5.0    0.25
+P115a 3.019   H I,C IV,Si IV, N V,O VI                                         BAL                    |12.08   0.25
+P115a 3.059   zem                                                                                     |
+P116a 1.110   Mg II,Fe II                                                                             | 0.16   0.30
+P116a 1.181   Mg II,Fe II                                                                             | 0.34   0.30
+P116b 1.336   C IV                                                                                    | 0.45   0.30
+P116b 1.524   C IV                                                                                    | 0.14   0.30
+P116b 1.534   C IV                                                                                    | 0.16   0.30
+P116a 1.730   C IV                                                                                    | 0.16   0.25
+P116a 1.74352 C IV                                                                                    | 1.13   0.25
+P116a 1.768   zem                                                                                     |
+P116b 1.77780 H I,C IV                                                                                | 0.22   0.30
+P116a 1.79988 H I,C IV,N V, Si IV,C II,Al II                                                          | 2.00   0.25
+P116b 1.8196  zem                                                                                     |
+P117b 1.414   H I,C IV,Si IV, N V,C II                                                                | 0.71   0.30
+P117a 1.513   C IV                                                                                    | 0.18   0.25
+P117a 1.805   H I,Si III                                                                              |
+P117a 1.8460  zem                                                                                     |
+P117a 1.843   H I,Si III                                                                              |
+P117b 1.9053  zem                                                                                     |
+P118b 0.888   Fe II                                                                                   |
+P118b 2.052   H I,Si IV,Si III, C II                                                                  |
+P118c 2.094   H I,Si III                                                                              |
+P118a 2.112   H I,Si III,Si IV                                                                        |
+P118c 2.138   H I,Si III                                                                              |
+P118b 2.4005  H I,Si III                                                                              |
+P118a 2.4428  H I,Si III                                                                              |
+P118a 2.4694  zem                                                                                     |
+P118b 2.5351  zem                                                                                     |
+P118c 2.551   H I,Si III                                                                              |
+P118c 2.605   zem                                                                                     |
+P119b 0.883   Mg II,Fe II                                                                             | 1.10   0.75
+P119b 0.988   Mg II                                                                                   | 0.93   0.75
+P119a 1.029   Mg II                                                                                   | 1.11   0.30
+P119b 1.155   Mg II,Fe II                                                                             | 1.51   0.75
+P119b 2.713   C IV                                                                                    | 0.74   0.50
+P119b 2.737   C IV,Si IV                                                                              | 0.56   0.50
+P119b 2.780   H I,N V,C IV,                                                                           | 1.73   0.50
+P119b 2.915   C IV                                                                                    | 0.52   0.50
+P119a 3.075   Si IV                                                                                   |
+P119b 3.220   zem                                                                                     |
+P119b 3.22625 H I,N V,C IV                                                                            | 0.57   0.50
+P119a 3.2431  zem                                                                                     |
+P120b 1.495   Fe II                                                                                   |
+P120b 1.767   Fe II                                                                                   |
+P120a 2.507   C IV,Si II                                                                              | 2.04   0.30
+P120b 3.0585  zem                                                                                     |
+P120a 3.168   H I,Si II,C IV#, O VI,O I,C II                                                          | 1.19   0.30
+P120a 3.229   H I,C IV,N V, O VI                                               BAL                    | 3.07   0.50
+P120a 3.229   H I,C IV,N V, O VI                                                                      | 1.07   0.50
+P120a 3.250   zem                                                                                     |
+P121b 1.141   Mg II,Fe II                                                                             | 0.96   2.00
+P121b 1.589   C IV                                                                                    | 0.77   0.50
+P121a 2.28820 H I,C IV,N V                                                     EAV29                  | 1.32   0.35
+P121a 2.292   zem                                                                                     |
+P121b 2.2941  zem                                                              EAV29                  |
+P121b 2.32177 C IV                                                                                    | 0.38   0.50
+P122a 0.794   Mg II                                                                                   | 0.59   0.25
+P122a 1.393   Mg II,Fe II,Al II                                                                       | 2.54   0.30
+P122a 1.666   C IV                                                                                    | 1.01   0.30
+P122a 1.764   C IV                                                                                    | 0.62   0.30
+P122a 2.2511  zem                                                                                     |
+P122b 2.2961  zem                                                                                     |
+P123b 0.594   Mg II                                                                                   | 1.35   1.00
+P123b 1.866   C IV                                                                                    | 0.40   1.00
+P123b 1.968   C IV#,Mg II, Mg I,Fe II,Al II, Al III,Si II                                             | 0.67   1.00
+P123a 2.203   H I,C IV,Si IV, Si II,Si III,C II, O I                                                  | 0.46   0.30
+P123a 2.2624  zem                                                              EA13                   |
+P123b 2.25927 H I,C IV                                                         EA13                   | 0.40   1.00
+P123b 2.374   H I,C IV,N V                                                                            | 1.7    1.00
+P123b 2.385   H I,C IV,N V                                                                            | 1.5    1.00
+P123b 2.394   H I,C IV,N V                                                                            | 0.79   1.00
+P123b 2.401   zem                                                                                     |
+P123b 2.408   C IV,Si IV,Si II, C II                                                                  | 0.56   1.00
+P124b 0.755   Mg II                                                                                   | 0.59  -1.
+P124a 2.264   zem                                                                                     |
+P124b 2.3034  zem                                                                                     |
+P125a 1.524   Mg II,Fe II                                                                             | 1.63   0.75
+P125b 1.709   Mg II                                                                                   | 1.09   0.50
+P125b 2.04869 C IV                                                             AAV22                  | 0.46   0.60
+P125a 2.05437 C IV                                                             AAV22                  | 0.74   0.40
+P125a 2.287   H I,C IV,Si III, N V                                                                    | 0.41   0.30
+P125a 2.299   H I,C IV,Si IV, Si III,N V,C II                                                         | 0.91   0.30
+P125a 2.477   zem                                                                                     |
+P125b 2.484   zem                                                                                     |
+P126b 0.847   M g II,Fe II                                                                            | 1.09  -1.
+P126b 2.071   C IV                                                                                    | 0.20  -1.
+P126b 2.187   H I,N V,C IV, Si IV,Si III,Si II, C II                                                  | 1.11  -1.
+P126a 2.518   zem                                                                                     |
+P126b 2.5695  zem                                                                                     |
+P127b 2.463   C IV                                                                                    | 0.51   1.50
+P127b 2.630   H I,C IV,Si IV, Si II,Si III,C II                                                       | 1.35   1.50
+P127a 2.5674  zem                                                                                     |
+P127b 2.6477  zem                                                                                     |
+P128a 2.099   C IV                                                                                    | 1.46   0.40
+P128a 2.145   C IV                                                                                    | 0.18   0.40
+P128b 2.272   C IV                                                                                    | 0.30   0.30
+P128b 2.814   Si IV                                                                                   |
+P128a 2.8668  zem                                                                                     |
+P128b 2.893   H I,N V,C IV, O VI                                               BAL                    | 9.7    0.45
+P128b 2.9701  zem                                                                                     |
+P129b 2.600   H I,C IV,Si IV                                                   BAL                    | 8.0    2.00
+P129a 3.0752  zem                                                                                     |
+P129b 3.2301  zem                                                                                     |
+P130b 1.072   Mg II,Fe II                                                                             | 2.36   0.30
+P130a 1.356   Mg II,Fe II                                                                             | 1.43   0.75
+P130a 1.829   Mg II                                                                                   | 0.32   1.00
+P130a 2.383   C IV                                                                                    | 0.54   0.75
+P130a 2.549   H I,Si III,C IV                                                                         | 0.56   1.00
+P130b 2.574   H I,C IV,C II Si II,Si III,Si IV Al II                                                  | 0.53   0.35
+P130b 2.840   C IV                                                                                    | 0.42   0.30
+P130a 2.988   H I,C IV,Si III                                                                         | 0.33   0.75
+P130a 3.022   H I,C IV,C II, Si II,Si III,Si IV, Al II                                                | 0.75   0.75
+P130a 3.1153  zem                                                                                     |
+P130b 3.1238  zem                                                                                     |
+P131b 1.020   Mg II                                                                                   | 0.73   1.50
+P131b 2.709   H I,Si II,Si III, Si IV,C II,C IV,Al II,O VI                                            | 0.77   1.50
+P131a 3.208   zem                                                                                     |
+P131b 3.2151  zem                                                                                     |
+P132b 2.9042  H I,C IV,C II, Si II,Si III,Al II                                                       | 0.53   1.50
+P132a 3.244   zem                                                                                     |
+P132b 3.244   zem                                                                                     |
+P133b 1.393   Mg II,Fe II                                                                             | 1.55   0.30
+P133a 1.699   Mg II                                                                                   | 1.32   0.75
+P133a 1.808   Mg II,Fe II                                                                             | 1.01   1.20
+P133a 2.743   H I,C IV,N V                                                                            | 0.95   1.50
+P133a 2.838   H I,C IV                                                                                | 0.65   1.00
+P133a 2.993   H I,N V,C IV, O VI                                               BAL                    |21.8    1.00
+P133b 3.150   H I,C IV                                                                                | 0.31   0.30
+P133a 3.2642  zem                                                                                     |
+P133b 3.268   zem                                                                                     |
+P133a 3.318   H I,N V,Si IV, C IV,Al II,Si II,C II,O VI,Si III                                        | 1.72   0.75
+P133a 3.318   H I,N V,Si IV, C IV,Al II,Si II,C II,O VI,Si III                                        | 0.44   0.75
+P134a 1.150   Mg II,Fe II                                                                             | 0.80   0.75
+P134b 1.648   Mg II                                                                                   | 1.05   1.00
+P134a 2.409   C IV                                                                                    | 0.26   0.35
+P134b 2.587   C IV                                                                                    | 0.64   2.00
+P134b 2.667   H I,C IV,N V                                                     BAL                    | 5.14   2.00
+P134a 3.055   H I,C IV,O VI                                                                           | 1.09   0.50
+P134b 3.3114  zem                                                                                     |
+P134a 3.3214  zem                                                                                     |
+P135b 3.236   H I,C IV,Si IV, C II,Si II                                                              | 1.16   1.50
+P135a 3.678   zem                                                                                     |
+P135b 3.789   H I,C IV,Si IV, N V                                                                     | 0.50   1.50
+P135b 3.798   zem                                                                                     |
+P136a 2.254   C IV,Si II,Al II, Mg II,Fe II                                                           | 0.70   1.00
+P136a 2.254   C IV,Si II,Al II, Mg II,Fe II                                                           | 0.24   0.50
+P136b 2.299   H I,C IV,Si IV N V                                               BAL                    | 9.4    0.50
+P136b 2.324   H I,C IV,N V                                                                            | 1.08   0.50
+P136b 2.3433  zem                                                                                     |
+P136a 2.367   C IV                                                                                    | 0.98   0.60
+P136a 2.3708  zem                                                                                     |
+P137a 3.383   H I,C IV                                                                                | 0.67   2.00
+P137a 3.384   zem                                                                                     |
+P137a 3.387   H I,C IV                                                                                | 0.45?  2.00
+P137b 3.4869  zem                                                                                     |
+P138a 1.566   M g II,Fe II                                                                            | 1.53   1.50
+P138a 3.6938  zem                                                                                     |
+P138b 3.851   zem                                                                                     |
+P140a 3.745   zem                                                                                     |
+P140b 3.7692  zem                                                                                     |
+P141b 4.11557 H I,Si IV,N V, O VI                                              EAV30                  | 2.85  -1.
+P141a 4.058   H I,N V,C IV Si IV                                               BAL                    | 5.0   -1.
+P141a 4.13    zem                                                              EAV30                  |
+P141b 4.167   zem                                                                                     |
+P142a 2.279   zem                                                                                     |
+P142b 2.346   H I,C II,Si III, Si II,O I                                                              |
+P142b 2.389   H I,C IV                                                                                | 0.50  -1.
+P142b 2.436   zem                                                                                     |
+P143b 1.406   Mg II,Fe II                                                                             | 0.83   0.75
+P143a 3.556   Si II,C IV                                                                              | 0.49   1.50
+P143a 3.584   Si IV,C IV                                                                              | 1.42   1.50
+P143a 3.927   H I,N V                                                          BAL                    | 5.28   2.50
+P143a 4.0076  zem                                                                                     |
+P143b 4.16    zem                                                                                     |
+P144a 2.972   H I,C IV,N V                                                     BAL                    | 9.6    1.50
+P144b 2.963   zem                                                                                     |
+P144a 2.99    zem                                                                                     |
+P145a 2.4864  C IV                                                                                    | 1.08   0.75
+P145b 3.2923  H I,C IV,Si III Si II,Si IV,C II, Al II,O I                                             | 1.03   2.50
+P145a 3.32    zem                                                                                     |
+P145b 3.3729  zem                                                                                     |
+P146a 1.0849  Mg II                                                                                   | 0.64   1.00
+P146b 1.3054  Mg II                                                                                   | 0.90   1.00
+P146b 2.2568  H I,C IV                                                                                | 0.26   1.50
+P146a 2.2682  H I,Si III,C IV                                                                         | 0.49   1.10
+P146a 2.3114  zem                                                              EA14                   |
+P146a 2.2928  H I,Si III                                                                              |
+P146b 2.31354 H I,Si III,C IV                                                  EA14                   | 0.35   1.50
+P146b 2.3507  H I,Si III                                                                              |
+P146b 2.3964  zem                                                                                     |
+P146b 2.3927  H I,Si III,C IV                                                                         | 0.32   1.50
+P147b 1.7649  C IV                                                                                    | 0.64   0.60
+P147a 1.7815  Fe II,Mg II,Al II, C IV,Al III                                                          | 1.60   0.75
+P147a 1.7815  Fe II,Mg II,Al II, C IV,Al III                                                          | 2.67  -1.
+P147a 2.0267  C IV                                                                                    | 0.83   0.50
+P147b 2.3652  zem                                                                                     |
+P147a 2.34871 H I,Si III                                                       AAA34                  | 0.35
+P147b 2.35187 H I,Si III,C IV                                                  AAA34                  | 0.28   0.50
+P147a 2.3704  zem                                                              EA15                   |
+P147b 2.37013 H I,C IV                                                         EA15                   | 0.28
+P148a 2.136   C IV,Si II                                                                              | 0.63   0.50
+P148a 2.2750  C IV                                                                                    | 0.64   0.75
+P148b 2.4211  H I,Si III                                                                              |
+P148b 2.5847  zem                                                                                     |
+P148b 2.5769  H I,Si III                                                                              |
+P148b 2.5852  H I,Si III                                                                              |
+P148a 2.6722  H I,Si III,C IV                                                                         | 0.48   0.75
+P148a 2.7378  zem                                                                                     |
+P148a 2.7277  H I,Si III                                                                              |
+P149b 1.3924  Mg II                                                                                   | 1.64   0.75
+P149a 1.6222  Fe II,Mg II                                                                             | 1.09   1.25
+P149a 2.4529  C IV                                                                                    | 0.70   1.25
+P149a 3.0024  H I,Si III                                                                              |
+P149a 3.0244  H I,Si III                                                                              |
+P149a 3.1039  zem                                                                                     |
+P149b 3.1477  zem                                                                                     |
+P150a 1.4471  Mg II,Fe II                                                                             | 2.71   1.50
+P150b 3.801   H I,C IV,Si IV, N V,O VI                                         BAL                    |12.3    1.50
+P150b 3.846   zem                                                                                     |
+P150a 3.9117  zem                                                                                     |
+P151a 2.4389  H I,Si III,N V,                                                                         | 1.29   1.50
+P151a 2.503   zem                                                                                     |
+P151b 2.529   zem                                                                                     |
+P152b 1.2508  Mg II                                                                                   | 0.54   0.75
+P152b 1.5448  Mg II,Fe II                                                                             | 1.08   0.75
+P152a 2.3885  H I,Si III                                                                              |
+P152a 2.4168  zem                                                                                     |
+P152b 2.4911  H I,C IV,Si III, C II,Si IV                                                             | 0.93   0.75
+P152b 2.5363  C IV                                                                                    | 0.97   0.75
+P152b 2.5823  C IV                                                                                    | 0.60   0.75
+P152b 2.585   zem                                                                                     |
+P153b 1.2256  Mg II,Fe II                                                                             | 1.97   0.75
+P153b 1.5301  Mg II,Fe II                                                                             | 1.15   0.75
+P153a 2.5176  zem                                                              EA16                   |
+P153b 2.5125  zem                                                                                     |
+P153b 2.51780 H I,Si IV,C IV                                                   EA16                   | 0.31   0.75
+P154a 1.0109  Mg II,Fe II                                                                             | 2.33   1.20
+P154a 2.3235  H I,Si III,C IV, Si IV                                                                  | 0.81   1.50
+P154a 2.4167  C IV                                                                                    | 0.77   2.00
+P154a 2.6334  zem                                                                                     |
+P154b 2.6519  zem                                                                                     |
+P155b 2.66215 H I,C II,Si II, C IV,Si III,Fe II                                AA16                   | 0.18   0.75
+P155a 2.66317 H I,C IV,Si IV, Si III,Si II,C II                                AA16                   | 1.19   0.60
+P155b 2.94333 H I,Si III,O VI, Si II,Al III,Si IV, Al II,C IV,C II,O I,N V#    AA17                   | 1.26   1.00
+P155a 2.94423 H I,C IV,Si IV, Si II,O VI,Si II                                 AA17                   | 0.94   0.60
+P155a 2.9955  zem                                                                                     |
+P155b 3.0105  zem                                                                                     |
