@@ -1,0 +1,240 @@
+VII/258            Quasars and Active Galactic Nuclei (13th Ed.)  (Veron+ 2010)
+================================================================================
+A catalogue of quasars and active nuclei: 13th edition
+     Veron-Cetty M.P., Veron P.
+    <Astron. Astrophys. 518, A10 (2010)>
+    =2010A&A...518A..10V
+================================================================================
+ADC_Keywords: QSOs ; Active gal. nuclei ; BL Lac objects ; Gravitational lensing
+Keywords: Quasars: general ; galaxies: Seyfert ; BL Lac objects: general
+
+Description:
+    This catalogue is a compilation of all known AGNs presented in a
+    compact and convenient form. It is an update of the previous versions;
+    and as in the previous editions no information about absorption lines
+    of X-ray properties are given, but absolute magnitudes are given,
+    assuming Ho=71km/s/Mpc and q_0_=0 (notice the change of cosmology:
+    Ho was assumed to be 50km/s/Mpc in the previous editions). When
+    available, the 20cm and 6cm radio flux are given.
+
+    The present edition of this catalogue contains the quasars with
+    measured redshift known prior to July 1st, 2009. It contains 133336
+    quasars, 1374 BL Lac objects and 34231 active galaxies (including
+    15627 Seyfert 1's), almost doubling the number listed in the 12th
+    edition. Lists of known lensed quasars (table2.dat) and double quasars
+    (table3.dat) are also given here.
+
+
+Version history:
+    (1) Veron-Cetty M.P., Veron P., 1984                 (2251 QSOs)
+        ESO Scientific Report 1
+    (2) Veron-Cetty M.P., Veron P., 1985                 (2835 QSOs)
+        ESO Scientific Report 4
+    (3) Veron-Cetty M.P., Veron P., 1987                 (3473 QSOs)
+        ESO Scientific Report 5, Catalog <VII/93>
+    (4) Veron-Cetty M.P., Veron P., 1989                 (4169 QSOs)
+        ESO Scientific Report 7, Catalog <VII/126>
+    (5) Veron-Cetty M.P., Veron P., 1991                 (6225 QSOs)
+        ESO Scientific Report 10, Catalog <VII/146>
+    (6) Veron-Cetty M.P., Veron P., 1993                 (7383 QSOs)
+        ESO Scientific Report 13, Catalog <VII/166>
+    (7) Veron-Cetty M.P., Veron P., 1996                 (8609 QSOs)
+        ESO Scientific Report 17, Catalog <VII/188>
+    (8) Veron-Cetty M.P., Veron P., 1998                (11358 QSOs)
+        ESO Scientific Report 18, Catalog <VII/207>
+    (9) Veron-Cetty M.P., Veron P., 2000                (13214 QSOs)
+        ESO Scientific Report 19, Catalog <VII/215>
+   (10) Veron-Cetty M.P., Veron P., 2001                (23760 QSOs)
+        Astron. Astrophys. 374, 92, Catalog <VII/224>
+   (11) Veron-Cetty M.P., Veron P., 2003                (48921 QSOs)
+        Astron. Astrophys. 412, 399, Catalog <VII/235>
+   (12) Veron-Cetty M.P., Veron P., 2006                (85221 QSOs)
+        Astron. Astrophys. 455, 776, Catalog <VII/248>
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe         80         .   This file
+qso.dat       142    133335  *Quasars (brighter than absolute magnitude -22.25)
+bllac.dat     142      1374   Confirmed, probable or possible BL Lac objects
+agn.dat       142     34231  *Active galaxies (fainter than -22.25)
+reject.dat    130       178   Rejected quasars
+refs.dat      208      2700   References to QSOs, BL Lac, AGN and rejected
+table2.dat     60        88   List of gravitationally lensed quasars
+table3.dat     48        47   List of quasar pairs
+ref2.dat       54       104   References to table2 and table3
+--------------------------------------------------------------------------------
+Note on qso.dat, agn.dat: notice that the change in cosmology changed
+     the limit between QSO and AGN from -23mag to -22.25mag.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: qso.dat bllac.dat agn.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+       2  A1     ---     nR       [*] '*' if not detected in radio (1)
+   3- 19  A17    ---     Name     Most common name of the object
+  22- 23  I2     h       RAh      Right Ascension J2000 (hours) (see also n_RAh)
+  25- 26  I2     min     RAm      Right Ascension J2000 (minutes)
+  28- 31  F4.1   s       RAs      Right Ascension J2000 (seconds)
+      33  A1     ---     DE-      Declination J2000 (sign)
+  34- 35  I2     deg     DEd      Declination J2000 (degrees)
+  37- 38  I2     arcmin  DEm      Declination J2000 (minutes)
+  40- 41  I2     arcsec  DEs      Declination J2000 (seconds)
+      43  A1     ---   n_RAh      [AOR] Approximative/Optical/Radio position (2)
+  45- 50  F6.3   Jy      F6cm     ? 6cm (5GHz) flux (5)
+  52- 55  I4     ---   r_F6cm     [1,2701]? Reference of 6cm Flux
+  58- 63  F6.3   Jy      F20cm    ? 20cm (1.4GHz) flux (Jy) (5)
+  65- 68  I4     ---   r_F20cm    [1,2701]? Reference of 20cm flux
+      70  A1     ---   l_z        [>*] limit or method flag on z (4)
+  71- 75  F5.3   ---     z        ? redshift
+  77- 80  A4     ---     Sp       [S0-9?HPQBLbhin. ] Spectrum classification (3)
+      82  A1     ---   n_Vmag     [*BVRIO] Photographic(*), blue(B), visible(V),
+                                   red(R), infra-red (I) or
+                                   photographic O/J-plates(O)
+  83- 87  F5.2   mag     Vmag     ? magnitude: either V if B-V is not blank,
+                                    or another band (see n_Vmag)
+  89- 93  F5.2   mag     B-V      ? colour index
+  95- 99  F5.2   mag     U-B      ? colour index
+ 101-105  F5.1   mag     Mabs     ? Absolute magnitude
+ 107-110  I4     ---     FC       [1,2701]? Reference of the Finding Chart
+ 112-115  I4     ---   r_Vmag     [1,2701]? Reference of the Photometry
+ 117-120  I4     ---   r_z        [1,2701]? Reference of the redshift
+ 123-124  I2     h       RA1950h  Right Ascension B1950 (hours)
+ 126-127  I2     min     RA1950m  Right Ascension B1950 (minutes)
+ 129-132  F4.1   s       RA1950s  Right Ascension B1950 (seconds)
+     134  A1     ---     DE1950-  Declination B1950 (sign)
+ 135-136  I2     deg     DE1950d  Declination B1950 (degrees)
+ 138-139  I2     arcmin  DE1950m  Declination B1950 (minutes)
+ 141-142  I2     arcsec  DE1950s  Declination B1950 (seconds)
+--------------------------------------------------------------------------------
+Note (1): this flag is blank if the object has been detected as a
+    radio source, and is '*' if not.
+Note (2): this flag related to the position takes the values:
+     'O' for an Optical position with an accuracy better than 1arcsec
+     'R' for a Radio position with an accuracy better than 1arcsec
+     'A' for an approximative position
+Note (3): the classification of the object is
+     Q2 : type-2 quasar
+     S1 : Seyfert 1 spectrum
+     S1h: broad polarized Balmer lines detected
+     S1i: broad Paschen lines observed in the infrared
+     S1n: narrow-line Seyfert 1
+     S1.0, S1.2, S1.5, S1.8, S1.9: intermediate Seyfert galaxies
+     S2 : Seyfert 2 spectrum
+     S2?: probable Seyfert 2
+     S3 : Seyfert 3 or liner
+     S3b: Seyfert 3 or liner with broad Balmer lines
+     S3h: Seyfert 3 or liner with broad polarized Balmer lines detected
+     S  : unclassified Seyfert
+     S? : possibly a Seyfert
+     H2 : nuclear HII region
+     HP : high optical polarization (>3%)
+     BL : confirmed BL Lac object
+     BL?: probable BL Lac object
+     ?  : questionable BL Lac object
+Note (4): n_z may indicate a lower limit on z, or
+     '*', if the redshift is measured by slitless spectroscopy.
+Note (5): the flux is not reported if too large to fit in the column
+     (i.e. >=100Jy), like Cen A (NGC 5128)
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: reject.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+       2  A1     ---     nR       [*] '*' if not detected in radio (1)
+   3- 19  A17    ---     Name     Most common name of the object
+  24- 25  I2     h       RAh      Right Ascension J2000 (hours)
+  27- 28  I2     min     RAm      Right Ascension J2000 (minutes)
+  30- 33  F4.1   s       RAs      Right Ascension J2000 (seconds)
+      35  A1     ---     DE-      Declination J2000 (sign)
+  36- 37  I2     deg     DEd      Declination J2000 (degrees)
+  39- 40  I2     arcmin  DEm      Declination J2000 (minutes)
+  42- 43  I2     arcsec  DEs      Declination J2000 (seconds)
+      45  A1     ---   n_RAh      [OAR] Approximative/Optical/Radio position
+      50  A1     ---   n_z        [*] '*' for z measured by slitless
+                                  spectroscopy
+  51- 55  F5.3   ---     z        ? Original redshift
+  58- 59  A2     ---     Sp       [QG?BLS12 ] Original classification
+      62  A1     ---   n_Vmag     [*IRIOJK] Photographic(*), red(R), infra-red
+                                     (I) or photographic O- or J- plates(O)
+  63- 67  F5.2   mag     Vmag     ? V (or photographic, see n_Vmag) magnitude
+  70- 74  F5.2   mag     B-V      ? colour index
+  77- 81  F5.2   mag     U-B      ? colour index
+  84- 87  I4     ---     FC       [1,2701]? Reference of Finding Chart
+  89- 92  I4     ---   r_Vmag     [1,2701]? Reference of the Photometry
+  94- 97  I4     ---   r_Sp       [1,2701]? Reference of Sp
+ 101-102  A2     ---     Sp2      [QGH2*?SN ] New classification
+ 105-108  I4     ---   r_Sp2      [1,2701]? Reference of New classification
+ 111-112  I2     h       RA1950h  Right Ascension B1950 (hours)
+ 114-115  I2     min     RA1950m  Right Ascension B1950 (minutes)
+ 117-120  F4.1   s       RA1950s  Right Ascension B1950 (seconds)
+     122  A1     ---     DE1950-  Declination B1950 (sign)
+ 123-124  I2     deg     DE1950d  Declination B1950 (degrees)
+ 126-127  I2     arcmin  DE1950m  Declination B1950 (minutes)
+ 129-130  I2     arcsec  DE1950s  Declination B1950 (seconds)
+--------------------------------------------------------------------------------
+Note (1): this flag is blank if the object has been detected as a
+    radio source, and is '*' if not.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: refs.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4     ---     RefNo     [1,2701]+= Reference Number
+   6- 24  A19    ---     BibCode  *The 19-digit bibcode
+  25-208  A184   ---     Text      Text of reference
+--------------------------------------------------------------------------------
+Note on BibCode: bibliographical code shared by SIMBAD, NED, ADS.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 17  A17   ---     Name      QSO Name
+  24- 30  A7    ---     Bname     QSO name, based on 1950 position
+  33- 37  F5.3  ---     zq        redshift of Quasar
+  39- 43  F5.3  ---     zlens     ? Redshift of lens
+  46- 50  F5.2  arcsec  Sep       ? Separation between the images
+  53- 60  A8    ---     Refs      References detailed in table ref2.dat
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 17  A17   ---     Name      QSO Name
+  20- 26  A7    ---     Bname     QSO name, based on 1950 position
+  28- 32  F5.3  ---     z         redshift of Quasars
+  35- 38  F4.1  arcsec  Sep       Separation between the components
+  41- 48  A8    ---     Refs      References detailed in table ref2.dat
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: ref2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     Ref2      Reference number used in table2 and table3
+   5-  8  I4    ---     ref       ? Reference number in file "refs.dat"
+  10- 28  A19   ---     bibCode   19-digit "bibcode" used by ADS, NED and SIMBAD
+  30- 54  A25   ---     Authors   First author(s)
+--------------------------------------------------------------------------------
+
+Courtesy:
+    Mira Veron <Mira.Veron(at)oamp.fr>
+
+History:
+  * 02-Feb-2010: original version, with a cosmology of Ho=50km/s/Mpc
+  * 31-Mar-2010: change in the cosmology: Ho=71km/s/Mpc was adopted.
+  * 20-Feb-2012: corrected 3 quasars and removed one duplicate:
+    -- the positions of SDSS J00480-1051B and SDSS J00480-1051A has
+       an identical position (00:48:00.9-10:51:46), fixed
+    -- the 2 quasars H 1400#16A and SDSS J13523+1302 are identical
+       at position 13:52:18.2+13:02:41; records merged.
+
+================================================================================
+(End)                                   Francois Ochsenbein [CDS]    02-Feb-2010

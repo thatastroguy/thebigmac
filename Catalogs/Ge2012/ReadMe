@@ -1,0 +1,168 @@
+J/ApJS/201/31          Emission-line galaxies from SDSS. I.          (Ge+, 2012)
+================================================================================
+Double-peaked narrow emission-line galaxies from the Sloan Digital Sky Survey.
+I. Sample and basic properties.
+    Ge J.-Q., Hu C., Wang J.-M., Bai J.-M., Zhang S.
+   <Astrophys. J. Suppl. Ser., 201, 31 (2012)>
+   =2012ApJS..201...31G
+================================================================================
+ADC_Keywords: Active gal. nuclei ; Velocity dispersion ; Redshifts ;
+              Galaxies, spectra ; Line Profiles ; Photometry, SDSS
+Keywords: black hole physics - galaxies: evolution
+
+Abstract:
+    Recently, much attention has been paid to double-peaked narrow
+    emission-line (NEL) galaxies, some of which are suggested to be
+    related to merging galaxies. We make a systematic search to build the
+    largest sample of these sources from Data Release 7 of the Sloan
+    Digital Sky Survey (SDSS). With reasonable criteria for fluxes, FWHMs
+    of the emission lines, and separations of the peaks, we select 3030
+    double-peaked NEL galaxies. In light of the existence of broad Balmer
+    lines and the locations of the two components of double-peaked NELs
+    distinguished by the Kauffmann et al. (2003MNRAS.346.1055K) criteria
+    in the Baldwin-Phillips-Terlevich diagram, we find that there are 81
+    Type I active galactic nuclei (AGNs), 837 double Type II AGNs (2-Type
+    II), 708 galaxies with double star-forming components (2-SF), 400 with
+    mixed star-forming and Type II AGN components (Type II + SF), and 1004
+    unknown-type objects. As a by-product, a sample of galaxies (12582)
+    with asymmetric or top-flat profiles of emission lines is established.
+    After visually inspecting the SDSS images of the two samples, we find
+    54 galaxies with dual cores.
+
+Description:
+    For the goal of selecting pp-galaxies, we develop a series of
+    automatic algorithms in light of Monte Carlo simulations. We apply the
+    algorithms to SDSS galaxy spectra and get candidates from the
+    pp-galaxies. Then we visually inspect the candidate spectra to
+    establish the final sample. We start from the database of the MPA-JHU
+    SDSS-DR7 galaxy sample.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table3.dat    173     3030   Emission-line galaxies with double-peaked narrow
+                             emission-lines galaxies (pp-galaxies)
+table4.dat    173    12582   Emission-line galaxies with asymmetric and top-flat
+                             narrow emission-line (asym-NEL galaxies)
+table5.dat     88      345   List of pp-AGN (110) and asym-NEL AGNs (235) with
+                             strong [OIII] wings
+table6.dat     77       54  *List of 54 dual-core pp-galaxies (nos. 1-15) and
+                             asym-NEL galaxies (nos. 16-54)
+table7.dat    117      258   List of 255 galaxies with dual cores separated >=3"
+--------------------------------------------------------------------------------
+Note on table6.dat: The images and the spectra of the 54 galaxies are shown in
+  Figure 11. The number sequence of the images should be from left to right and
+  from top to bottom.
+--------------------------------------------------------------------------------
+
+See also:
+   II/294 : The SDSS Photometric Catalog, Release 7 (Adelman-McCarthy+, 2009)
+   J/ApJS/201/23 : Spectroscopy of 88 z<0.7 SDSS QSOs (Eracleous+, 2012)
+   J/ApJ/708/427 : Type 2 AGNs with double-peaked [OIII] lines (Liu+, 2010)
+   J/ApJ/716/866 : SDSS search for binary AGN (Smith+, 2010)
+   J/ApJ/705/L76 : AGNs with double-peaked [OIII] lines (Wang+, 2009)
+   J/AJ/126/1720 : ugriz and H{alpha} of double-peaked AGN (Strateva+, 2003)
+   J/ApJ/599/886 : Emission lines of radio-loud AGN (Eracleous+, 2003)
+   http://www.mpa-garching.mpg.de/SDSS/DR7 : MPA/JHU DR7 online access
+
+Byte-by-byte Description of file: table[34].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units      Label Explanations
+--------------------------------------------------------------------------------
+   1- 19  A19   ---        SDSS  SDSS-DR7 name (JHHMMSS.ss+DDMMSS.s)
+  21- 25  I5    d          MJD   Modified Julian Date of spectroscopic
+                                 observation
+  27- 30  I4    ---        Plate SDSS plate identifier
+  32- 34  I3    ---        Fib   SDSS fiber identifier
+  36- 42  F7.5  ---        z     [0.00824/0.63518] Spectroscopic redshift
+  44- 50  F7.5  ---      e_z     Uncertainty in z
+  52- 56  F5.2  mag        rmag  ?=0 SDSS r band magnitude
+  58- 62  F5.1  km/s       sigma Velocity dispersion of galaxy absorption
+  64- 68  F5.1  km/s     e_sigma Uncertainty in sigma
+  70- 75  F6.1  km/s       DelVb Blue NEL component doppler blueshift
+  77- 80  F4.1  km/s     e_DelVb Uncertainty in DelVb
+  82- 87  F6.1  km/s       DelVr Red NEL component doppler redshift
+  89- 94  F6.1  km/s     e_DelVr Uncertainty in DelVr
+  96-100  F5.1  km/s       sigb  Blue NEL component velocity dispersion
+ 102-105  F4.1  km/s     e_sigb  Uncertainty in sigmab
+ 107-111  F5.1  km/s       sigr  Red NEL component velocity dispersion
+ 113-118  F6.1  km/s     e_sigr  Uncertainty in sigmar
+ 120-125  F6.1 10-20W/m2   FbO3  ?=0 Blue [OIII] component flux
+                                 (in units of 1e-17erg/s/cm^2^)
+ 127-131  F5.1 10-20W/m2 e_FbO3  ?=0 Uncertainty in FbO3
+ 133-139  F7.1 10-20W/m2   FrO3  ?=0 Red [OIII] component flux
+                                 (in units of 1e-17erg/s/cm^2^)
+ 141-145  F5.1 10-20W/m2 e_FrO3  ?=0 Uncertainty in FrO3
+ 147-152  F6.1 10-20W/m2   FbHa  ?=0 Blue H{alpha} component flux
+                                 (in units of 1e-17erg/s/cm^2^)
+ 154-158  F5.1 10-20W/m2 e_FbHa  ?=0 Uncertainty in FbHa
+ 160-165  F6.1 10-20W/m2   FrHa  ?=0 Red H{alpha} component flux
+                                 (in units of 1e-17erg/s/cm^2^)
+ 167-171  F5.1 10-20W/m2 e_FrHa  ?=0 Uncertainty in FrHa
+     173  I1    ---        T     [1/5] Type of double-peaked galaxy (1)
+--------------------------------------------------------------------------------
+Note (1): Type as follows:
+    1 = Type I;
+    2 = Type II + Type II;
+    3 = Type II + SF;
+    4 = SF + SF;
+    5 = "unknown-type".
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table[56].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label  Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     Seq    Index number
+   5- 23  A19   ---     SDSS   SDSS-DR7 name (JHHMMSS.ss+DDMMSS.s)
+  25- 29  I5    d       MJD    Modified Julian Date of spectroscopic observation
+  31- 34  I4    ---     Plate  SDSS plate identifier
+  36- 38  I3    ---     Fib    SDSS fiber identifier
+  40- 47  F8.6  ---     z      Spectroscopic redshift
+  49- 53  F5.2  mag     rmag   SDSS r band magnitude
+  55- 60  F6.1  km/s    DelVO3 ? Shift of strong [OIII] wings (table5)
+  62- 66  F5.2  [10-7W] logLO3 ? Log [OIII] wings luminosity in erg/s (table5)
+  68- 88  A21   ---     Type   Object type
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table7.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     Seq       Index number
+   5- 23  A19   ---     SDSS      Primary core SDSS-DR7 name
+                                  (JHHMMSS.ss+DDMMSS.s) (1)
+  25- 29  I5    d       MJD       Modified Julian Date of spectroscopic
+                                  observation of primary core
+  31- 34  I4    ---     Plate     Primary core SDSS plate identifier
+  36- 38  I3    ---     Fib       Primary core SDSS fiber identifier (2)
+  40- 46  F7.5  ---     z         Spectroscopic redshift of primary core
+  48- 52  F5.2  mag     rmag      SDSS r band magnitude of primary core
+  54- 72  A19   ---     SDSS2     Secondary core SDSS-DR7 name (1)
+  74- 78  I5    d       MJD2      ? Modified Julian Date of spectroscopic
+                                  observation of secondary core
+  80- 83  I4    ---     Plate2    ? Secondary core SDSS plate identifier
+  85- 87  I3    ---     Fib2      ? Secondary core SDSS fiber identifier (2)
+  89- 95  F7.5  ---     z2        ? Spectroscopic redshift of secondary core
+  97-101  F5.2  mag     rmag2     ? SDSS r band magnitude of secondary core
+ 103-117  A15   ---     Note      Secondary core property (3)
+--------------------------------------------------------------------------------
+Note (1): There are 39 sources with SDSS spectra observation of the secondary
+          core, and have {Delta}z<0.0017 (500km/s).
+Note (2): It should be noted that SDSS fibers only cover 3" and the
+          double-peaked profiles of these source only originate from one of the
+          cores marked by red square in the images given by Figure 12 as shown
+          by Appendix C.
+Note (3): normal (single-peaked) galaxy, pp-galaxy, asym-NEL galaxy.
+--------------------------------------------------------------------------------
+
+History:
+  * 09-Oct-2012: From electronic version of the journal
+  * 28-Nov-2012: two masmatching SDSS names fixed:
+    - in table5: J020814.57-093247.3 fixed into J020814.56-093247.3
+    - in table7: J125136.45+201012.3 fixed into J125136.44+201012.3
+
+================================================================================
+(End)                 Greg Schwarz [AAS], Emmanuelle Perret [CDS]    09-Oct-2012
