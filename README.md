@@ -1,21 +1,24 @@
 # The Washington Multi-AGN Catalog (WMAGN)
 
-Author: Ryan W. Pfeifle<sup>1</sup>
-
+Author: Ryan W. Pfeifle<sup>1</sup> <br />
 Contributor(s): Nathan Secrest<sup>2</sup>
+<br />
+<sup>1</sup> X-ray Astrophysics Laboratory, NASA Goddard Space Flight Center (GSFC)<br />
+<sup>2</sup> United States Naval Observatory (USNO)<br />
+<br />
+Current Version: 0.15 <br />
+Git Repo Creation Date: 23 July 2022 <br />
+First 'official' update to README.md (here): 28 March 2023 <br />
+Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 2020 <br />
+Additional changes and additions occurred during the period (not tracked by Git): November 2020 - March 2023 <br />
 
-<sup>1</sup> X-ray Astrophysics Laboratory, NASA Goddard Space Flight Center (GSFC); <sup>2</sup> United States Naval Observatory (USNO)
+
+## Catalog Content of the DR0.1
 
 
-Current Version: 0.15
 
-Git Repo Creation Date: 23 July 2022
 
-First 'official' update to README.md (here): 28 March 2023
 
-Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 2020
-
-Additional changes and additions occurred during the period (not tracked by Git): November 2020 - March 2023
 
 ## DR0.1, DR0.15, and initial commits to this GitHub Repo
 DR 0.1 consists of work spanning June 2020 - October 2020. Notes on DR0.1 coming soon. 
