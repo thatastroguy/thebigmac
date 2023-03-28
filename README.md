@@ -21,6 +21,8 @@ The purpose of this catalog is to have an exhaustive list of all known multiple 
 
 This catalog should be exhaustive, so include not only confirmed systems but also candidate systems. These systems should be everything that indicates or potentially indicates the presence or apparent presence of more than one AGN associated with a system (e.g. multiple X-ray/radio component, doubling of spectroscopic lines, astrometric jitter, etc.) However, note that gravitational lenses **_are not purposefully included in this catalog_**; this catalog is meant to encapsulate only multiple, but physically distinct, AGN systems, not systems comprising images of a single AGN.
 
+**_DR0.1 consists of work done during the period June 2020 - October 2020 and was only an internal release at USNO._**
+
 ## WMAGN catalog columns: <br />
 - System type (Ex: Dual/triple AGN, binary AGN, or gravitational lens)
 - Discovery method (e.g., multiple X-ray/radio components, spectroscopic, astrometric, etc.)
