@@ -1,9 +1,0 @@
-Literature_name, component_name, Discovery_type, z, z_type, RA, Dec, Coord_lambda_nu, Coord_source, sep(arcsec), Type, Bibcode(s) , DOI , Notes
-SDSS J0752+2736 , p , Optical Spectroscopy / X-ray Sources , 0.069 , spec ,  7:52:23.341 , +27:36:43.516 , X-ray , Chandra , 1.50 , Dual AGN Candidate ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
-SDSS J0752+2736 , s , Optical Spectroscopy / X-ray Sources , 0.069 , spec ,  7:52:23.266 , +27:36:44.562 , X-ray , Chandra , 1.50 , Dual AGN Candidate ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
-SDSS J1126+2944 , p , Optical Spectroscopy / X-ray Sources , 0.102 , spec , 11:26:59.534 , +29:44:42.573 , X-ray , Chandra , 1.74 , Dual AGN ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
-SDSS J1126+2944 , s , Optical Spectroscopy / X-ray Sources , 0.102 , spec , 11:26:59.602 , +29:44:41.101 , X-ray , Chandra , 1.74 , Dual AGN ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
-SDSS J1356+1026 , p , Optical Spectroscopy / X-ray Sources , 0.123 , spec , 13:56:46.123 , +10:26:09.321 , X-ray , Chandra , 2.00 , Dual AGN Candidate ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
-SDSS J1356+1026 , s , Optical Spectroscopy / X-ray Sources , 0.123 , spec , 13:56:46.067 , +10:26:07.502 , X-ray , Chandra , 2.00 , Dual AGN Candidate ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
-SDSS J1448+1825 , p , Optical Spectroscopy / X-ray Sources , 0.038 , spec , 14:48:04.174 , +18:25:37.925 , X-ray , Chandra , 1.29 , Dual AGN Candidate ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
-SDSS J1448+1825 , s , Optical Spectroscopy / X-ray Sources , 0.038 , spec , 14:48:04.177 , +18:25:39.115 , X-ray , Chandra , 1.29 , Dual AGN Candidate ,  2020ApJ...892...29F , https://doi.org/10.3847/1538-4357/ab72fa , 
