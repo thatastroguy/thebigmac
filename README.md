@@ -1,8 +1,11 @@
 # The Washington Multi-AGN Catalog (WMAGN)
 
-Author: Ryan W. Pfeifle
+Author: Ryan W. Pfeifle<sup>1</sup>
 
-Contributor(s): Nathan Secrest
+Contributor(s): Nathan Secrest<sup>2</sup>
+
+<sup>1</sup> X-ray Astrophysics Laboratory, NASA Goddard Space Flight Center (GSFC); <sup>2</sup> United States Naval Observatory (USNO)
+
 
 Current Version: 0.15
 
