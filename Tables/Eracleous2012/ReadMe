@@ -1,0 +1,179 @@
+J/ApJS/201/23       Spectroscopy of 88 z<0.7 SDSS QSOs       (Eracleous+, 2012)
+================================================================================
+A large systematic search for close supermassive binary and rapidly recoiling
+black holes.
+    Eracleous M., Boroson T.A., Halpern J.P., Liu J.
+   <Astrophys. J. Suppl. Ser., 201, 23 (2012)>
+   =2012ApJS..201...23E
+================================================================================
+ADC_Keywords: Line Profiles ; QSOs ; Spectroscopy ; Active gal. nuclei
+Keywords: galaxies: active - line: profiles - quasars: emission lines -
+          quasars: general
+
+Abstract:
+    We have carried out a systematic search for subparsec supermassive
+    black hole (BH) binaries among z<~0.7 Sloan Digital Sky Survey
+    quasars. These are predicted by models of supermassive BH and host
+    galaxy coevolution, therefore their census and population properties
+    constitute an important test of these models. In our working
+    hypothesis, one of the two BHs accretes at a much higher rate than the
+    other and carries with it the only broad emission line region of the
+    system, making the system analogous to a single-lined spectroscopic
+    binary star. Accordingly, we used spectroscopic principal component
+    analysis to search for broad H{beta} emission lines that are displaced
+    from the quasar rest frame by |{Delta}{nu}|>~1000km/s. This method
+    also yields candidates for rapidly recoiling BHs. Of the 88
+    candidates, several were previously reported in the literature. We
+    found a correlation between the peak offset and skewness of the broad
+    H{beta} profiles, suggesting a common physical explanation for these
+    profiles. We carried out follow-up spectroscopic observations of 68
+    objects to search for changes in the peak velocities of the H{beta}
+    lines.
+
+Description:
+    We carried out follow-up observations of 68 objects from our sample
+    using four different telescopes: the brightest objects were observed
+    with the 2.4m Hiltner telescope at MDM observatory, objects of
+    intermediate brightness were observed with the 4m Mayall telescope at
+    Kitt Peak National Observatory and the 5m Hale telescope at Palomar
+    Observatory, while the faintest objects were observed with the 9.2m
+    Hobby-Eberly Telescope (HET). With the follow-up observations we
+    specifically targeted the H{beta} lines of the quasars in our sample,
+    although we also did attempt to obtain spectra of the H{alpha} and
+    MgII lines whenever possible. The log of observations is included in
+    Table 1.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat     77      193   Log of spectroscopic observations
+table3.dat    123       89   Properties of narrow emission lines
+table4.dat     54       88   Properties of broad H{beta} profiles
+--------------------------------------------------------------------------------
+
+See also:
+   VII/260 : The SDSS-DR7 quasar catalog (Schneider+, 2010)
+   J/ApJS/194/45  : QSO properties from SDSS-DR7 (Shen+, 2011)
+   J/AJ/140/390   : Karhunen-Loeve transform of SDSS QSOs (Boroson+, 2010)
+   J/ApJ/699/800  : Mass functions of active black holes (Vestergaard+, 2009)
+   J/ApJ/692/758  : BAL QSOs in SDSS-DR5 (Gibson+, 2009)
+   J/ApJ/683/L115 : Intermediate-line region in quasars (Hu+, 2008)
+   J/ApJ/674/668  : SDSS J102839.11+450009.4 FeII emission lines (Wang+, 2008)
+   J/AJ/126/1720  : ugriz and H{alpha} of double-peaked AGN (Strateva+, 2003)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units      Label    Explanations
+--------------------------------------------------------------------------------
+   1- 18  A18   ---        SDSS     SDSS name (HHMMSS.ss+DDMMSS.s; J2000)
+  20- 25  F6.4  ---        z        [0.0767/0.7128] Redshift (1)
+  27- 31  F5.2  mag        Vmag     [15.81/19.83] Apparent V band magnitude (2)
+  33- 37  F5.3  mag        AV       Galactic visual extinction (3)
+  39- 44  F6.2  mag        VMag     Absolute V band magnitude (2)
+  46- 55  A10 "YYYY/MM/DD" Date     UT date of the observation
+  57- 58  A2    ---        Instr    Instrument code (4)
+  60- 64  I5    s          Exp      Exposure time
+  66- 67  I2    ---        S/N      [4/88] Signal-to-noise ratio (5)
+  69- 72  I4    0.1nm      lam1     Lower rest-frame wavelength
+  74- 77  I4    0.1nm      lam2     Upper rest-frame wavelength
+--------------------------------------------------------------------------------
+Note (1): As measured in this paper from the peak wavelength of
+          [OIII] (5007) line.
+Note (2): Determined from the SDSS PSF magnitudes, as described in
+          Section 4 of the text.
+Note (3): Taken from Schlegel, Finkbeiner, & Davis (1998ApJ...500..525S).
+Note (4): Instrument code as follows:
+   H2 = Hobby-Eberly Telescope, Low-Resolution Spectrograph - G2 grism;
+        resolution: 5.6{AA}
+   K  = KPNO, Mayall 4m, Ritchie-Cretien spectrograph; resolution: 3.1{AA}
+   M  = MDM, Hiltner 2.4m, Boller & Chivens CCD spectrograph; resolution 7.6{AA}
+   Pb = Palomar, Hale 5m, Double Spectrograph - Blue arm; resolution: 4.0{AA}
+   Pr = Palomar, Hale 5m, Double Spectrograph - Red arm; resolution: 3.1{AA}
+   S  = SDSS 2.5m, SDSS spectrograph; resolution 2.7{AA}
+          See table 2 for further details.
+Note (5): In the continuum near the line of interest. When the spectrum
+          includes the H{beta} line we give the S/N in the continuum near this
+          line, at 4600 Angstroms. If the spectrum includes only the
+          MgII (2800) line, we give the S/N in the continuum near this line,
+          at 2900 Angstroms.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1-  7  A7    ---     Name    Object name (JHHMMSS, shortened SDSS name)
+       9  A1    ---   f_Name    [f] two sets of narrow lines (1)
+      11  A1    ---   l_Ne5     Limit flag on Ne5
+  13- 17  F5.3  ---     Ne5     ? Observed [NeV]/[OIII] flux ratio (2)
+      18  A1    ---   u_Ne5     Uncertainty flag on Ne5 (3)
+      20  A1    ---   l_O2      Limit flag on O2
+  22- 26  F5.3  ---     O2      ? Observed [OII]/[OIII] flux ratio (2)
+      27  A1    ---   u_O2      Uncertainty flag on O2 (3)
+      29  A1    ---   l_Ne3     Limit flag on Ne3
+  31- 35  F5.3  ---     Ne3     ? Observed [NeIII]/[OIII] flux ratio (2)
+      36  A1    ---   u_Ne3     Uncertainty flag on Ne3 (3)
+      38  A1    ---   l_Hb      Limit flag on Hb
+  40- 44  F5.3  ---     Hb      Observed H{beta}/[OIII] flux ratio (2)
+  46- 53  E8.2  mW/m2   O3      Observed [OIII] flux; erg/s/cm^2^ (2)
+      55  A1    ---   l_Ne5.c   Limit flag on Ne5.c
+  57- 61  F5.3  ---     Ne5.c   ? Corrected [NeV]/[OIII] flux ratio (4)
+      62  A1    ---   u_Ne5.c   Uncertainty flag on Ne5.c (3)
+      64  A1    ---   l_O2.c    Limit flag on O2.c
+  66- 70  F5.3  ---     O2.c    ? Corrected [OII]/[OIII] flux ratio (4)
+      71  A1    ---   u_O2.c    Uncertainty flag on O2.c (3)
+      73  A1    ---   l_Ne3.c   Limit flag on Ne3.c
+  75- 79  F5.3  ---     Ne3.c   ? Corrected [NeIII]/[OIII] flux ratio (4)
+      80  A1    ---   u_Ne3.c   Uncertainty flag on Ne3.c (3)
+      82  A1    ---   l_Hb.c    Limit flag on Hb.c
+  84- 88  F5.3  ---     Hb.c    Corrected H{beta}/[OIII] flux ratio (4)
+  90- 97  E8.2  mW/m2   O3.c    Corrected [OIII] flux; erg/s/cm^2^ (4)
+  99-105  E7.2  10-7W   LumO3   The [OIII] luminosity; erg/s (5)
+ 107-110  I4    km/s    WNe5    ? Full-Width at Half-Maximum of [NeV] (6)
+ 112-115  I4    km/s    WNe3    ? Full-Width at Half-Maximum of [OII] (6)
+ 117-119  I3    km/s    WHb     ? Full-Width at Half-Maximum of H{beta} (6)
+ 121-123  I3    km/s    WO3     Full-Width at Half-Maximum of [OIII] (6)
+--------------------------------------------------------------------------------
+Note (1):
+    f = The spectrum of J092712 includes two sets of narrow lines therefore we
+        report the properties of each set in separate rows. The first row gives
+        the properties of the set that is blueshifted and appears to be at the
+        same redshift as the broad lines. The second row gives the properties
+        of the set that is reshifted and has no broad lines associated with it.
+Note (2): Integrated line fluxes are expressed relative to the integrated
+     flux of the [OIII] (5007) line, as measured from the observed
+     spectrum, without any corrections. The uncertainty is 5% or less,
+     unless otherwise noted.
+Note (3): a colon (:) indicates an uncertainty of 10-15%
+Note (4): Integrated line fluxes are expressed relative to the integrated
+     flux of the [OIII] (5007) line after correcting for Galactic
+     extinction, as described in Section 4.2 of the text. The uncertainty
+     is 5% or less, unless otherwise noted.
+Note (5): After correcting for Galactic extinction (see Section 4.2).
+Note (6): Corrected for the finite resolution of the spectrograph as
+     described in Section 4.2 of the text. The value is omitted when the
+     line is not detected.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  7  A7    ---     Name     Object name (JHHMMSS, shortened SDSS name)
+   9- 13  I5    km/s    FWHM     ? Full-Width at Half-Maximum of H{beta} line
+  15- 19  I5    km/s    FWQM     ? Full-Width at Quarter-Maximum of H{beta} line
+  21- 25  I5    km/s    dVp      ? H{beta} peak velocity shift
+  27- 29  I3    km/s  e_dVp      ? Uncertainty in dVp   
+  31- 35  I5    km/s    dVc      ? H{beta} centroid velocity shift
+  37- 40  I4    km/s    sigma    ? Velocity dispersion
+  42- 47  F6.3  ---     Skew     ? Skewness coefficient
+  49- 54  F6.3  ---     PSkew    ? Pearson skewness coefficient
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                 Greg Schwarz [AAS], Emmanuelle Perret [CDS]    09-Oct-2012

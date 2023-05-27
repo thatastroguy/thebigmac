@@ -1,0 +1,36 @@
+Table 1.
+Model-accepted candidates from ATLAS DR2 (first sub-list), SDSS control set (second sub-list), and ATLAS-DR3 (third sub-list) targets, that were observed with long-slit spectroscopy at NOT and NTT over 2016. The quoted i-band magnitudes are AperMag6 for ATLAS and model for SDSS. The DR3 targets were not graded. ‘NLG’ stands for ‘narrow-line galaxy’. A1116−0657, given in the last line, was re-discovered during the search in the DR2 footprint and is the known lens, small-separation quad HE1113−0641 (Blackburne, Wisotzki & Schechter 2008, not re-observed). (s) Classification of some objects was aided by imaging with the SOAR Adaptive Optics Module (in z΄ band; 2016 June, November, December; PI Motta), especially for NLG pairs that could not be otherwise resolved. *Asterisks mark the NIQs that were targeted independently as described by Schechter et al. (2017). A0140−1152 is spectroscopically confirmed as a lens with zl = 0.277 (Fig. 4). (k) A2213−2652 has been confirmed as a lens through a subsequent imaging campaign (2017 October, PI Treu).
+Name	RA (J2000)	Dec. (J2000)	mag_i	Grade	ufom	Telescope	Outcome	Notes
+A1507−1442	226.950 8449	−14.703 323 11	20.10	2.01	0.76	NOT	Contaminant	Galaxy seen through two stars
+A1132−0730(s),*	173.030 9094	−7.511 781 22	18.31	2.4	0.44	NOT	NIQ	zs = 1.99
+A1112−0335*	168.180 9603	−3.585 919 63	19.33	2.35	0.46	NOT	NIQ	zs = 1.27
+A1428−0302	217.489 5575	−3.041 436 97	19.70	2.0	–	NOT	Contaminant	Stars?
+A0326−3122*	51.528 2775	−31.381 576 06	19.54	2.0	0.47	NTT	NIQ	zs = 1.35
+A2338−2700(s)	354.527 0526	−27.015 080 58	18.45	2.50	–	NTT	Contaminant	z = 0.68 (Mg II), merging NLGs
+A2213−2652(s), *, (k)	333.410 1198	−26.874 188 06	18.10	2.24	0.51	NTT	NIQ/lens	zs = 1.27
+A0008−3655	2.122 4251	−36.923 092 06	18.57	2.00	0.14	NTT	Unclear	z ≈ 1.715 qso
+A0015−1116	3.982 5904	−11.283 016 17	20.02	2.21	0.34	NTT	Contaminant	Star + qso z ≈ 1.55
+A0054−3951	13.530 23503	−39.864 334 92	19.40	1.50	0.57	NTT	Uncertain	z = 0.475 or z = 1.16
+A0106−1030	16.708 784 12	−10.509 747 05	20.05	2.00	0.22	NTT	Contaminant	Star + qso z = 1.995
+A0355−3448	58.754 617 12	−34.800 519 41	19.26	2.18	0.42	NTT	Contaminant	qso + qso, z = 1.19, 2.04
+A2145−3927	326.384 8895	−39.458 908 51	19.00	2.36	0.19	NTT	Contaminant	Single qso z ≈ 0.45
+A2243−3840	340.8657909	−38.668 982 73	19.69	2.09	0.56	NTT	Contaminant	qso z ≈ 2.7 and galaxy
+A2356−1213	359.123 3919	−12.225 099 46	19.31	2.31	0.25	NTT	Contaminant	Star + qso z ≈ 2
+S1128+2402	172.077 0482	24.0381 9957	17.75	2.83	–	NOT	NIQ	zs = 1.608
+S1030+6055	157.716 1208	60.935 120 59	19.25	2.89	–	NOT	Contaminant	z = 1.71 qso + star
+S1332+3433	203.181 9452	34.550 1693	18.74	2.20	–	NOT	Contaminant	z = 1.925 qso + star
+S0332−0021	53.202 117 93	−0.365 3620	19.32	2.78	–	NOT	Contaminant	z = 1.71 qso + qso
+A0140−1152*	25.012 499	−11.871 944	17.63	–	–	NTT	Lens	zs ≈ 1.805, zl ≈ 0.277
+A1044−1639(s)	161.195 833	−16.657 499	18.33	–	–	NTT	Contaminant	NLG z ≈ 0.3
+A1020−1002(s)	155.2275	−10.038 888	18.14	–	–	NTT	Pair/NIQ	z = 2.03
+A0054−2404	13.609 166	−24.077 777	19.72	–	–	NTT	Contaminant	NLG + qso at z ≈ 0.35?
+A0202−2850	30.543 75	−28.841 388	19.42	–	–	NTT	Contaminant	NLG z ≈ 0.31
+A0303−3331(s)	45.898 75	−33.526 111	19.20	–	–	NTT	Contaminant	NLGs?
+A2201−3613	330.421 25	−36.216 666	15.61	–	–	NTT	Contaminant	Stars
+A1012−0307(s)	153.066 249	−3.117 50	18.05	–	–	NTT	Known lens	zs = 2.745, fr=3.0(λ/9000∘A)−1
+A1116−0657	169.098 0709	−6.960 792 22	17.25	2.42	–	–	Known lens	Not obs.
+Oxford University Press uses cookies to enhance your experience on our website. By selecting ‘accept all’ you are agreeing to our use of cookies. You can change your cookie settings at any time. More information can be found in our Cookie Policy.
+
+Cookie settings
+Deny all
+Accept all

@@ -1,0 +1,107 @@
+J/MNRAS/453/1562    CRTS close supermassive black hole binaries  (Graham+, 2015)
+================================================================================
+A systematic search for close supermassive black hole binaries in the
+Catalina Real-time Transient Survey.
+    Graham M.J., Djorgovski S.G., Stern D., Drake A.J., Mahabal A.A.,
+    Donalek C., Glikman E., Larson S., Christensen E.
+   <Mon. Not. R. Astron. Soc., 453, 1562-1576 (2015)>
+   =2015MNRAS.453.1562G    (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: QSOs ; Stars, masses
+Keywords: methods: data analysis - techniques: photometric - surveys -
+          quasars: general - quasars: supermassive black holes
+
+Abstract:
+    Hierarchical assembly models predict a population of supermassive
+    black hole (SMBH) binaries. These are not resolvable by direct imaging
+    but may be detectable via periodic variability (or nanohertz frequency
+    gravitational waves). Following our detection of a 5.2-year periodic
+    signal in the quasar PG 1302-102, we present a novel analysis of the
+    optical variability of 243 500 known spectroscopically confirmed
+    quasars using data from the Catalina Real-time Transient Survey (CRTS)
+    to look for close (<0.1pc) SMBH systems. Looking for a strong
+    Keplerian periodic signal with at least 1.5 cycles over a baseline of
+    nine years, we find a sample of 111 candidate objects. This is in
+    conservative agreement with theoretical predictions from models of
+    binary SMBH populations. Simulated data sets, assuming stochastic
+    variability, also produce no equivalent candidates implying a low
+    likelihood of spurious detections. The periodicity seen is likely
+    attributable to either jet precession, warped accretion discs or
+    periodic accretion associated with a close SMBH binary system. We also
+    consider how other SMBH binary candidates in the literature appear in
+    CRTS data and show that none of these are equivalent to the identified
+    objects. Finally, the distribution of objects found is consistent with
+    that expected from a gravitational-wave-driven population. This
+    implies that circumbinary gas is present at small orbital radii and is
+    being perturbed by the black holes. None of the sources is expected to
+    merge within at least the next century. This study opens a new unique
+    window to study a population of close SMBH binaries that must exist
+    according to our current understanding of galaxy and SMBH evolution.
+
+Description:
+    CRTS leverages the Catalina Sky Survey data streams from three
+    telescopes - the 0.7m Catalina Sky Survey Schmidt and 1.5m Mount
+    Lemmon Survey telescopes in Arizona, and the 0.5m Siding Springs
+    Survey Schmidt in Australia - used in a search for Near-Earth
+    Objects, operated by Lunar and Planetary Laboratory at University of
+    Arizona. CRTS covers up to ~2500deg^2^ per night, with four exposures
+    per visit, separated by 10-min, over 21 nights per lunation. All data
+    are automatically processed in real-time, and optical transients are
+    immediately distributed using a variety of electronic mechanisms. The
+    data are broadly calibrated to Johnson V (see Drake et al., 2013,
+    Cat. J/ApJ/763/32 for details) and the full CRTS data set contains
+    time series for approximately 500 million sources.
+
+    The Million Quasars (MQ) catalogue v3.7 contains all spectroscopically
+    confirmed type 1 QSOs (309525), AGN (21728) and BL Lacs (1573) in the
+    literature up to 2013 November 26 and formed the basis for the results
+    of Graham et al. (2015Natur.518...74G). We have extended this with
+    297301 spectroscopically identified quasars in the SDSS Data Release
+    12 (Paris et al., in preparation). We cross-matched this combined
+    quasar list against the CRTS data set with a 3-arcsec matching radius
+    and find that 334446 confirmed quasars are covered by the full CRTS.
+
+    Our final sample consists of 111 quasars.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe            80        .   This file
+table2.dat       110      111   The 111 periodic quasar candidates meeting the
+                                 selection criteria
+images/*           .       12   PNG files with light curves
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units  Label   Explanations
+--------------------------------------------------------------------------------
+   1- 24  A24   ---    Name    Name
+  27- 28  I2    h      RAh     Rigth ascension (J2000)
+  30- 31  I2    min    RAm     Rigth ascension (J2000)
+  33- 37  F5.2  s      RAs     Rigth ascension (J2000)
+      38  A1    ---    DE-     Declination sign (J2000)
+  39- 40  I2    deg    DEd     Declination (J2000)
+  42- 43  I2    arcmin DEm     Declination (J2000)
+  45- 48  F4.1  arcsec DEs     Declination (J2000)
+  50- 54  F5.3  ---    z       Redshift
+  56- 60  F5.2  mag    Vmed    Median V magnitude
+  62- 65  I4    d      Per     Period
+  67- 71  F5.2  [Msun] logMBH  ?=0 Black hole mass (1)
+  73- 77  F5.3  pc     r       ?=0 Separation (2)
+  79- 85  E7.2  yr     tinsp   ?=0 Rest-frame merger time (2)
+  87- 91  F5.2  ns     DtGW    ?=0 Maximum induced timing residual amplitude (2)
+  92-110  A19   ---    LC      Name of the file with light curve in
+                                subdirectory images
+--------------------------------------------------------------------------------
+Note (1): From Shen et al. (2008, Cat. J/ApJ/680/169) and updates or directly
+           from spectra where a value is not available.
+Note (2): Binary system parameters. All assume q=0.5.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                                      Patricia Vannier [CDS]    16-Feb-2016

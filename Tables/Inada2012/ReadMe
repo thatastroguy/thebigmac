@@ -1,0 +1,213 @@
+J/AJ/143/119       SDSS Quasar Lens Search. V. Final catalog      (Inada+, 2012)
+================================================================================
+The Sloan Digital Sky Survey Quasar Lens Search.
+V. Final catalog from the seventh data release.
+    Inada N., Oguri M., Shin M.-S., Kayo I., Strauss M.A., Morokuma T.,
+    Rusu C.E., Fukugita M., Kochanek C.S., Richards G.T., Schneider D.P.,
+    York D.G., Bahcall N.A., Frieman J.A., Hall P.B., White R.L.
+   <Astron. J., 143, 119 (2012)>
+   =2012AJ....143..119I
+================================================================================
+ADC_Keywords: Surveys ; Gravitational lensing ; QSOs ; Spectroscopy ;
+              Redshifts ; Photometry, SDSS ; Photometry, RI
+Keywords: cosmology: observations - gravitational lensing: strong -
+          quasars: general
+
+Abstract:
+    We present the final statistical sample of lensed quasars from the
+    Sloan Digital Sky Survey (SDSS) Quasar Lens Search (SQLS). The
+    well-defined statistical lens sample consists of 26 lensed quasars
+    brighter than i=19.1 and in the redshift range of 0.6<z<2.2
+    selected from 50826 spectroscopically confirmed quasars in the SDSS
+    Data Release 7 (DR7), where we restrict the image separation range to
+    1"<{theta}<20" and the i-band magnitude differences in two images
+    to be smaller than 1.25mag. The SDSS-DR7 quasar catalog also contains
+    36 additional lenses identified with various techniques. In addition
+    to these lensed quasars, we have identified 81 pairs of quasars from
+    follow-up spectroscopy, 26 of which are physically associated binary
+    quasars. The statistical lens sample covers a wide range of image
+    separations, redshifts, and magnitudes, and therefore is suitable for
+    systematic studies of cosmological parameters and surveys of the
+    structure and evolution of galaxies and quasars.
+
+Description:
+    We start with the 105783 quasars in the SDSS-DR7 quasar catalog
+    selected over 8000 deg^2^ (Schneider et al., 2010, Cat. VII/260,
+    superseded by Cat. VII/269). Our selection (see Section 2) lead to a
+    sample of 50836 source quasars.
+
+    174 new lensed quasar candidates were observed using various
+    telescopic facilities. The observations include optical imaging,
+    near-infrared imaging and optical spectroscopy, and are tabulated in
+    Tables 3 and 4.
+
+    Together with the results we reported in Paper II (Inada et al., 2008,
+    Cat. J/AJ/135/496) and Paper IV (Inada et al., 2010,
+    Cat. J/AJ/140/403), we have constructed a statistical sample of 26
+    lensed quasar (table 5).
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat     37    50836   Source quasars
+table3.dat    119       54   DR7 morphologically selected candidates
+table4.dat    119      243   DR7 color-selected candidates
+table5.dat    134       26   DR7 statistical sample
+table6.dat    134       36   DR7 additional lensed quasars
+refs.dat       98       59   References
+--------------------------------------------------------------------------------
+
+See also:
+ II/314  : UKIDSS-DR8 LAS, GCS and DXS Surveys (Lawrence+ 2012)
+ VII/269 : SDSS Quasar Catalog, DR9Q (Paris+, 2012)
+ V/139   : The SDSS Photometric Catalog, Release 9 (Adelman-McCarthy+, 2012)
+ VII/241 : The 2dF QSO Redshift Survey (Croom+ 2004)
+ VIII/72 : CLASS survey of radio sources (Myers+, 2003)
+ J/ApJS/199/3    : The quasars MMT-BOSS pilot survey (Ross+, 2012)
+ J/AJ/140/403    : SDSS Quasar Lens Search. IV. (Inada+, 2010)
+ J/MNRAS/392/19  : The 2dF-SDSS QSO survey (Croom+, 2009)
+ J/ApJS/176/19   : COSMOS: strong lens systems (Faure+, 2008)
+ J/ApJ/682/964   : Sloan lens ACS survey. V. (Bolton+, 2008)
+ J/ApJ/678/635   : Spectroscopy of quasar binary candidates (Myers+, 2008)
+ J/MNRAS/382/412 : Catalog of SDSS-DR5/2MASS spectroscopic quasars (Ofek, 2007)
+ J/ApJ/658/99    : Pairs of QSO in SDSS-DR4 (Myers+, 2007)
+ J/AJ/131/1      : Binary quasars in the SDSS (Hennawi+, 2006)
+ J/AJ/132/999    : SDSS quasar lens search (Oguri+, 2006)
+ J/AJ/131/2788   : Redshifts in the SFQS survey (Jiang+, 2006)
+ J/ApJS/155/257  : NBC Quasar Candidate Catalog (Richards+, 2004)
+ J/AJ/112/407    : The FIRST bright QSO survey (Gregg+, 1996)
+ J/ApJ/409/28    : Gravitationally Lensed Quasars (Maoz + 1993)
+ http://www.sdss.org/ : SDSS Home Page
+ http://cfa-www.harvard.edu/castles/ : CASTLES webpage
+ http://www-utap.phys.s.u-tokyo.ac.jp/~sdss/sqls/ : SQLS Web site
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label  Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4    ---     ---    [SDSS]
+   5- 23  A19   ---     SDSS   SDSS identifier (JHHMMSS.ss+DDMMSS.s)
+  25- 30  F6.4  ---     z      SDSS-DR7 quasar catalog (Cat. VII/260) redshift
+  32- 37  F6.3  mag     imag   [15.084/19.099] SDSS-DR7 quasar catalog i band
+                                magnitude corrected for Galactic extinction 
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table[34].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4    ---     ---     [SDSS]
+   5- 23  A19   ---     SDSS    SDSS identifier
+  25- 29  F5.3  ---     z       ? Redshift (1)
+  31- 35  F5.2  mag     imag    [16.8/20.31] SDSS-DR7 quasar catalog
+                                 (Cat. VII/260) i-band PSF magnitude corrected
+                                 for Galactic extinction
+  37- 41  F5.2  arcsec  theta   ? Image separation {theta}_SDSS_ (2)
+  43- 46  F4.2  mag     Di      [0.02/2.21]? Absolute i-band magnitude
+                                 difference between the expected two
+                                 components |{Delta}i| (3)
+  48- 79  A32   ---     Image   Instruments (and filters) used for the optical
+                                 and near-infrared imaging (4)
+  81- 85  A5    ---     Spec    Instruments used for the optical
+                                 spectroscopy (4)
+  87-113  A27   ---     Com     Comment
+ 115-119  A5    ---     Ref     Reference (in refs.dat file)
+--------------------------------------------------------------------------------
+Note (1): redshifts are from the SDSS-DR7 quasar catalog (Cat. VII/260, 
+     obsoleted by Cat. VII/269), or from follow-up spectroscopy (table4)
+Note (2): image separation between the expected two components derived 
+     from fitting the SDSS i-band image of each candidate with two PSFs
+     using GALFIT (table3). In table 4, the image separation between the
+     two components is from the SDSS imaging data.
+Note (3): Derived from fitting the SDSS i-band image of each candidate 
+     with two PSFs using GALFIT.
+Note (4): Instrument as follows:
+  Te = Tek2k CCD at UH88;
+  Op = Optic CCD at UH88;
+  8k = UH8k at UH88;
+  WF = WFGS2 at UH88;
+  FO = FOCAS at Subaru;
+  SC = Suprime-Cam at Subaru;
+  IR = IRCS at Subaru;
+  SP = SPIcam at ARC 3.5m;
+  NF = NICFPS at ARC 3.5m;
+  GM = GMOS at Gemini North;
+  PA = PANIC at WB 6.5m;
+  DO = DOLORES at TNG 3.6m;
+  DA = DIS III at ARC 3.5m;
+  MS = MMT spectrograph;
+  MO = MOIRCS at Subaru.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table[56].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4    ---     ---       [SDSS]
+   5- 23  A19   ---     SDSS      SDSS identifier
+      25  A1    ---   f_SDSS      [g] indicates a non-secure lens (1)
+      27  I1    ---     N         Number of images
+  29- 33  F5.3  ---     zs        Spectroscopic source redshift from SDSS data
+      35  A1    ---   f_zl        [*~] unsecure redshift (2)
+  36- 40  F5.3  ---     zl        Lens redshift
+      41  A1    ---   u_zl        [?] Uncertainty flag on zl
+  43- 47  F5.2  mag     imag      [15.3/20.14] SDSS PSF i band (AB) magnitude
+                                   corrected for Galactic extinction
+  49- 53  F5.2  arcsec  thetaM    Maximum image separations {theta}_max_ derived
+                                   from the best imaging data.
+  55- 58  F4.2  ---     Irat      I-band flux ratio between the brightest
+                                   lensed image and the farthest lensed image
+                                   from the brightest image (3)
+  60- 64  F5.2  mag     Imag      [16.54/21.64]? I-band (Vega) magnitude of the
+                                   lensing galaxy (4)
+  66- 69  F4.2  mag   e_Imag      ? Statistical errors on Igal
+  71- 72  A2    ---     ---       [DR]
+      73  I1    ---     DR        [3/7] SDSS Data Release source (3, 5 or 7)
+  75- 89  A15   ---     OName     Other name (non-SDSS designation) (5)
+  91-120  A30   ---     Reject    The reason that each lens is excluded from the
+                                   statistical sample
+ 122-134  A13   ---     Ref       Reference (see refs.dat file)
+--------------------------------------------------------------------------------
+Note (1): Flag as follows:
+ g = While our analysis indicates that this is a probable gravitational lens
+     system, its lensing nature is not as secure as the other lenses.
+Note (2): Flag is:
+ * = Indicates lens redshifts measured from absorption lines in the quasar
+     spectra rather than direct spectroscopy of the lensing galaxy.
+ ~ = For lenses without any spectroscopic information, we provide an approximate
+     redshift with an error bar inferred from the color and magnitude.
+Note (3): In table 5, the I-band flux ratio is derived from the discovery papers
+          for SQLS (SDSS quasar lens search) lenses, and from the best-quality
+          imaging data (mostly from the HST from the CASTLES Web site if
+          available) for previously known lenses.
+Note (4): Without Galactic extinction corrections. When the system contains
+          multiple galaxies within the Einstein radius, the magnitude of the
+          brightest galaxy is shown.
+Note (5): In table 5, LBQS 1333+0113 is a misprint for LBQS 1333+0133 and
+          SBS 0909+523 is a misprint for SBSG 0909+532; corrected at CDS.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: refs.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  2  I2    ---     Ref       Reference number
+   4- 22  A19   ---     BibCode   BibCode
+  24- 45  A22   ---     Aut       Author's name
+  47- 98  A52   ---     Com       Comments
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+    Oguri et al.    Paper I.      2006AJ....132..999O  Cat. J/AJ/132/999
+    Inada et al.    Paper II.     2008AJ....135..496I  Cat. J/AJ/135/496
+    Oguri et al.    Paper III.    2008AJ....135..512O
+    Inada et al.    Paper IV.     2010AJ....140..403I  Cat. J/AJ/140/403
+    Oguri et al.    Paper VI.     2012AJ....143..120O
+
+================================================================================
+(End)                Greg Schwarz [AAS], Sylvain Guehenneux [CDS]    06-Jun-2013

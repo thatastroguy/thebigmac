@@ -1,0 +1,233 @@
+VII/260                 The SDSS-DR7 quasar catalog           (Schneider+, 2010)
+================================================================================
+The Sloan Digital Sky Survey quasar catalog. V. Seventh data release.
+    Schneider D.P., Richards G.T., Hall P.B., Strauss M.A., Anderson S.F.,
+    Boroson T.A., Ross N.P., Shen Y., Brandt W.N., Fan X., Inada N., Jester S.,
+    Knapp G.R., Krawczyk C.M., Thakar A.R., Vanden Berk D.E., Voges W.,
+    Yanny B., York D.G., Bahcall N.A., Bizyaev D., Blanton M.R., Brewington H.,
+    Brinkmann J., Eisenstein D., Frieman J.A., Fukugita M., Gray J., Gunn J.E.,
+    Hibon P., Ivezic Z., Kent S.M., Kron R.G., Lee M.G., Lupton R.H.,
+    Malanushenko E., Malanushenko V., Oravetz D., Pan K., Pier J.R.,
+    Price T.N., Saxe D.H., Schlegel D.J., Simmons A., Snedden S.A.,
+    Subbarao M.U., Szalay A.S., Weinberg D.H.
+   <Astron. J., 139, 2360-2373 (2010)>
+   =2010AJ....139.2360S
+================================================================================
+ADC_Keywords: QSOs ; Surveys ; Photometry, SDSS ; Redshifts
+Keywords: catalogs - quasars: general - surveys
+
+Abstract:
+    We present the fifth edition of the Sloan Digital Sky Survey (SDSS)
+    Quasar Catalog, which is based upon the SDSS Seventh Data Release. The
+    catalog, which contains 105783 spectroscopically confirmed quasars,
+    represents the conclusion of the SDSS-I and SDSS-II quasar survey. The
+    catalog consists of the SDSS objects that have luminosities larger
+    than M_i_=-22.0 (in a cosmology with H_0_=70km/s/Mpc,
+    {Omega}_M_=0.3, and {Omega}_{Lambda}=0.7), have at least one emission
+    line with FWHM larger than 1000km/s or have interesting/complex
+    absorption features, are fainter than i~15.0, and have highly reliable
+    redshifts. The catalog covers an area of ~9380deg^2^. The quasar
+    redshifts range from 0.065 to 5.46, with a median value of 1.49; the
+    catalog includes 1248 quasars at redshifts greater than 4, of which 56
+    are at redshifts greater than 5. The catalog contains 9210 quasars
+    with i<18; slightly over half of the entries have i<19. For each
+    object the catalog presents positions accurate to better than 0.1"rms
+    per coordinate, five-band (ugriz) CCD-based photometry with typical
+    accuracy of 0.03mag, and information on the morphology and selection
+    method. The catalog also contains radio, near-infrared, and X-ray
+    emission properties of the quasars, when available, from other
+    large-area surveys. The calibrated digital spectra cover the
+    wavelength region 3800-9200{AA} at a spectral resolution of ~2000; the
+    spectra can be retrieved from the SDSS public database using the
+    information provided in the catalog. Over 96% of the objects in the
+    catalog were discovered by the SDSS. We also include a supplemental
+    list of an additional 207 quasars with SDSS spectra whose archive
+    photometric information is incomplete.
+
+Description:
+    The SDSS used a CCD camera on a dedicated 2.5m telescope at Apache
+    Point Observatory, New Mexico, to obtain images in five broad optical
+    bands (ugriz) over approximately 10000deg^2^ of the high Galactic
+    latitude sky.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records  Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .  This file
+dr7qso.dat    490   105783  The SDSS quasar catalog V, DR7 (table2 of the paper)
+table5.dat    164      207  Quasars lacking CAS (Catalog Archive Server)
+                             photometry
+--------------------------------------------------------------------------------
+
+See also:
+    II/294 : The SDSS Photometric Catalog, Release 7 (Adelman-McCarthy+, 2009)
+    J/A+A/505/1087 : DLA in SDSS-DR7 (Noterdaeme+, 2009)
+    J/AJ/121/31    : High-redshift quasars in SDSS (Fan+, 2001)
+    J/AJ/122/503   : SDSS u*g*r*i*z* photometry and redshift of QSOs
+                     (Anderson+, 2001)
+    http://www.sdss.org : SDSS Home Page
+
+Byte-by-byte Description of file: dr7qso.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 18  A18   ---     SDSS      SDSS DR7 object designation (1)
+  19- 29  F11.6 deg     RAdeg     Right Ascension in decimal degrees (J2000)
+  30- 40  F11.6 deg     DEdeg     Declination in decimal degrees (J2000)
+  41- 47  F7.4  ---     z         SDSS redshift
+  48- 54  F7.3  mag     umag      ?=0 BEST SDSS u band PSF magnitude (2)
+  55- 60  F6.3  mag   e_umag      ?=0 Error in umag
+  61- 67  F7.3  mag     gmag      ?=0 BEST SDSS g band PSF magnitude (2)
+  68- 73  F6.3  mag   e_gmag      ?=0 Error in gmag
+  74- 80  F7.3  mag     rmag      ?=0 BEST SDSS r band PSF magnitude (2)
+  81- 86  F6.3  mag   e_rmag      ?=0 Error in rmag
+  87- 93  F7.3  mag     imag      ?=0 BEST SDSS i band PSF magnitude (2)
+  94- 99  F6.3  mag   e_imag      ?=0 Error in imag
+ 100-106  F7.3  mag     zmag      ?=0 BEST SDSS z band PSF magnitude (2)
+ 107-112  F6.3  mag   e_zmag      ?=0 Error in zmag
+ 113-119  F7.3  mag     Au        Galactic extinction in u filter (3)
+ 120-126  F7.3  [cm-2]  logHI     Log of Galactic HI column density
+ 127-133  F7.3  mag     F20cm     ?=0 FIRST 20cm peak flux density (4)
+ 134-141  F8.3  ---   w_F20cm     Signal-to-Noise ratio for F20cm
+ 142-148  F7.3  arcsec  sepR      SDSS/FIRST separation
+ 149-156  F8.3  [ct/s]  logX      ?=-9.000 RASS BSC/FSC full band count rate (5)
+ 157-163  F7.3  ---   w_logX      Signal-to-Noise ratio for logX
+ 164-170  F7.3  arcsec  sepX      SDSS/RASS separation
+ 171-177  F7.3  mag     Jmag      ?=0.000 2MASS J band magnitude (6)
+ 178-183  F6.3  mag   e_Jmag      ?=0.000 Error in Jmag
+ 184-190  F7.3  mag     Hmag      ?=0.000 2MASS H band magnitude (6)
+ 191-196  F6.3  mag   e_Hmag      ?=0.000 Error in Hmag
+ 197-203  F7.3  mag     Kmag      ?=0.000 2MASS K_S_ band magnitude (6)
+ 204-209  F6.3  mag   e_Kmag      ?=0.000 Error in Kmag
+ 210-216  F7.3  arcsec  sepIR     SDSS/2MASS separation
+ 217-219  I3    ---     f2M       [0/26] 2MASS flags (7)
+ 220-227  F8.3  mag     iMAG      Absolute SDSS i band magnitude (8)
+ 228-234  F7.3  mag     D(g-i)    ?=-9.0 Offset of quasar (g-i) from
+                                  distribution (g-i) mode (9)
+ 235-237  I3    ---     Mph       [0/1] Morphology flag (1=extended source)
+ 238-240  I3    ---     S1        [0/1] SCIENCEPRIMARY flag (1=SCIENCEPRIMARY)
+ 241-243  I3    ---     mode      [0/3] SDSS MODE flag for blends, overlapping
+                                  scans (10)
+ 244-246  I3    ---     utf       [0/1] Uniform target selection flag (11)
+ 249-258  I10   ---     TflagB    BEST target selection flag
+ 259-261  I3    ---     Lz        [0/1] Low-z Quasar, color selection only,
+                                  target flag (1=targeted as Low-z Quasar)
+ 262-264  I3    ---     Hz        [0/1] High-z Quasar, color selection only,
+                                  target flag (1=targeted as High-z Quasar)
+ 265-267  I3    ---     fR        [0/1] FIRST target flag (1=targeted)
+ 268-270  I3    ---     fX        [0/1] ROSAT target flag (1=targeted)
+ 271-273  I3    ---     fS        [0/1] Serendipity target flag (1=targeted)
+ 274-276  I3    ---     f*        [0/1] Star target flag (1=targeted)
+ 277-279  I3    ---     fG        [0/1] Galaxy target flag (1=targeted)
+ 280-285  I6    ---     run       SDSS imaging run number for photometric
+                                  measurements
+ 286-291  I6    d       MJD-im    Modified Julian Date of imaging observation
+ 292-297  I6    d       MJD-sp    Modified Julian Date of spectroscopic
+                                  observation
+ 298-302  I5    ---     Plate     Spectroscopic Plate number
+ 303-307  I5    ---     Fiber     Spectroscopic Fiber number
+ 308-311  I4    ---     rerun     SDSS Photometric Processing Rerun number
+ 312-314  I3    ---     Cam       [1/6] SDSS Camera Column number
+ 315-319  I5    ---     Frame     SDSS Frame number
+ 320-324  I5    ---     obj       SDSS Object number
+ 327-336  I10   ---     Tflag     TARGET target selection flag
+ 337-339  I3    ---     LzT       [0/1] Low-z Quasar, color selection only,
+                                  target flag (1=targeted as Low-z Quasar)
+ 340-342  I3    ---     HzT       [0/1] High-z Quasar, color selection only,
+                                  target flag (1=targeted as High-z Quasar)
+ 343-345  I3    ---     fRT       [0/1] FIRST target flag (1=targeted)
+ 346-348  I3    ---     fXT       [0/1] ROSAT target flag (1=targeted)
+ 349-351  I3    ---     fST       [0/1] Serendipity target flag (1=targeted)
+ 352-354  I3    ---     f*T       [0/1] Star target flag (1=targeted)
+ 355-357  I3    ---     fGT       [0/1] Galaxy target flag (1=targeted)
+ 358-364  F7.3  mag     uTmag     ?=0 TARGET SDSS u band PSF magnitude (2)
+ 365-370  F6.3  mag   e_uTmag     ?=0 Error in uTmag
+ 371-377  F7.3  mag     gTmag     ?=0 TARGET SDSS g band PSF magnitude (2)
+ 378-383  F6.3  mag   e_gTmag     ?=0 Error in gTmag
+ 384-390  F7.3  mag     rTmag     ?=0 TARGET SDSS r band PSF magnitude (2)
+ 391-396  F6.3  mag   e_rTmag     ?=0 Error in rTmag
+ 397-403  F7.3  mag     iTmag     ?=0 TARGET SDSS i band PSF magnitude (2)
+ 404-409  F6.3  mag   e_iTmag     ?=0 Error in iTmag
+ 410-416  F7.3  mag     zTmag     ?=0 TARGET SDSS z band PSF magnitude (2)
+ 417-422  F6.3  mag   e_zTmag     ?=0 Error in zTmag
+ 423-443  A21   ---     objID     BEST object ID; 64-bit integer
+ 444-464  A21   ---     specID    Spectroscopic Object ID; 64-bit integer
+ 466-490  A25   ---     prevID    Previously published name (12)
+--------------------------------------------------------------------------------
+Note (1): In the format HHMMSS.ss+DDMMSS.s  (J2000; truncated coordinates).
+Note (2): SDSS photometric measurements are asinh magnitudes (Lupton, Gunn,
+     and Szalay, 1999AJ....118.1406L) and are normalized (to ~3% accuracy)
+     to the AB-magnitude system (Oke and Gunn, 1983ApJ...266..713O). Note
+     that the ugriz magnitudes are not corrected for Galactic extinction.
+     "0.000" indicates values not retrieved from SDSS database.
+Note (3): Where Ag, Ar, Ai, Az = 0.736, 0.534, 0.405, 0.287xA_u_
+Note (4): As AB magnitude where ABmag=-2.5log_10_[f_nu_/3631Jy].
+    Values of "0.000" = no detection, "-1.000" = not in FIRST survey area.
+Note (5): X-ray data from ROSAT All Sky Survey Bright and Faint source catalogs
+Note (6): All 2MASS data are from the 2MASS All-Sky Data Release Point
+     Source Catalog (PSC) 2003 March 25 (Cat. II/246). Note that 2MASS
+     measurements are Vega-based, not AB, magnitudes.
+Note (7): Where f2M=9*JFLAG+3*HFLAG+KFLAG
+          Individual filter flags as follows:
+    0 = no detection;
+    1 = catalog match;
+    2 = new photometry on images.
+Note (8): For H_o_=70.0, Omega_M_=0.300, Omega_L_=0.700, {alpha}_Q_=-0.50.
+Note (9): In magnitudes of the quasar (g-i) from the mode of the
+     distribution of (g-i) of quasars at this redshift. A value of "-9.0"
+     indicates too few quasars at redshift to form mean relation. All
+     colors corrected for Galactic extinction.
+Note (10): SDSS mode flag as follows:
+    1 = Primary object;
+    2 = Secondary observation;
+    3 = Family observation.
+Note (11): Uniform target selection flag as follows:
+    0 = not selected with final algorithm;
+    1 = selected with final algorithm.
+Note (12): "SDSS" in this column indicates that the object is a previously
+     published SDSS discovery.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table5.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 18  A18   ---     SDSS      SDSS DR7 object designation (1)
+  20- 29  F10.6 deg     RAdeg     Right Ascension in decimal degrees (J2000)
+  31- 40  F10.6 deg     DEdeg     Declination in decimal degrees (J2000)
+  42- 47  F6.4  ---     z         Redshift
+  49- 54  F6.3  mag     umag      ?=-9.999 SDSS u band PSF magnitude (2)
+  56- 60  F5.3  mag   e_umag      ?=9.999  Error in umag
+  62- 67  F6.3  mag     gmag      ?=-9.999 SDSS g band PSF magnitude (2)
+  69- 73  F5.3  mag   e_gmag      ?=9.999  Error in gmag
+  75- 80  F6.3  mag     rmag      ?=-9.999 SDSS r band PSF magnitude (2)
+  82- 86  F5.3  mag   e_rmag      ?=9.999  Error in rmag
+  88- 93  F6.3  mag     imag      ?=-9.999 SDSS i band PSF magnitude (2)
+  95- 99  F5.3  mag   e_imag      ?=9.999  Error in imag
+ 101-106  F6.3  mag     zmag      ?=-9.999 SDSS z band PSF magnitude (2)
+ 108-112  F5.3  mag   e_zmag      ?=9.999  Error in zmag
+ 114-118  F5.3  mag     Au        Galactic extinction in u filter
+     120  I1    ---     Mph       [0/1] Morphology; 0=star and 1=galaxy
+ 122-129  I8    ---     fPT       Primary Target Flag
+ 131-134  I4    ---     run       Photometric run number
+ 136-138  I3    ---     rerun     SDSS Photometric Processing Rerun number
+     140  I1    ---     Cam       SDSS Camera Column Number
+ 142-144  I3    ---     Field     Field identification
+ 146-149  I4    ---     obj       Object identification
+ 151-155  I5    d       MJD-sp    Modified Julian Date of spectroscopy
+ 157-160  I4    ---     Plate     Spectroscopic Plate Number
+ 162-164  I3    ---     Fiber     Spectroscopic Fiber Number
+--------------------------------------------------------------------------------
+Note (1): In the format HHMMSS.ss+DDMMSS.s  (J2000; truncated coordinates).
+Note (2): SDSS photometric measurements are asinh magnitudes (Lupton, Gunn,
+     and Szalay, 1999AJ....118.1406L) and are normalized (to ~3% accuracy)
+     to the AB-magnitude system (Oke and Gunn, 1983ApJ...266..713O). Note
+     that the ugriz magnitudes are not corrected for Galactic extinction. 
+     "-9.999" indicates values not retrieved from SDSS database.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+================================================================================
+(End)                 Greg Schwarz [AAS], Emmanuelle Perret [CDS]    26-May-2010

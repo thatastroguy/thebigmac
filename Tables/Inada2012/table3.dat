@@ -1,0 +1,54 @@
+SDSSJ074248.40+270412.2 0.626 19.05  0.78 1.74 Te(I)                                  single QSO
+SDSSJ081405.56+582840.9 1.429 18.24  0.50 0.94 Te(I)                                  single QSO
+SDSSJ090404.15+151254.5 1.825 17.50  1.04 1.64 Te(V, R, I), Op(I)               FO    SDSS lens                   5
+SDSSJ090645.62+122512.8 0.602 19.09  0.63 0.99 Te(I)                                  single QSO
+SDSSJ092718.37+211357.4 1.845 17.24  2.36 0.21 Te(I)                                  no lensing object
+SDSSJ093139.97+402548.4 1.028 18.35  0.43 0.21 SP(i)                                  single QSO
+SDSSJ093527.90+232525.0 2.014 19.04  1.78 1.98 Te(I)                                  QSO+galaxy
+SDSSJ095036.63+261706.1 1.264 18.60  0.44 0.96 Te(I)                                  single QSO
+SDSSJ095122.57+263513.9 1.246 17.23  1.08 1.10                                        known lens (FBQ0951+2635)   12
+SDSSJ095228.95+191014.8 0.884 18.70  0.52 1.80 Te(I)                                  single QSO
+SDSSJ095511.67+194112.2 1.362 17.87  0.97 0.05 Te(I)                                  no lensing object
+SDSSJ095636.42+690028.3 1.975 17.60  0.77 0.81 Te(I)                                  no lensing object
+SDSSJ101232.69+224004.7 1.843 17.52  0.43 1.05 Te(I)                                  single QSO
+SDSSJ105247.46+282310.2 0.796 18.41  0.42 0.29 Te(I)                                  single QSO
+SDSSJ105440.83+273306.4 1.451 16.80  1.20 1.80 Te(V, R, I)                      FO    SDSS lens                   5
+SDSSJ111107.19+180201.5 0.754 18.37  0.45 1.38 Te(I)                                  single QSO
+SDSSJ112135.13+302254.5 0.639 18.93  0.76 1.92 Te(I)                                  QSO+galaxy
+SDSSJ112137.34+222823.7 0.608 18.58  0.40 0.12 Te(I)                                  single QSO
+SDSSJ112235.03+232634.9 1.249 19.03  0.70 0.22 Te(I)                            FO    separation 0.7 arcsec
+SDSSJ112648.19+204512.7 1.118 18.89  0.42 1.92 Te(I)                                  single QSO
+SDSSJ112818.49+240217.4 1.607 17.88  0.77 0.66 Te(V, I)                         GM    SDSS lens                   32
+SDSSJ113217.68+182740.7 0.852 19.00  0.41 1.17 Te(I)                                  single QSO
+SDSSJ113454.49+300526.3 0.613 18.18  0.51 2.05 Te(I)                                  single QSO
+SDSSJ114019.74+205853.4 1.789 17.85  3.21 1.05 Te(V, I)                               no lensing object
+SDSSJ120929.39+213323.9 1.104 18.40  0.40 1.13 Te(I)                                  single QSO
+SDSSJ121333.78+233521.1 2.105 17.36  0.46 0.91 Te(I)                                  single QSO
+SDSSJ121724.18+214914.4 0.669 18.22  0.57 0.46 Te(I)                                  single QSO
+SDSSJ122249.86+334750.4 0.945 17.24  0.49 1.86 Te(I)                                  QSO+galaxy
+SDSSJ122839.19+035749.2 0.607 18.31  0.49 0.64 Te(I)                                  single QSO
+SDSSJ124257.32+254303.0 0.826 18.71  2.77 1.30 Te(I)                            FO    QSO pair (z = 0.827, 0.824)
+SDSSJ125107.57+293540.5 0.802 18.86  1.23 1.02 8k(V, I), Op(B, R, I)                  SDSS lens                   26
+SDSSJ130451.52+161138.2 0.709 19.07  0.48 1.80 Te(I)                                  single QSO
+SDSSJ132559.51+144110.3 1.102 18.71  0.62 0.64 Te(I)                                  no lensing object
+SDSSJ132752.04+103627.2 1.895 18.68  0.54 1.30 Te(I)                                  no lensing object
+SDSSJ133018.64+181032.1 1.393 18.35  1.11 0.77 Te(V, I), NF(H), PA(H, Ks)             SDSS lens                   23 
+SDSSJ133243.66+343300.5 1.925 19.08  1.16 0.16 Te(I)                                  no lensing object
+SDSSJ140515.42+095931.3 1.810 19.05  1.84 0.64 8k(V, I), Te(R)                  DO    SDSS lens                   32,33
+SDSSJ140901.87+294633.6 1.583 18.54  0.95 1.23 Te(V, I)                               no lensing object
+SDSSJ141737.89+293510.0 0.835 18.55  0.63 0.02 Te(I)                                  no lensing object
+SDSSJ142341.94+204001.5 0.842 18.97  1.06 1.30 FO(I)                            FO    QSO pair (z = 0.842, 0.842)
+SDSSJ143451.86+155624.7 1.758 18.38  0.42 0.57 Te(I)                                  single QSO
+SDSSJ144208.76+260903.7 1.418 18.31  1.72 0.79                                  FO    QSO+star
+SDSSJ144738.24+230034.1 1.604 18.40  1.26 1.20 Te(V, I)                               single QSO
+SDSSJ145501.91+144734.8 1.424 18.22  1.72 0.70 WF(g, i), Te(V, R, I)            FO    SDSS lens                   5
+SDSSJ145816.37+222624.5 0.979 18.23  0.60 2.21 Te(I)                                  single QSO
+SDSSJ150248.48+133631.7 2.063 18.88  1.25 0.21 Te(I)                                  QSO+galaxy
+SDSSJ151538.59+151135.8 2.054 18.05  2.03 0.26 Te(V, R, I), SC(i), SP(z), IR(K) WF,DO SDSS lens                   32
+SDSSJ152024.49+211155.3 1.505 18.40  1.24 0.91 Te(V, R, I)                      GM    QSO+star
+SDSSJ153417.62+253847.0 0.645 18.84  0.84 0.09 Te(V, R, I)                      GM    QSO+star
+SDSSJ154817.88+044101.4 1.035 18.57  1.22 0.77                                  FO    QSO+star
+SDSSJ155259.18+230104.9 1.357 17.71  0.83 0.03 Te(V, I)                               no lensing object
+SDSSJ161320.01+170839.2 1.549 18.67  0.78 0.51 Te(I)                                  no lensing object
+SDSSJ161512.49+182354.0 1.026 18.96  2.20 2.13 Te(I)                                  QSO+galaxy
+SDSSJ161848.15+171459.4 1.247 19.04  1.15 1.42 Te(I)                                  no lensing object

@@ -1,0 +1,101 @@
+J/ApJ/716/866             SDSS search for binary AGN              (Smith+, 2010)
+================================================================================
+A search for binary active galactic nuclei: double-peaked [O III] AGNs in the
+Sloan Digital Sky Survey.
+    Smith K.L., Shields G.A., Bonning E.W., McMullen C.C., Rosario D.J.,
+    Salviander S.
+   <Astrophys. J., 716, 866-877 (2010)>
+   =2010ApJ...716..866S
+================================================================================
+ADC_Keywords: Active gal. nuclei ; Redshifts ; Radio sources ; Spectroscopy
+Keywords: black hole physics - galaxies: active - quasars: general
+
+Abstract:
+    We present active galactic nuclei (AGNs) from the Sloan Digital Sky
+    Survey (SDSS) having double-peaked profiles of [OIII]5007,4959 and
+    other narrow emission lines, motivated by the prospect of finding
+    candidate binary AGNs. These objects were identified by means of a
+    visual examination of 21592 quasars at z<0.7 in SDSS Data Release 7
+    (DR7). Of the spectra with adequate signal-to-noise, 148 spectra
+    exhibit a double-peaked [OIII] profile. Of these, 86 are Type 1 AGNs
+    and 62 are Type 2 AGNs. Only two give the appearance of possibly being
+    optically resolved double AGNs in the SDSS images, but many show close
+    companions or signs of recent interaction. Radio-detected quasars are
+    three times more likely to exhibit a double-peaked [OIII] profile than
+    quasars with no detected radio flux, suggesting a role for jet
+    interactions in producing the double-peaked profiles. Of the 66
+    broad-line (Type 1) AGNs that are undetected in the FIRST survey, 0.9%
+    show double-peaked [OIII] profiles.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe          80        .   This file
+table1.dat      59      148   Double-peaked AGNs
+table2.dat      46       52   Radio flux and luminosity
+table3.dat      29       78   {lambda}5007 component fluxes
+--------------------------------------------------------------------------------
+
+See also:
+   VII/260 : The SDSS-DR7 quasar catalog (Schneider+, 2010)
+   J/ApJ/708/427  : Type 2 AGNs with double-peaked [OIII] lines (Liu+, 2010)
+   J/A+A/510/A56  : zCOSMOS type-2 AGN (Bongiorno, 2010)
+   J/ApJ/705/L76  : AGNs with double-peaked [OIII] lines (Wang+, 2009)
+   J/ApJ/693/1554 : Double QSOs: merger scenarios (Foreman+, 2009)
+   J/ApJ/614/91   : Black hole mass and accretion rate of AGNs (Wu+, 2004)
+   J/ApJ/549/155  : [OIII] emission in a sample of AGNs (Nagao+, 2001)
+   http://www.sdss.org/ : SDSS home page
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1- 19  A19   ---     SDSS     SDSS-DR7 name (JHHMMSS.ss+DDMMSS.s)
+      20  A1    ---   f_SDSS     [*] *: image available in Figure 3 of the paper
+  22- 26  F5.3  ---     z        SDSS-DR7 redshift
+  28- 31  I4    km/s    Vel      Rest-frame velocity separation of the two peaks
+                                 of [OIII]5007
+  33- 37  F5.2 [10-7W]  logL     Optical continuum luminosity from the SDSS
+                                 spectrum log({nu}L_{nu}_)
+  39- 41  F3.1  ---     Type     [1/2] AGN type
+      43  A1    ---     Q        [m/g] Quality flag of the double peak (g=good
+                                 or m=marginal) (1)
+  45- 51  F7.5  ---     zr       Redshift of the red peak of {lambda}5007
+  53- 59  F7.5  ---     zh       ? Host galaxy redshift
+--------------------------------------------------------------------------------
+Note (1): "Marginal" objects are questionable cases due to low S/N, bad sky
+          subtraction, and most often, failure of {lambda}4959 to reproduce
+          the intensity ratio of the components in {lambda}5007.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units     Label   Explanations
+--------------------------------------------------------------------------------
+   1- 19  A19   ---       SDSS    SDSS-DR7 name (JHHMMSS.ss+DDMMSS.s)
+  21- 25  F5.3  ---       z       SDSS-DR7 redshift
+  27- 33  F7.2  mJy       Snu     Observed 20cm flux density from FIRST
+  35- 39  F5.2 [10-7W/Hz] logLnu  Source specific luminosity at 6cm rest
+                                  wavelength (assuming L{nu}{propto}{nu}^-0.7^)
+  41- 44  F4.2  ---       logR    Radio loudness parameter R (Kellermann et al.
+                                  1989AJ.....98.1195K)
+      46  I1    ---       Type    [1/2] AGN type
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label  Explanations
+--------------------------------------------------------------------------------
+   1- 19  A19   ---     SDSS   SDSS-DR7 name (JHHMMSS.ss+DDMMSS.s)
+  21- 24  I4  10-20W/m2 Fr     Flux of the red component of the 5007{AA}
+                               emission line (in 10^-17^erg/cm^2^/s)
+  26- 29  I4  10-20W/m2 Fb     Flux of the blue component of the 5007{AA}
+                               emission line (in 10^-17^erg/cm^2^/s)
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                                     Emmanuelle Perret [CDS]    31-May-2012

@@ -1,0 +1,85 @@
+J/ApJ/693/1554         Double QSOs: merger scenarios            (Foreman+, 2009)
+================================================================================
+Double quasars: probes of black hole scaling relationships and merger scenarios.
+    Foreman G., Volonteri M., Dotti M.
+   <Astrophys. J., 693, 1554-1562 (2009)>
+   =2009ApJ...693.1554F
+================================================================================
+ADC_Keywords: QSOs ; Redshifts
+Keywords: black hole physics - galaxies: active - galaxies: evolution -
+          quasars: general
+
+Abstract:
+    We analyze the available sample of double quasars, and investigate
+    their physical properties. Our sample comprises 85 pairs, selected
+    from the Sloan Digital Sky Survey (SDSS). We derive physical
+    parameters for the engine and the host, and model the dynamical
+    evolution of the pair. First, we compare different scaling
+    relationships between massive black holes and their hosts (bulge mass,
+    velocity dispersion, and their possible redshift dependences), and
+    discuss their consistency. We then compute dynamical friction
+    timescales for the double quasar systems to investigate their
+    frequency and their agreement with the "merger driven" scenario for
+    quasar triggering.
+
+Description:
+    For our sample, we select a total of 85 quasar pairs reported in the
+    following papers: Hennawi et al. (2006; Cat. J/AJ/131/1), Myers et al.
+    (2007; Cat. J/ApJ/658/99), and Myers et al. (2008; Cat.
+    J/ApJ/678/635). The quasars in our sample are selected as physical
+    pairs rather than lenses.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat    113       84   Properties of the double quasar sample
+--------------------------------------------------------------------------------
+
+See also:
+  VII/260 : The SDSS-DR7 quasar catalog (Schneider+, 2010)
+  VII/241 : The 2dF QSO Redshift Survey (Croom+ 2004)
+  J/ApJS/180/67    : Photometric selection of quasars from SDSS. II. (Richards+,
+                     2009)
+  J/MNRAS/392/1539 : Metal absorption systems in pairs of QSOs (Tytler+, 2009)
+  J/ApJS/175/29    : Spectroscopy of QSO pairs (Marble+, 2008)
+  J/MNRAS/391/1457 : Lyman{alpha} forest in QSO pairs (Kirkman+, 2008)
+  J/ApJ/678/635    : Spectroscopy of quasar binary candidates (Myers+, 2008)
+  J/ApJ/658/99     : Pairs of QSO in SDSS-DR4 (Myers+, 2007)
+  J/AJ/131/1       : Binary quasars in the SDSS (Hennawi+, 2006)
+  J/ApJS/155/257   : NBC Quasar Candidate Catalog (Richards+, 2004)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4    ---     Cat     Catalog: SDSS or 2QZ
+   5- 14  A10   ---     Name    Name of the pair (JHHMM+DDMM)
+  16- 19  F4.2  ---     z       Pair redshift
+  21- 26  F6.2  kpc     Rmax    Physical separation between the two quasars
+  28- 34  E7.3 TLsun    LB1     QSO1 luminosity (in 10^12^{sun})
+  36- 42  E7.3 TLsun  e_LB1     LB1 uncertainty (in 10^12^{sun})
+  44- 50  E7.3 TLsun    LB2     QSO2 luminosity (in 10^12^{sun})
+  52- 58  E7.3 TLsun  e_LB2     LB2 uncertainty (in 10^12^{sun})
+  60- 66  E7.3 GMsun    Mbh1    BH mass for QSO1 (in 10^9^{sun})
+  68- 75  E8.4 GMsun  E_Mbh1    Positive error on Mbh1 (in 10^9^{sun})
+  77- 83  E7.3 GMsun  e_Mbh1    Negative error on Mbh1 (in 10^9^{sun})
+  85- 91  E7.3 GMsun    Mbh2    BH mass for QSO2 (in 10^9^{sun})
+  93-100  E8.4 GMsun  E_Mbh2    Positive error on Mbh2 (in 10^9^{sun})
+ 102-108  E7.3 GMsun  e_Mbh2    Negative error on BHMass2 (in 10^9^{sun})
+ 110-113  A4    ---   r_z       Reference(s) for the photometric or
+                                spectroscopic information (1)
+--------------------------------------------------------------------------------
+Note (1): References as follows:
+  1 = Hennawi et al. (2006, Cat. J/AJ/131/1; <[HSO2006] JHHMM+DDMMA> in Simbad)
+  2 = Myers et al. (2007, Cat. J/ApJ/658/99)
+  3 = Myers et al. (2008, Cat. J/ApJ/678/635; <[MRB2008] JHHMM+DDMMA> in Simbad)
+  A = Vestergaard et al. (2008ApJ...674L...1V)
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                                     Emmanuelle Perret [CDS]    16-Mar-2011

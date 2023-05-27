@@ -1,0 +1,63 @@
+Table 1.
+Summary of spectroscopic observations. The ‘Selection’ column indicates the method(s) with ‘M’ for morphological selection, ‘C’ for colour selection, and ‘S’ for spectroscopic selection (see the text for details). Several candidates were selected by multiple methods. ‘Observation’ indicates the telescope (S-Subaru or K-Keck), the date and setup of the spectroscopic observations (see also Section 3.1). ‘Result’ indicates the conclusion from the follow-up spectroscopy as well as imaging observations described in Section 3.2. The zQSO are taken from the BOSS DR12 catalogue which has redshifts corrected after visual inspection of the spectra. The last column has redshifts from the follow-up spectra except when marked witha which are taken from the BOSS spectrum.
+Object ID	RA (J2000)	Dec. (J2000)	Selection	zQSO	Observation	Exp. (s)	Result
+SDSS J0033+2015	00:33:37.59	+20:15:38.2	C	2.701	K, 2013 Sep (400/3400+400/8500)	600	Quasar+star
+SDSS J0035+2659	00:35:31.98	+26:59:59.9	M	2.294	S, 2015 Jun (300B/L600)	1500	Different SED
+SDSS J0114+0722	01:14:38.38	+07:22:28.5	MC	1.828	K, 2013 Sep (400/3400+400/8500)	600	Quasar lens (zl = 0.408)
+SDSS J0139+1908	01:39:40.69	+19:08:40.7	MC	3.095	K, 2013 Sep (400/3400+400/8500)	600	Different SED
+SDSS J0206+0440	02:06:49.50	+04:40:19.0	C	2.396	K, 2013 Sep (400/3400+400/8500)	600	Different SED
+SDSS J0213−0421	02:13:22.86	−04:21:34.3	C	1.910	S, 2015 Feb (300B/L600)	900	Quasar pair z=1.911&0.992
+SDSS J0256+0153	02:56:40.76	+01:53:29.3	S	2.600	K, 2013 Sep (400/3400+400/8500)	600	Quasar lens (zl = 0.603)
+SDSS J0737+4825	07:37:08.67	+48:25:51.1	M	2.892	S, 2015 Feb (300B/L600)	1080	Quasar lens
+SDSS J0757+2150	07:57:20.54	+21:50:07.7	MC	2.128	S, 2014 May (300B/L600)	720	Quasar+galaxy at z = 0.118
+SDSS J0818+0601	08:18:30.46	+06:01:38.0	M	2.381	S, 2015 Feb (300B/L600)	900	Quasar pair z=2.359&2.361
+SDSS J0821+0735	08:21:43.36	+07:35:45.9	C	2.378	S, 2015 Feb (300B/L600)	1080	Quasar pair z=2.383&2.387
+SDSS J0821+4542	08:21:58.66	+45:42:44.4	M	2.066	S, 2014 May (300B/L600)	900	Quasar lens (zl = 0.349)
+SDSS J0826+4248	08:26:52.99	+42:48:17.8	MS	1.942	S, 2014 May (300B/L600)	900	Inconclusive
+SDSS J0847+1504	08:47:21.96	+15:04:50.2	M	3.280	S, 2015 Feb (300B/SY47)	900	Different SED
+SDSS J0921+2854	09:21:15.47	+28:54:44.3	MC	1.410	S, 2015 Feb (300B/L600)	720	Quasar lens (zl = 0.445a)
+SDSS J0928+4332	09:28:39.19	+43:32:42.4	MC	3.698	S, 2014 May (300B/SY47)	900	Quasar pair z=3.694&2.995
+SDSS J0930+4614	09:30:21.16	+46:14:22.8	M	2.397	S, 2015 Feb (300B/L600)	900	Quasar pair z=2.393&2.394
+SDSS J0958+0744	09:58:42.24	+07:44:23.2	M	2.781	S, 2014 May (300B/L600)	900	Quasar+galaxy at z = 0.158
+SDSS J1001+0156	10:01:40.95	+01:56:43.1	M	2.202	S, 2015 Feb (300B/L600)	1080	Different SED
+SDSS J1043+4320	10:43:24.87	+43:20:49.4	M	2.234	S, 2015 Jun (300B/L600)	900	Quasar pair z=2.245&2.225
+SDSS J1108+4726	11:08:28.25	+47:26:21.6	C	3.627	S, 2014 May (300B/SY47)	900	Quasar+galaxy at z = 0.385
+SDSS J1124+5710	11:24:55.24	+57:10:56.5	C	2.312	S, 2015 Feb (300B/L600)	720	Quasar pair z=2.309&2.315
+SDSS J1125+5020	11:25:42.60	+50:20:35.5	C	1.066	S, 2015 Jun (300B/L600)	900	Quasar+galaxy at z = 0.385
+SDSS J1138+5254	11:38:38.54	+52:54:18.2	M	2.758	S, 2015 Jun (300B/L600)	1200	Different SED
+SDSS J1139−0014	11:39:28.49	−00:14:18.1	C	3.084	S, 2014 May (300B/L600)	720	Quasar+star
+SDSS J1152+2235	11:52:10.58	+22:35:19.2	C	2.902	S, 2014 May (300B/L600)	720	Quasar+star
+SDSS J1248+6104	12:48:59.85	+61:04:30.3	C	2.591	S, 2015 Feb (300B/L600)	1200	Quasar+star
+SDSS J1254+1857	12:54:40.37	+18:57:12.0	MC	1.717	S, 2015 Feb (300B/L600)	1200	Quasar lens (zl = 0.555a)
+SDSS J1309+5617	13:09:27.55	+56:17:38.9	C	2.505	S, 2015 Jun (300B/L600)	1200	Quasar pair z=2.513&2.515
+SDSS J1319+5023	13:19:26.06	+50:23:05.5	C	2.301	S, 2015 Jun (300B/L600)	1080	Quasar+galaxy at z = 0.088
+SDSS J1322+3038	13:22:04.81	+30:38:38.2	M	2.233	S, 2015 Jun (300B/L600)	1200	Inconclusive
+SDSS J1330+3800	13:30:07.34	+38:00:42.4	C	2.254	S, 2015 Feb (300B/L600)	720	Quasar lens
+SDSS J1405+1350	14:05:56.92	+13:50:38.3	C	2.342	S, 2015 Jun (300B/L600)	1200	Quasar pair z=2.345&2.361
+SDSS J1412+5204	14:12:10.18	+52:04:23.3	M	2.952	S, 2015 Feb (300B/L600)	1200	Quasar lens
+SDSS J1429+2523	14:29:38.20	+25:23:43.4	M	3.904	S, 2015 Feb (300B/SY47)	900	Different SED
+SDSS J1442+4055	14:42:54.79	+40:55:35.6	C	2.575	S, 2014 May (300B/L600)	480	Quasar lens
+SDSS J1452+4224	14:52:11.50	+42:24:29.6	M	4.819	S, 2015 Feb (300B/SY47)	900	Quasar lens (zl = 0.382)
+SDSS J1458−0202	14:58:47.59	−02:02:05.9	M	1.724	S, 2014 May (300B/L600)	1200	Quasar lens
+SDSS J1508+3037	15:08:22.32	+30:37:47.2	M	2.449	S, 2015 Feb (300B/L600)	1200	Inconclusive
+SDSS J1537+3014	15:37:34.46	+30:14:53.7	MCS	1.553	S, 2014 May (300B/L600)	900	Quasar lens (zl = 0.490a)
+SDSS J1548+2830	15:48:50.76	+28:30:14.3	C	3.227	S, 2015 Feb (300B/SY47)	900	Quasar pair z=3.208&1.487
+SDSS J1551+3303	15:51:37.02	+33:03:19.6	C	3.806	S, 2015 Feb (300B/SY47)	900	Different SED
+SDSS J1552+2401	15:52:21.40	+24:01:23.1	MC	3.674	S, 2015 Feb (300B/SY47)	720	Quasar+star
+SDSS J1554+2616	15:54:11.53	+26:16:35.7	C	2.321	S, 2015 Feb (300B/L600)	720	Quasar+star
+SDSS J1556+1731	15:56:23.81	+17:31:21.4	C	2.814	S, 2014 May (300B/L600)	720	Quasar+galaxy at z = 0.109
+SDSS J1600+3148	16:00:28.78	+31:48:31.7	C	2.331	S, 2015 Jun (300B/L600)	1080	Quasar+star
+SDSS J1611+0844	16:11:05.64	+08:44:35.4	C	4.548	S, 2015 Feb (300B/SY47)	900	Different SED
+SDSS J1627+5553	16:27:16.69	+55:53:37.0	C	4.072	S, 2015 Feb (300B/SY47)	720	Different SED
+SDSS J1712+2516	17:12:32.14	+25:16:24.6	M	2.604	S, 2015 Feb (300B/L600)	1080	Quasar+star
+SDSS J1715+2831	17:15:17.32	+28:31:29.5	C	2.023	S, 2015 Feb (300B/L600)	1080	Different SED
+SDSS J2146-0047	21:46:46.03	−00:47:44.3	M	2.381	S, 2014 May (300B/L600)	900	Quasar lens at z = 0.799
+SDSS J2220−0050	22:20:41.31	−00:50:15.5	MC	2.602	S, 2015 Jun (300B/L600)	1080	Quasar+star
+SDSS J2238+1820	22:38:51.80	+18:20:38.5	MC	2.074	S, 2015 Jun (300B/L600)	720	Quasar+galaxy at z = 0.199
+SDSS J2245+2548	22:45:55.75	+25:48:35.4	C	2.992	S, 2015 Jun (300B/L600)	900	Quasar pair z=2.995&2.178
+SDSS J2314−0108	23:14:24.50	−01:08:58.7	C	3.455	S, 2015 Feb (300B/SY47)	1080	Different SED
+Oxford University Press uses cookies to enhance your experience on our website. By selecting ‘accept all’ you are agreeing to our use of cookies. You can change your cookie settings at any time. More information can be found in our Cookie Policy.
+
+Cookie settings
+Deny all
+Accept all

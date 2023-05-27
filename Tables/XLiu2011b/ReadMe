@@ -1,0 +1,96 @@
+J/ApJ/737/101              AGN pairs from SDSS-DR7. I.              (Liu+, 2011)
+================================================================================
+Active galactic nucleus pairs from the Sloan Digital Sky Survey.
+I. The frequency on ~5-100 kpc scales.
+    Liu X., Shen Y., Strauss M.A., Hao L.
+   <Astrophys. J., 737, 101 (2011)>
+   =2011ApJ...737..101L
+================================================================================
+ADC_Keywords: Active gal. nuclei ; Redshifts ; Spectroscopy ; Photometry, SDSS ;
+              QSOs ; Galaxies, Seyfert
+Keywords: black hole physics - galaxies: active - galaxies: interactions -
+          galaxies: nuclei - quasars: general
+
+Abstract:
+    Galaxy-galaxy mergers and close interactions have long been regarded
+    as a viable mechanism for channeling gas toward the central
+    supermassive black holes (SMBHs) of galaxies which are triggered as
+    active galactic nuclei (AGNs). AGN pairs, in which the central SMBHs
+    of a galaxy merger are both active, are expected to be common from
+    such events. We conduct a systematic study of 1286 AGN pairs at
+    \bar{z}~0.1 with line-of-sight velocity offsets {Delta}v<600km/s and
+    projected separations r_p_<100h^-1^_70_kpc, selected from the Seventh
+    Data Release of the Sloan Digital Sky Survey (SDSS, Cat. II/294). This
+    AGN pair sample was drawn from 138070 AGNs optically identified based
+    on diagnostic emission line ratios and/or line widths. The fraction of
+    AGN pairs with 5h^-1^_70_kpc<~r_p_<100h^-1^_70_kpc among all
+    spectroscopically selected AGNs at 0.02<z<0.16 is 3.6% after
+    correcting for SDSS spectroscopic incompleteness; ~30% of these pairs
+    show morphological tidal features in their SDSS images, and the
+    fraction becomes >~80% for pairs with the brightest nuclei.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat     66     2618   SDSS AGN Pairs (from SDSS-DR7)
+--------------------------------------------------------------------------------
+
+See also:
+   VII/260 : The SDSS-DR7 quasar catalog (Schneider+, 2010)
+   II/294  : The SDSS Photometric Catalog, Release 7 (Adelman-McCarthy+, 2009)
+   J/AJ/142/122   : SDSS DR7 galaxy/QSOs pairs (Cherinka+, 2011)
+   J/ApJ/708/427  : Type 2 AGNs with double-peaked [OIII] lines (Liu+, 2010)
+   J/AJ/136/2373  : Type 2 quasars from SDSS (Reyes+, 2008)
+   J/ApJ/658/99   : Pairs of QSO in SDSS-DR4 (Myers+, 2007)
+   J/AJ/126/2125  : SDSS candidate type II quasars (Zakamska+, 2003)
+   J/ApJS/112/315 : Spectroscopic parameters of Seyfert nuclei (Ho+ 1997)
+   http://www.sdss.org/ : SDSS home page
+   http://www.mpa-garching.mpg.de/SDSS/DR7/ : The MPA-JHU DR7 release of
+                                              spectrum measurements
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1- 19  A19   ---     SDSS    SDSS Designation (JHHMMSS.ss+DDMMSS.s)
+  21- 24  I4    ---     Plate   Spectroscopic plate number
+  26- 28  I3    ---     Fiber   Fiber identification
+  30- 34  I5    d       MJD     Modified Julian Date of observation
+  36- 41  F6.4  ---     z       [0.02/0.27] Redshift
+  43- 47  F5.1  arcsec  sep     [1.5/232] Angular separation {Delta}{theta}
+  49- 52  F4.1  kpc     rp      Transverse proper separation r_p_ (h_70_^-1^kpc)
+  54- 56  I3    km/s    dV      Line-of-sight velocity offset {Delta}V
+  58- 62  F5.2  mag     rmag    [12.47/20.38] SDSS r-band model magnitude
+                                corrected for Galactic extinction
+      64  I1    ---     FAGN    [0/5] Sub-population flag (1)
+      66  I1    ---     FTid    [0/3]? Tidal flag (2)
+--------------------------------------------------------------------------------
+Note (1): Flag for sub-populations in the parent AGN sample: 
+   * "0" through "2" are for narrow-line AGNs contained in the MPA-JHU DR7 
+     catalog, where "0" stands for Seyferts, "1" for LINERs, and "2" for
+     composites, respectively, according to the Kewley et al. 
+     (2001ApJ...556..121K) and Kauffmann et al. (2003MNRAS.346.1055K) 
+     criteria for separating AGNs and composites from HII regions, and 
+     the Ho et al. (1997, Cat. J/ApJS/112/315) criterion for separating
+     Seyferts from LINERS (Figure 4). 
+   * "3" for narrow-line quasars in the Reyes et al. (2008,
+     Cat. J/AJ/136/2373) sample but not in the MPA-JHU DR7 catalog; 
+   * "4" for broad-line quasars, and "5" for broad-line AGNs according
+     to the Hao et al. (2005AJ....129.1783H) selection.
+Note (2): Flag from visual identification of tidal features as follows :
+   0 = non-interaction,
+   1 = ambiguous,
+   2 = tidal,
+   3 = "dumbbell" systems.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+    Liu et al. Paper II. 2012ApJ...745...94L
+
+================================================================================
+(End)                 Greg Schwarz [AAS], Emmanuelle Perret [CDS]    10-Jan-2013
