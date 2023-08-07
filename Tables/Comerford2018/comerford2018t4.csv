@@ -1,0 +1,9 @@
+SDSS,Galaxy1,Galaxy2,Merger_Ratio(L*,1/L*,2),Merger_Ratio(L*,1/L*,2)_err,log(Lbol,1/Lbol,2),log(fEdd,1/fEdd,2)
+J0952+2552,DPAGN,companion,2.0,0.18a,0.15,-0.15
+J1157+0816,companion,DPAGN,1.5,0.24,-1.16,-1.34
+J1245+3723,DPAGN,companion,2.2,0.31,1.22,0.88
+J1248-0257,companion,DPAGN,1.4,0.11b,-0.85,-1.00
+J1301-0058,DPAGN,companion,3.0,0.28c,0.63,0.15
+J1323+0308,DPAGN,companion,5.6,0.73,2.20,1.45
+J1541+2036,DPAGN,companion,3.0,0.33b,2.12,1.64
+J1610+1308,DPAGN,companion,48.3,5.2b,1.97,0.28

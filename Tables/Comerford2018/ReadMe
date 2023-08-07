@@ -1,0 +1,145 @@
+J/ApJ/867/66  Double-peaked narrow lines in AGN. IV. Mergers  (Comerford+, 2018)
+================================================================================
+The origin of double-peaked narrow lines in active galactic nuclei.
+IV. Association with galaxy mergers.
+    Comerford J.M., Nevin R., Stemo A., Muller-Sanchez F., Barrows R.S.,
+    Cooper M.C., Newman J.A.
+   <Astrophys. J., 867, 66 (2018)>
+   =2018ApJ...867...66C
+================================================================================
+ADC_Keywords: Active gal. nuclei; Spectra, optical; Velocity dispersion
+Keywords: galaxies: active ; galaxies: interactions ; galaxies: nuclei
+
+Abstract:
+    Double-peaked narrow emission lines in active galactic nucleus (AGN)
+    spectra can be produced by AGN outflows, rotation, or dual AGNs, which
+    are AGN pairs in ongoing galaxy mergers. Consequently, double-peaked
+    narrow AGN emission lines are useful tracers of the coevolution of
+    galaxies and their supermassive black holes, as driven by AGN feedback
+    and AGN fueling. We investigate this concept further with follow-up
+    optical longslit observations of a sample of 95 Sloan Digital Sky
+    Survey (SDSS) galaxies that have double-peaked narrow AGN emission
+    lines. Based on a kinematic analysis of the longslit spectra, we
+    confirm previous work that finds that the majority of double-peaked
+    narrow AGN emission lines are associated with outflows. We also find
+    that eight of the galaxies have companion galaxies with line-of-sight
+    velocity separations <500km/s and physical separations <30kpc. Since
+    we find evidence of AGNs in both galaxies, all eight of these systems
+    are compelling dual AGN candidates. Galaxies with double-peaked narrow
+    AGN emission lines occur in such galaxy mergers at least twice as
+    often as typical active galaxies. Finally, we conclude that at least
+    3% of SDSS galaxies with double-peaked narrow AGN emission lines are
+    found in galaxy mergers where both galaxies are resolved in SDSS
+    imaging.
+
+Description:
+    Of the 95 z>0.1 galaxies in our sample, we previously observed 54 of
+    them with the Kast Spectrograph at Lick Observatory (3m telescope,
+    pixel size 0.78") in 2009 April-August and 2010 January-July, the
+    Double Spectrograph (DBSP) at Palomar Observatory (5m telescope, pixel
+    size 0.47" for the red detector and 0.39" for the blue detector) on
+    2010 December 1-2, and the Blue Channel Spectrograph at MMT
+    Observatory (6.5m telescope, pixel size 0.29") in 2010.
+
+    In addition, we obtained, in 2010, optical longslit observations of
+    41 more z>0.1 double-peaked AGNs with GMOS-North on the Gemini
+    Observatory North 8m telescope (pixel size 0.073" for 1x1 pixel
+    binning and 0.145" for 1x2 pixel binning), GMOS-South on the Gemini
+    Observatory South 8m telescope (pixel size 0.073" for 1x1 pixel
+    binning and 0.146" for 1x2 pixel binning), LRIS on the Keck I 10m
+    telescope (pixel size 0.135"), and DEIMOS on the Keck II 10m telescope
+    (pixel size 0.119").
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl  Records  Explanations
+--------------------------------------------------------------------------------
+ReadMe          80        .  This file
+table1.dat     160       95  Summary of observations
+table2.dat     136      190  Kinematic classifications of the 95 galaxies
+--------------------------------------------------------------------------------
+
+See also:
+ V/147         : The SDSS Photometric Catalogue, Release 12 (Alam+, 2015)
+ J/ApJ/705/L76 : AGNs with double-peaked [OIII] lines (Wang+, 2009)
+ J/ApJ/708/427 : Type 2 AGNs with double-peaked [OIII] lines (Liu+, 2010)
+ J/ApJ/716/866 : SDSS search for binary AGN (Smith+, 2010)
+ J/ApJ/753/42  : Double-peaked AGN. I. Dual AGN candidates (Comerford+, 2012)
+ J/ApJS/201/31 : Emission-line galaxies from SDSS. I. (Ge+, 2012)
+ J/ApJ/746/L22 : Dual AGNs in the nearby Universe (Koss+, 2012)
+ J/ApJ/769/95  : [NeV] or [NeIII] double peaked SDSS quasars (Barrows+, 2013)
+ J/ApJ/777/64  : A search for double-peaked AGNs in AGES (Comerford+, 2013)
+ J/ApJ/789/112 : Offset AGN Candidates (Comerford+, 2014)
+ J/ApJ/832/67  : Double-peaked narrow lines in AGN. II. z<0.1 (Nevin+, 2016)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4 A4     ---   ---      [SDSS]
+   6- 24 A19    ---   SDSS     SDSS designation (JHHMMSS.ss+DDMMSS.s)
+  26- 43 A18    ---   Inst     Telescope/instrument (1)
+  45- 53 A9     ---   R        Spectral resolution (2)
+  55- 68 A14    ---   Lines    BPT emission lines (3)
+  70-127 A58    ---   Date     Observation date; UT (4)
+ 129-133 F5.1   deg   PA1      Position angle of first observation (5)
+ 135-139 F5.1   deg   PA2      [90/178.1]? Position angle of
+                                second observation (5)
+ 141-149 A9     s     Exp      Exposure time at each position angle (6)
+ 151-160 A10    ---   Name     Abbreviated name as used in Table 2;
+                                column added by CDS
+--------------------------------------------------------------------------------
+Note (1): 1x1 or 1x2 binnings are denoted for the Gemini/GMOS observations.
+Note (2): Where two spectral resolutions are listed, the first refers to
+          the blue side and the second refers to the red side.
+Note (3): Covered by the wavelength range of observations.
+Note (4): Where multiple dates are listed, the first position angle was
+          observed on the first dates and the second position angle was
+          observed on the second dates.
+Note (5): Measured in degrees from east of north.
+Note (6): Where two exposure times are listed, the first exposure time was for
+          the first position angle and the second exposure time was for the
+          second position angle.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label  Explanations
+--------------------------------------------------------------------------------
+   1- 10 A10    ---     Name   SDSS designation (JHHMM+DDMM)
+  12- 16 F5.1   deg     PAobs  Observed position angle (1)
+  18- 22 A5     ---     NR     Number of spatial rows (2)
+  24- 29 F6.1   km/s    Vr     [-664/1231] Line-of-sight velocity difference (3)
+  31- 35 F5.1   km/s  E_Vr     [0/792] Upper uncertainty on Vr
+  37- 41 F5.1   km/s  e_Vr     [0.1/297] Lower uncertainty on Vr
+  43- 48 F6.1   km/s    sigma1 [67/2241] Dispersion of first component of a
+                                double-Gaussian fit to emission line profile
+  50- 54 F5.1   km/s  E_sigma1 [2/607] Upper uncertainty on sigma1
+  56- 61 F6.2   km/s  e_sigma1 [0/397] Lower uncertainty on sigma1
+  63- 68 F6.1   km/s    sigma2 [61/1053] Dispersion of second component of a
+                                double-Gaussian fit to emission line profile
+  70- 74 F5.1   km/s  E_sigma2 [0.6/929] Upper uncertainty on sigma2
+  76- 80 F5.1   km/s  e_sigma2 [0.1/295] Lower uncertainty on sigma2
+  82- 86 F5.1   deg     PAgal  ? Galaxy r-band major axis position angle (1)
+  88- 92 F5.1   deg     PAO3   ? Maximum extent [OIII] 5007 position angle (1)
+  94- 97 F4.1   deg   e_PAO3   [0.2/13]? Uncertainty in PAO3
+  99-103 F5.2   ---     A      [-0.9/1] Asymmetry of emission line profile
+ 105-136 A32    ---     Class  Kinematic classification
+--------------------------------------------------------------------------------
+Note (1): Measured in degrees from east of north.
+Note (2): Of emission in the longslit spectrum that are best fit by >2
+          Gaussians within the FWHM of the continuum.
+Note (3): Between the velocity derived from a single-Gaussian fit to the
+          emission line profile and the systemic velocity of the galaxy.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+    Muller-Sanchez et al.   Paper I.    2015ApJ...813..103M
+    Nevin et al.            Paper II.   2016ApJ...832...67N   Cat. J/ApJ/832/67
+    Nevin et al.            Paper III.  2018MNRAS.473.2160N
+
+================================================================================
+(End)                     Prepared by [AAS], Emmanuelle Perret [CDS] 11-Oct-2019

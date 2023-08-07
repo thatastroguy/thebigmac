@@ -1,0 +1,123 @@
+J/ApJ/658/99        Pairs of QSO in SDSS-DR4                  (Myers+, 2007)
+================================================================================
+Clustering analyses of 300,000 photometrically classified quasars.
+II. The excess on very small scales.
+    Myers A.D., Brunner R.J., Richards G.T., Nichol R.C., Schneider D.P.,
+    Bahcall N.A.
+   <Astrophys. J., 658, 99-106 (2007)>
+   =2007ApJ...658...99M
+================================================================================
+ADC_Keywords: Surveys ; QSOs ; Redshifts ; Photometry, SDSS
+Keywords: cosmology: observations - large-scale structure of universe -
+          quasars: general - surveys
+
+Abstract:
+    We study quasar clustering on small scales, modeling clustering
+    amplitudes using halo-driven dark matter descriptions. From 91 pairs
+    n scales <35h^-1^kpc, we detect only a slight excess in quasar
+    clustering over our best-fit large-scale model. Integrated across all
+    redshifts, the implied quasar bias is bQ=4.21+/-0.98 (bQ=3.93+/-0.71)
+    at ~18h^-1^kpc (~28h^-1^kpc).
+
+Description:
+    The "KDE" data sample used in this paper, which is constructed using
+    the kernel density estimation (KDE) technique of Richards et al.
+    (2004, Cat. J/ApJS/155/257), is detailed in Paper I, Myers et al.
+    (2006ApJ...638..622M).
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat    196      111   Quasar pairs in the DR4 KDE catalog with
+                              separations <0.1'
+--------------------------------------------------------------------------------
+
+See also:
+    II/282 : The SDSS Photometric Catalog, Release 6 (Adelman-McCarthy+, 2007)
+    J/AJ/131/1   : Binary quasars in the SDSS (Hennawi+, 2006)
+    J/A+A/459/L1 : Supercluster sample from SDSS DR4 (Einasto+, 2006)
+    J/A+A/471/17 : SDSS-DR4 nearby clusters global properties (Aguerri+, 2007)
+    http://www.sdss.org/dr4/ : SDSS-DR4 Home Page
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4    ---     ---       [SDSS]
+   5- 23  A19   ---     SDSS1     First component of Quasar pair name,
+                                   JHHMMSS.ss+DDMMSS.s
+  25- 26  I2    h       RAh       Pair1 Hour of Right Ascension (J2000)
+  28- 29  I2    min     RAm       Pair1 Minute of Right Ascension (J2000)
+  31- 35  F5.2  s       RAs       Pair1 Second of Right Ascension (J2000)
+      37  A1    ---     DE-       Pair1 Sign of the Declination (J2000)
+  38- 39  I2    deg     DEh       Pair1 Degree of Declination (J2000)
+  41- 42  I2    arcmin  DEm       Pair1 Arcminute of Declination (J2000)
+  44- 47  F4.1  arcsec  DEs       Pair1 Arcsecond of Declination (J2000)
+  49- 53  F5.2  ---     umag1     Pair1 SDSS u band magnitude (1)
+  55- 59  F5.2  ---     gmag1     Pair1 SDSS g band magnitude (1)
+  61- 64  F4.2  ---     zph1l     Pair1 photometric redshift range minimum
+  66- 70  F5.3  ---     zph1m     Pair1 photometric redshift range midpoint
+  72- 75  F4.2  ---     zph1u     Pair1 photometric redshift range maximum
+  77- 81  F5.3  ---     zsp1      ? Pair1 spectroscopic redshift
+  83- 88  A6    ---   f_zsp1      Flag on zspec1 (2)
+  89- 93  F5.3  ---     zsp1b     ? Second Pair1 spectroscopic redshift
+      94  A1    ---   r_zsp1b     [b] Reference for zspecb (3)
+  96- 99  A4    ---     ---       [SDSS]
+ 100-118  A19   ---     SDSS2     Second component of Quasar pair name,
+                                   JHHMMSS.ss+DDMMSS.s
+ 120-121  I2    h       RA2h      Pair2 Hour of Right Ascension (J2000)
+ 123-124  I2    min     RA2m      Pair2 Minute of Right Ascension (J2000)
+ 126-130  F5.2  s       RA2s      Pair2 Second of Right Ascension (J2000)
+     132  A1    ---     DE2-      Pair2 Sign of the Declination (J2000)
+ 133-134  I2    deg     DE2h      Pair2 Degree of Declination (J2000)
+ 136-137  I2    arcmin  DE2m      Pair2 Arcminute of Declination (J2000)
+ 139-142  F4.1  arcsec  DE2s      Pair2 Arcsecond of Declination (J2000)
+ 144-148  F5.2  ---     umag2     Pair2 SDSS u band magnitude (1)
+ 150-154  F5.2  ---     gmag2     Pair2 SDSS g band magnitude (1)
+ 156-159  F4.2  ---     zph2l     Pair2 photometric redshift range minimum
+ 161-165  F5.3  ---     zph2m     Pair2 photometric redshift range midpoint
+ 167-170  F4.2  ---     zph2u     Pair2 photometric redshift range maximum
+ 172-176  F5.3  ---     zsp2      ? Pair2 spectroscopic redshift
+ 178-183  A6    ---   n_zsp2      Note about Pair2 (2)
+ 184-188  F5.3  ---     zsp2b     ? Pair2 alternative spectroscopic redshift
+     190  A1    ---   r_zsp2b     [b] Reference for zspec2b (3)
+ 192-195  F4.2  arcsec  Delta     Angular separation of Quasar pair
+     196  A1    ---   f_Delta     [*] Objects in high absorption regions (Ag>21)
+                                      have a higher probability of being stars.
+                                      
+--------------------------------------------------------------------------------
+
+Note (1): Photometry is "as observed" (not been corrected for Galactic
+           extinction).
+
+Note (2): The reference follows spectroscopic redshift with the 
+     following code:
+      a = Source: DR4 Catalog Archive Server (e.g., likely Schneider
+          et al., 2005AJ....130..367S, Cat. VII/243)
+      b = Source: Hennawi et al. (2006, Cat. J/AJ/131/1)
+      c = Source: Sramek & Weedman (1978ApJ...221..468S),
+          Djorgovski & Spinrad (1984, in in ASP Conf. Ser. 21, 349)
+      d = Probable binary quasar-starburst (Brotherton et al.,
+          1999ApJ...520L..87B)
+      * = Objects in Galactic regions with absorption A_g_>0.21. These
+          were not included in our main analysis, as it is known (see,
+          the Appendixes of Paper I, Myers et al. (2006ApJ...638..622M))
+          that such objects have a higher probability of being stars
+      ? = Object with low confidence redshift
+     ?? = High probability lens (as recorded at
+          http://cfa-www.harvard.edu/castles/ )
+
+Note (3): b = the alternative redshift from Hennawi et al. (2006, Cat.
+     J/AJ/131/1) is provided where there is a redshift available from
+     this reference in addition to that available in the DR4 CAS.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+   Myers et al., Paper I    2006ApJ...638..622M
+================================================================================
+(End)                  Greg Schwarz [AAS], Patricia Vannier [CDS]    09-Jan-2009

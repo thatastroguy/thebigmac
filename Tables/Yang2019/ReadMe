@@ -1,0 +1,131 @@
+J/ApJS/245/17          X-shaped radio galaxies from FIRST          (Yang+, 2019)
+================================================================================
+Extended catalog of winged or X-shaped radio sources from the FIRST survey.
+    Yang X., Joshi R., Gopal-Krishna, An T., Ho L.C., Wiita P.J., Liu X.,
+    Yang J., Wang R., Wu X.-B., Yang X.
+   <Astrophys. J. Suppl. Ser., 245, 17 (2019)>
+   =2019ApJS..245...17Y
+================================================================================
+ADC_Keywords: Galaxies, radio; Radio continuum; Magnitudes, absolute; QSOs;
+              Redshifts; Photometry, SDSS; Morphology; Active gal. nuclei
+Keywords: Active galactic nuclei; Catalogs; Jets; Quasars;
+          Radio continuum emission; Surveys
+
+Abstract:
+    We present a catalog of 290 "winged" or X-shaped radio galaxies (XRGs)
+    extracted from the latest (2014 December 17) data release of the "Very
+    Large Array Faint Images of the Radio Sky at Twenty centimeter". We
+    have combined these radio images with their counterparts in the TIFR
+    GMRT sky survey at 150MHz, in an attempt to identify any low surface
+    brightness radio emission present in these sources. This has enabled
+    us to assemble a sample of 106 "strong" XRG candidates and 184
+    "probable" XRG candidates whose XRG designation needs to be verified
+    by further observations. The present sample of 290 XRG candidates is
+    almost twice as large as the number of XRGs currently known.
+    Twenty-five of our 290 XRG candidates (9 "strong" and 16 "probable")
+    are identified as quasars. Double-peaked narrow emission lines are
+    seen in the optical spectra of three of the XRG candidates (two
+    "strong" and one "probable"). Nearly 90% of the sample is located in
+    the FR II domain of the Owen-Ledlow diagram. A few of the strong XRG
+    candidates have a rather flat radio spectrum (spectral index {alpha}
+    flatter than -0.3) between 150MHz and 1.4GHz, or between 1.4 and 5GHz.
+    Since this is not expected for lobe-dominated extragalactic radio
+    sources (like nearly all known XRGs), these sources are particularly
+    suited for follow-up radio imaging and near-simultaneous measurement
+    of the radio spectrum.
+
+Description:
+    We have assembled the present catalog of 290 "winged" or X-shaped
+    radio galaxy (XRG) candidates by searching in the latest VLA FIRST
+    survey data release version 14Dec17 (see VIII/92). This version covers
+    10575deg^2^ of the sky and contains 946432 radio sources, including
+    those reported in the earlier data releases from 1993 through 2011.
+    The survey achieved a typical rms noise of 0.15mJy and a resolution of
+    ~5" at 1.4GHz.
+
+    Images from FIRST were combined with the 150MHz radio continuum images
+    reported in Intema+, 2017, J/A+A/598/A78 ; see Section 3 for further
+    explanations.
+
+    The radio contours were then overlaid on the Sloan Digital Sky Survey
+    (SDSS) SDSS i-band and/or Digital Sky Survey (DSS) red filter image of
+    the source. See Section 4 for further explanations.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl   Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80         .   This file
+table2.dat     99       106   "Strong" X-shaped radio source candidates
+table3.dat     87       184   "Probable" X-shaped radio source candidates
+--------------------------------------------------------------------------------
+
+See also:
+ VIII/52 : The MIT-Green Bank 5GHz Survey (Bennett+, 1986-91)
+ VIII/13 : A new catalog of 53522 4.85GHz sources (Becker+ 1991)
+ VIII/38 : The Parkes-MIT-NRAO 4.85GHz (PMN) Surveys (Wright+, 1996)
+ VIII/65 : 1.4GHz NRAO VLA Sky Survey (NVSS) (Condon+ 1998)
+ VIII/51 : the FIRST Survey, version 1998Feb (White+ 1998)
+ VIII/59 : the FIRST Survey, version 1999Jul (White+ 1999)
+ VIII/71 : The FIRST Survey Catalog, Version 03Apr11 (Becker+ 2003)
+ VIII/90 : The FIRST Survey Catalog, Version 12Feb16 (Becker+ 2012)
+ VIII/92 : The FIRST Survey Catalog, Version 2014Dec17 (Helfand+, 2015)
+ J/ApJS/80/137  : Southern Extragalactic Radio Sources (Jones+, 1992)
+ J/AJ/133/2097  : FIRST "Winged" & X-shaped radio source cand. (Cheung, 2007)
+ J/ApJS/181/548 : X-shaped radio sources. II. New redshifts (Cheung+, 2009)
+ J/ApJS/194/31  : Morphology for groups in the FIRST database (Proctor, 2011)
+ J/ApJS/199/27  : The ATLBS Extended Source Sample (Saripalli+, 2012)
+ J/ApJS/220/7   : Abundance of X-shaped radio sources. I. VLA (Roberts+, 2015)
+ J/A+A/598/A78  : The GMRT 150MHz all-sky radio survey (Intema+, 2017)
+ J/ApJ/852/47   : "X-shaped" radio sources. I. VLA imaging (Roberts+, 2018)
+ J/ApJ/852/48   : "X-shaped" radio sources. II. (Saripalli+, 2018)
+ http://www.sdss.org/ : SDSS home page
+
+Byte-by-byte Description of file: table[23].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label  Explanations
+--------------------------------------------------------------------------------
+   1- 10  A10   ---     SName  Short name (JHHMM+DDMM)
+      12  A1    ---   f_SName  a: Also appeared in Proctor (2011, J/ApJS/194/31)
+  14- 15  I2    h       RAh    Hour of right ascension (J2000)
+  17- 18  I2    min     RAm    Minute of right ascension (J2000)
+  20- 24  F5.2  s       RAs    Second of right ascension (J2000)
+      26  A1    ---     DE-    Sign of declination (J2000)
+  27- 28  I2    deg     DEd    Degree of declination (J2000)
+  30- 31  I2    arcmin  DEm    Arcminute of declination (J2000)
+  33- 36  F4.1  arcsec  DEs    Arcsecond of declination (J2000)
+  38- 42  F5.3  ---     z      [0.01/1.4]? Redshift from NED and/or SDSS
+  44- 49  A6    ---   n_z      Note on z (1)
+  51- 55  F5.2  mag     rmag   [12/24]? SDSS r-band apparent (AB) magnitude
+                                of the host galaxy
+  57- 62  F6.2  mag     RMag   [-26/0]? Absolute R-band magnitude
+                                of the host galaxy
+  64- 68  F5.3  Jy      S0.15  [0.09/9.2]? Integrated 150MHz flux density
+                                from TGSS_ADR1 (Intema+ 2017, J/A+A/598/A78) (2)
+  70- 74  F5.3  Jy      S1.4   [0.02/1.2]? Integrated 1.4GHz flux density
+                                from NVSS (Condon+ 1998, VIII/65) (3)
+  76- 80  F5.3  Jy      S5     [0.02/0.7]? Integrated 5GHz/4.85GHz
+                                flux density
+  82- 87  A6    ---   r_S5     References for 5GHz/4.85 GHz flux density (4)
+  89- 93  F5.2  ---     alph1  [-1.2/-0.18]? Spectral index between
+                                150MHz and 1.4GHz (only for Table 2)
+  95- 99  F5.2  ---     alph2  [-1.25/1.07]? Spectral index between
+                                1.4GHz and 5GHz/4.85GHz (only for Table 2)
+--------------------------------------------------------------------------------
+Note (1): Redshift quality flag as follows:
+  PHOT   = photometric redshift;
+  SPEC   = spectroscopic redshift;
+  SPEC/Q = quasar.
+Note (2): The uncertainty is 10% of the total flux density.
+Note (3): The uncertainty is 3% of the total flux density.
+Note (4): References as follows:
+  NRAO   = NRAO Green Bank 300 Foot 4.85GHz survey (Becker+ 1991, VIII/13)
+  PMN    = the Parkes-MIT-NRAO 4.85GHz Surveys (PMN; Griffith+ 1995, VIII/38)
+  MIT-GB = the MIT-Green Bank 5GHz Survey (Bennett+ 1986, VIII/52)
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                                       Emmanuelle Perret [CDS]  24-Mar-2020

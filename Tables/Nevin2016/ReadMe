@@ -1,0 +1,196 @@
+J/ApJ/832/67     Double-peaked narrow lines in AGN. II. z<0.1     (Nevin+, 2016)
+================================================================================
+The origin of double-peaked narrow lines in active galactic nuclei.
+II. Kinematic classifications for the population at z < 0.1.
+    Nevin R., Comerford J., Muller-Sanchez F., Barrows R., Cooper M.
+   <Astrophys. J., 832, 67-67 (2016)>
+   =2016ApJ...832...67N    (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Active gal. nuclei ; Spectroscopy ; Redshifts
+Keywords: galaxies: active; galaxies: interactions;
+          galaxies: kinematics and dynamics; galaxies: nuclei
+
+Abstract:
+    We present optical long-slit observations of the complete sample of 71
+    Type 2 active galactic nuclei (AGNs) with double-peaked narrow
+    emission lines at z<0.1 in the Sloan Digital Sky Survey. Double-peaked
+    emission lines are produced by a variety of mechanisms including disk
+    rotation, kiloparsec-scale dual AGNs, and narrow-line region (NLR)
+    kinematics (outflows or inflows). We develop a novel kinematic
+    classification technique to determine the nature of these objects
+    using long-slit spectroscopy alone. We determine that 86% of the
+    double-peaked profiles are produced by moderate-luminosity AGN
+    outflows, 6% are produced by rotation, and 8% are ambiguous. While we
+    are unable to directly identify dual AGNs with long-slit data alone,
+    we explore their potential kinematic classifications with this method.
+    We also find a positive correlation between the NLR size and
+    luminosity of the AGN NLRs (R_NLR_{propto}L_[OIII]_^0.21+/-0.05^),
+    indicating a clumpy two-zone ionization model for the NLR.
+
+Description:
+    To determine the nature of 71 Type 2 AGNs with double-peaked [OIII]
+    emission lines in SDSS that are at z<0.1 and further characterize
+    their properties, we observe them using two complementary follow-up
+    methods: optical long-slit spectroscopy and Jansky Very Large Array
+    (VLA) radio observations.
+
+    We use various spectrographs with similar pixel scales (Lick Kast
+    Spectrograph; Palomar Double Spectrograph; MMT Blue Channel
+    Spectrograph; APO Dual Imaging Spectrograph and Keck DEep Imaging
+    Multi-Object Spectrograph. We use a 1200 lines/mm grating for all
+    spectrographs; see table 1.
+
+    In future work, we will combine our long-slit observations with the
+    VLA data for the full sample of 71 galaxies (O. Muller-Sanchez+ 2016,
+    in preparation).
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe          80        .   This file
+table1.dat      64       71   Summary of longslit observations
+table2.dat      91       71   Measured luminosities
+table3.dat      79      142   Values for the parameters for quantitative
+                               classification for both observed position angles
+table4.dat      76       71   Official kinematic classification for each galaxy
+--------------------------------------------------------------------------------
+
+See also:
+ V/139   : The SDSS Photometric Catalog, Release 9 (Adelman-McCarthy+, 2012)
+ VII/258 : Quasars and Active Galactic Nuclei (13th Ed.) (Veron+ 2010)
+ II/294  : The SDSS Photometric Catalog, Release 7 (Adelman-McCarthy+, 2009)
+ J/ApJ/777/64  : A search for double-peaked AGNs in AGES (Comerford+, 2013)
+ J/ApJ/769/95  : [NeV] or [NeIII] double peaked SDSS quasars (Barrows+, 2013)
+ J/AJ/144/125  : Photometry & spectroscopy of Markarian 266 (Mazzarella+, 2012)
+ J/ApJS/201/31 : Emission-line galaxies from SDSS. I. (Ge+, 2012)
+ J/ApJ/753/42  : Double-peaked AGN. I. Dual AGN candidates (Comerford+, 2012)
+ J/ApJ/746/L22 : Dual AGNs in the nearby Universe (Koss+, 2012)
+ J/ApJ/716/866 : SDSS search for binary AGN (Smith+, 2010)
+ J/ApJ/708/427 : Type 2 AGNs with double-peaked [OIII] lines (Liu+, 2010)
+ J/ApJ/705/L76 : AGNs with double-peaked [OIII] lines (Wang+, 2009)
+ J/AJ/137/42   : Matched SDSS and FIRST Sample (Rafter+, 2009)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1- 19 A19    ---     SDSS    SDSS ID (JHHMMSS.ss+DDMMSS.s) (1)
+  21- 30 A10    ---     Name    Galaxy Name (JHHMM+DDMM)
+  32- 39 F8.6   ---     z       [0.008/0.098] Redshift determined from the
+                                 velocity of the stellar absorption lines
+  41- 47 E7.1   ---   e_z       [0.000006/0.00004] Uncertainty in z
+  49- 64 A16    ---     Tel     Observatory and spectrograph (2)
+--------------------------------------------------------------------------------
+Note (1): J101836.77+512753.0 is very likely a misprint for J101835.77+512753.0
+          (see Liu+, 2010, J/ApJ/708/427); corrected at CDS.
+Note (2): Observatory and spectrograph used:
+    APO/DIS          = APO Dual Imaging Spectrograph, 0.42"/pixel in the
+                        blue channel, 0.4"/pixel in the red channel;
+    Keck/DEIMOS      = Keck DEep Imaging Multi-Object Spectrograph, 0.12"/pixel;
+    Lick/Kast        = Lick Kast Spectrograph, 0.78"/pixel;
+    MMT/Blue Channel = MMT Blue Channel Spectrograph, 0.29"/pixel;
+    Palomar/DBSP     = Palomar Double Spectrograph, 0.39"/pixel.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+  Bytes Format Units        Label  Explanations
+--------------------------------------------------------------------------------
+  1- 10 A10    ---          Name   Galaxy Name
+ 12- 21 E10.4  10-7W        LOIII  Observed [OIII] luminosity
+ 23- 30 E8.2   10-7W      e_LOIII  Uncertainty in LOIII
+ 32- 40 E9.3   10-7W        LOIIIc Dereddened [OIII] luminosity
+ 42- 49 E8.2   10-7W      e_LOIIIc Uncertainty in LOIIIc
+ 51- 60 E10.4  10-7W        Lbol   ? Bolometric luminosity
+ 62- 70 E9.3   10-7W      e_Lbol   ? Uncertainty in Lbol
+ 72- 75 F4.2   kpc/arcsec   scale  [0.1/1.9] Conversion from arcsec to kpc
+                                    for Galaxy
+ 77- 78 I2     pix          ak     [4/55] Akaike width of the narrow-line
+                                    region (2)
+ 80- 80 I1     pix        e_ak     [1/8] Uncertainty in ak
+ 82- 86 I5     pc           Rad    [950/10650] Radius of the narrow-line region
+ 88- 91 I4     pc         e_Rad    [80/1850] Uncertainty in Rad
+--------------------------------------------------------------------------------
+Note (2): The Akaike Information Criterion (AIC) is a least squares statistic
+          that introduces a penalty for additional parameters, defined by
+          Akaike (1974ITAC...19..716A). Numerically, AIC={chi}^2^+2k,
+          where k is the number of parameters and {chi}^2^ is the
+          chi-square statistic. See section 2.3 for further explanations.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1- 10 A10    ---     Name    Galaxy Name (1)
+  12- 14 I3     deg     PAobs   [0/252] Observation position angle
+  16- 20 A5     ---     Nrow    Number of Rows with >2 Gaussian components (2)
+  22- 26 F5.1   km/s    Vr      [16.6/664.4] Line of sight velocity from the
+                                 single Gaussian centroid
+  28- 32 F5.1   km/s  e_Vr      [0.1/266] Uncertainty in Vr
+  34- 39 F6.1   km/s    sigma   [114/1039] Dispersion of Single Gauss fit
+  41- 45 F5.1   km/s  e_sigma   [0.8/507] Uncertainty in sigma
+  47- 52 F6.1   km/s    sigma1  [122/1202] Dispersion of Double Gauss fit,
+                                 component 1
+  54- 58 F5.1   km/s  e_sigma1  [0.9/564] Uncertainty in sigma1
+  60- 65 F6.1   km/s    sigma2  [61/1051] Dispersion of Double Gauss fit,
+                                 component 2
+  67- 71 F5.1   km/s  e_sigma2  [0.5/450] Uncertainty in sigma2
+  73- 75 I3     deg     PAgal   [3/173] Galaxy photometric major axis position
+                                 angle from SDSS r band photometry
+  77- 79 I3     deg     PAOIII  [5/176] Galaxy [OIII] major axis position angle
+--------------------------------------------------------------------------------
+Note (1): J0731+4258 is very likely a misprint for J0731+4528 and
+          J1350+3211 is very likely a misprint for J1350+2311; corrected at CDS.
+Note (2): The number of rows that are best fit by >2 Gaussians within the
+          resolved center of emission (FWHM_cont +/-1 row). For instance, in
+          row one, 5/9 indicates that out of the nine rows of the resolved
+          center of emission, 5 rows are better fit by 3 Gaussians.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1- 10 A10    ---     Name     Galaxy Name (1)
+  12- 12 A1     ---   l_NG       Limit flag on NG
+  14- 14 I1     ---     NG       [2] Number of Gaussian components (2)
+  16- 17 A2     ---   l_Vr       [ <=>] Limit flag on Vr
+  19- 21 I3     km/s    Vr       [400] Maximum line of sight radial velocity
+                                  measured from the single Gaussian fit
+                                  for both PA
+  23- 24 A2     ---   l_sigma    [ <=>] Limit flag on sigma
+  26- 28 I3     km/s    sigma    [500] Largest dispersion of the single Gaussian
+                                  fit from both observed PA
+  32- 33 A2     ---   l_sigma12  [ <=>] Limit flag on sigma12
+  35- 37 I3     km/s    sigma12  [500] Largest dispersion of either of the two
+                                  Gaussian fit from both PA
+  41- 43 A3     ---     Align    Alignment flag: yes=PAOIII equal PAgal (3)
+  45- 76 A32    ---     Class    Classification (includes 35 "Outflow" and
+                                  26 "outflow Composite")
+--------------------------------------------------------------------------------
+Note (1): The 1{sigma} error on the measured value straddles the classification
+          cutoff for some objects, e.g. J0135+1435. However, as the measured
+          value of J0135+1435 is greater than 500 km/s we classify this galaxy
+          accordingly as Outflow Composite. For all other galaxies in our sample
+          in which the measured value straddles a given classification cutoff
+          within error are classified according to the measured value.
+Note (2): The number of components is >2 if at either position angle, more
+          than half the rows within the spatial center of the galaxy have >2
+          components as the best fit.
+Note (3): Alignment is determined from PA[OIII] and PAgal. If these two
+          measurements are within 20{deg} of one another, the galaxy is aligned.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+    Muller-Sanchez et al.   Paper I.    2015ApJ...813..103M
+    Nevin et al.            Paper II.   2016ApJ...832...67N   This catalog
+    Nevin et al.            Paper III.  2018MNRAS.473.2160N
+    Comerford et al.        Paper IV.   2018ApJ...867...66C   Cat. J/ApJ/867/66
+
+================================================================================
+(End)                  Prepared by [AAS], Emmanuelle Perret [CDS]    16-Feb-2017

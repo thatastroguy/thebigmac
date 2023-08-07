@@ -1,0 +1,145 @@
+J/ApJ/852/48 "X-shaped" radio sources. II. Sample properties (Saripalli+, 2018)
+================================================================================
+What are "X-shaped" radio sources telling us?
+II. Properties of a sample of 87.
+    Saripalli L., Roberts D.H.
+   <Astrophys. J., 852, 48 (2018)>
+   =2018ApJ...852...48S
+================================================================================
+ADC_Keywords: Galaxies, radio; Radio continuum; Photometry, SDSS; Morphology
+Keywords: galaxies: active ; radio continuum: galaxies ; stars: black holes
+
+Abstract:
+    In an earlier paper, we presented Jansky Very Large Array
+    multi-frequency, multi-array continuum imaging of a unique sample of
+    low-axial ratio radio galaxies. In this paper, the second in the
+    series, we examine the images to learn the phenomenology of how the
+    off-axis emission relates to the main radio source.
+    Inversion-symmetric offset emission appears to be bimodal and to
+    originate from one of two strategic locations: outer ends of radio
+    lobes (outer-deviation) or from inner ends (inner-deviation). The
+    latter sources are almost always associated with edge-brightened
+    sources. With S- and Z-shaped sources being a subset of
+    outer-deviation sources, this class lends itself naturally to
+    explanations involving black hole axis precession. Our data allow us
+    to present a plausible model for the more enigmatic inner-deviation
+    sources with impressive wings; as for outer-deviation sources these
+    too require black hole axis shifts, although they also require plasma
+    backflows into relic channels. Evolution in morphology over time
+    relates the variety in structures in inner-deviation sources including
+    XRGs. With features such as non- collinearities, central inner-S
+    "spine," corresponding lobe emission peaks, double and protruding
+    hotspots not uncommon, black hole axis precession, drifts, or flips
+    could be active in a significant fraction of radio sources with
+    prominent off-axis emission. At least 4% of radio galaxies appear to
+    undergo black hole axis rotation. Quasars offer a key signature for
+    recognizing rotating axes. With a rich haul of sources that have
+    likely undergone axis rotation, our work shows the usefulness of
+    low-axial ratio sources in pursuing searches for binary supermassive
+    black holes.
+
+Description:
+    Roberts+ (2018, J/ApJ/852/47) present every image made of the 99
+    sources from the Cheung (2007, J/AJ/133/2097) sample, both archival
+    images from Roberts+ (2015, J/ApJS/220/7), and our Jansky VLA
+    observations. Altogether there are 236 total intensity images. The
+    sources were observed over a year from 2016 February through 2017
+    January at L- and S-band in the A-, B-, and C-arrays. The resolution
+    we obtained for the images in L-band is 4" (B-array), whereas in
+    S-band the resolutions range from 2" to 6" (AB-, B-, and C- arrays).
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl  Records  Explanations
+--------------------------------------------------------------------------------
+ReadMe          80        .  This file
+table1.dat      74       87  Sample sources 1/2
+table2.dat      74       87  Sample sources 2/2
+--------------------------------------------------------------------------------
+
+See also:
+ J/AJ/133/2097  : FIRST "Winged" and X-shaped radio source cand. (Cheung, 2007)
+ J/ApJS/181/548 : X-shaped radio sources. II. New redshifts (Cheung+, 2009)
+ J/AJ/146/120   : MOJAVE. X. Parsec-scale kinematics of AGNs (Lister+, 2013)
+ J/ApJS/220/7   : Abundance of X-shaped radio sources. I. VLA (Roberts+, 2015)
+ J/ApJ/852/47   : "X-shaped" radio sources. I. VLA imaging (Roberts+, 2018)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 10  A10   ---     [C2007]   IAU name (JHHMM+DDMM)
+  12- 13  I2    h       RAh       Hour of right ascension (J2000)
+  15- 16  I2    min     RAm       Minute of right ascension (J2000)
+  18- 22  F5.2  s       RAs       Second of right ascension (J2000)
+      24  A1    ---     DE-       Sign of declination (J2000)
+  25- 26  I2    deg     DEd       Degree of declination (J2000)
+  28- 29  I2    arcmin  DEm       Arcminute of declination (J2000)
+  31- 34  F4.1  arcsec  DEs       Arcsecond of declination (J2000)
+  36- 41  F6.4  ---     z         [0.03/0.9]? Redshift (1)
+      42  A1    ---   f_z         [*] *: photometric redshift from SDSS DR12
+  44- 50  A7    ---     Class     Morphology
+  52- 54  I3    arcsec  LAS       [24/177] Largest angular size along the main
+                                   source
+  56- 59  A4    ---     OID?      Optical identification? (Q=QSO, BLZ=blazar,
+                                   BLRG=broad_line radio galaxy, fnt=faint)
+  61- 62  A2    ---     Rad       [YN? ] Radio core?
+  64- 65  A2    ---     XRG?      [Y? ] Is the source a candidate "true XRG?"
+  67- 68  A2    ---     Idev?     [Y? ] Inner-deviation-type source? (2)
+  70- 71  A2    ---     Odev?     [NY? ] Outer-deviation-type source? (3)
+  73- 74  A2    ---     Axis?     [Y? ] Axis change?
+--------------------------------------------------------------------------------
+Note (1): Redshifts are largely from SDSS DR12, with the remaining ones
+          from Cheung (2007, J/AJ/133/2097), Cheung+ (2009, J/ApJS/181/548),
+          and Landt+ (2010MNRAS.408.1103L).
+Note (2): Sources for which we can trace the origin of the off-axis emission to
+          the inner ends of lobes we label "I-dev" (which stands for
+          inner-deviation-type sources).
+Note (3): Sources where the origin is traced to outer ends of lobes are labeled
+          "O-dev" (for outer-deviation-type sources)
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+  Bytes Format Units  Label    Explanations
+--------------------------------------------------------------------------------
+  1- 10  A10   ---    [C2007]  IAU name (JHHMM+DDMM)
+ 12- 16  F5.2  mag    rmag     [13.8/23.4]? Host-galaxy apparent r magnitude
+     17  A1    ---  u_rmag     [?] Uncertainty flag on rmag
+ 19- 31  A13   ---    emL      Notes on emission lines
+ 33- 35  I3    kpc    LLS      [23/759]? Projected largest linear size based on
+                                the radio images and the redshifts
+ 36- 38  A3    ---  n_LLS      Note on LLS (4)
+ 40- 44  F5.2 [W/Hz]  log(Pt)  [24/27.2]? Log of total radio power at 1.4GHz
+ 46- 60  A15   ---    iEnds    Gaps between the inner ends of lobes /
+                                whether inner ends have sharp edges (5)
+ 62- 64  F3.1  ---    Asym     [0/2.1]? Asymmetry: ratio of longer lobe extent
+                                to shorter lobe extent along the main source
+     65  A1    ---  u_Asym     [?] Uncertainty flag on Asym
+ 67- 71  A5    ---    Hs?      Are there hotspots? (6)
+ 73- 74  A2    ---    LW?      Is the stronger hotspot on the side of the
+                                longer wing?
+--------------------------------------------------------------------------------
+Note (4): Note as follows:
+    *   = photometric redshift
+    GRG = giant radio galaxy
+    ?   = Uncertainty flag.
+Note (5): 1 and 2 indicate only one or two gaps and edges.
+           0 indicates not applicable.
+Note (6): Code as follows:
+   2dsim = two dissimilar strength hotspots;
+   2nsim = two nearly similar strength hotspots;
+   2sim  = two similar strength hotspots;
+   NA    = not available
+   N     = No.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+    Roberts et al.    Paper I.   2018ApJ...852...47R   J/ApJ/852/47
+    Saripalli et al.  Paper II.  2018ApJ...852...48S   This catalog
+
+================================================================================
+(End)                                       Emmanuelle Perret [CDS]  23-Jul-2018

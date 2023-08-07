@@ -1,0 +1,126 @@
+J/A+A/564/A117      Binary quasars from LQAC-2               (Gattano+, 2014)
+================================================================================
+A whole sky study of quasars known population starting from the LQAC-2
+compiled catalogue.
+    Gattano C., Souchay J., Barache C.
+   <Astron. Astrophys., 564, A117-117 (2014)>
+   =2014A&A...564A.117G
+================================================================================
+ADC_Keywords: QSOs ; Redshifts ; Photometry
+Keywords: quasars: general - catalogs - astrometry
+
+Abstract:
+    Thanks to huge surveys, such as the Sloan Digital Sky Survey (SDSS),
+    the last decade has shown a dramatic increase in the number of known
+    quasars. In the second release of the general compiled catalogue Large
+    Quasar Astrometric Catalogue (LQAC), 187504 objects are recorded.
+
+    From this catalogue, we carry out statistical studies dealing with
+    several topics: the astrometric accuracy of the quasars, their spatial
+    location, the distribution of the distance to the closest neighbour,
+    the identification of binary quasars, the completness of catalogues at
+    a given magnitude and the estimation of the number of quasars expected
+    to be detected by the astrometric space mission Gaia.
+
+    We analyse the astrometric improvements brought by the LQAC-2 in terms
+    of equatorial coordinates off-sets. We plot the bi-dimensional spatial
+    distribution of the LQAC-2 quasars according to their equatorial,
+    galactic, and ecliptic coordinates, thus exploring the anisotropy of
+    the distribution. We compare the observed distribution of closest
+    neighbours with the theoretical values based on a Poisson
+    distribution. Moreover, we perform a comparison between two
+    catalogues, the SDSS and the 2dF inside a huge common field. By
+    extrapolating to the whole sky we deduce the number of quasars that
+    will be detected by Gaia.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+tab3-6.dat     81       36   Binary quasars (tables 3-6)
+table7.dat    112      160   Binary quasars with the shortest separation,
+                             between 0" and 30"
+--------------------------------------------------------------------------------
+
+See also:
+       VII/158 : Revised and Updated Catalog of QSO (Hewitt+ 1993)
+       VII/258 : Quasars and Active Galactic Nuclei (13th Ed.) (Veron+ 2010)
+ J/A+A/494/799 : Large Quasar Astrometric Catalogue (LQAC) (Souchay+, 2009)
+ J/A+A/537/A99 : Large Quasar Astrometric Catalogue 2 (LQAC-2) (Souchay+, 2012)
+
+Byte-by-byte Description of file: tab3-6.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label    Explanations
+--------------------------------------------------------------------------------
+       1  I1    ---     T        [3/6] Table number (1)
+   3-  7  A5    ---     ---      [Lqac_]
+   8- 22  A15   ---     QSO1/2   Quasar names (NNN+NNN_NNN/NNN)
+  24- 28  F5.3  ---     z1       Redshift of first quasar
+  30- 34  F5.3  ---     z2       Redshift of second quasar
+  36- 41  F6.3  arcsec  theta    [2/22] Separation angle
+  43- 46  F4.1  mag     U1mag    ?=- U magnitude of first quasar
+  48- 51  F4.1  mag     U2mag    ?=- U magnitude of first quasar
+  53- 55  A3    ---     Ref      Reference (2)
+      57  A1    ---     Mult     [*+] Indicates the other quasar for the triplet
+  59- 69  A11   ---     QSO1     First QSO name (NNN+NNN_NNN)
+      70  A1    ---     ---      [/]
+  71- 81  A11   ---     QSO2     Second QSO name (NNN+NNN_NNN)
+--------------------------------------------------------------------------------
+Note (2): LQAV-2 flags indicating original catalogues:
+  B = VLBA
+  E = SDSS
+  I = Hewitt and Burbidge, 1993ApJS...87..451H, Cat. VII/158
+  M = Veron-Cetty & Veron compilation, 2010A&A...518A..10V, Cat. VII/258
+Note (1): Table number as follows:
+ 3 = Binary quasars of the LQAC-2 with the highest redshifts
+ 4 = Binary quasars with the lowest redshifts (two of them form a triplet)
+ 5 = Binary quasars with the brightest magnitude U for one of their components
+ 6 = Binary quasars with the smallest separation
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table7.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1-  5  A5    ---     ---     [LQAC_]
+   6- 20  A15   ---     QSO1/2  Quasar names (NNN+NNN_NNN/NNN)
+  22- 26  F5.2  mag     U1mag   ?=0 U magnitude of first quasar
+  28- 32  F5.2  mag     U2mag   ?=0 U magnitude of first quasar
+  34- 40  F7.4  arcsec  theta   [2/30] Separation angle
+  42- 46  F5.3  ---     z1      Redshift of first quasar
+  48- 52  F5.3  ---     z2      Redshift of second quasar
+  54- 66  A13   ---     Ref1    [A-M -] Reference (1)
+  68- 80  A13   ---     Ref2    [A-M -] Reference (1)
+  82- 84  I3    ---     SeqU    [1/160] Sequential number in terms of increasing
+                                magnitude U of the brightest component
+  86- 88  I3    ---     Seqz    [1/160] Sequential number in terms of decreasing
+                                value of z
+  90-100  A11   ---     QSO1    First QSO name (NNN+NNN_NNN)
+     101  A1    ---     ---     [/]
+ 102-112  A11   ---     QSO2    Second QSO name (NNN+NNN_NNN)
+--------------------------------------------------------------------------------
+Note (1): Flag of the catalogues in which each component can be found:
+   A = ICRF2 (Ma et al., 2009, IERS, Technical Note No. 35;
+       Boboltz et al., 2010, Bull. of the Am. Astron. Soc. 42,512)
+   B = VLBI (VCS Petrov et al., Cat. J/AJ/136/580, version 2010c)
+   C = VLA (Cat. J/ApJS/141/13, J/AJ/126/2562, J/AJ/129/1163, J/AJ/131/1872)
+   D = JVAS (Patnaik et al., Cat. VIII/60)
+   E = SDSS DR8, http://www.sdss8.org
+   F = 2QZ (Croom et al., Cat. VII/241)
+   G = 2df-SDSS (2df-SDSS LRG and QSO survey (2009));
+       da Angela et al., 2008MNRAS.383..565D;
+       LRG: Cannon et al., Cat. J/MNRAS/372/425;
+       QOS: Croom et al., Cat. J/MNRAS/392/19
+   H = FIRST (Becker et al., Cat. VIII/71)
+   I = Hewitt with corrected position (Hewitt and Burbridge, VII/158)
+   J = 2MASS (just to complete magnitude) (Cutri et al., Cat. II/246)
+   K = GSC2.3 (just to complete magnitude) (Lasker et al., Cat. I/305)
+   L = B1.0 (just to complete magnitude) (Monet et al., Cat. I/284)
+   M = VV10 - QSO SDSS DR1 to DR7 (Veron and Veron 2010, Cat. VII/258)
+--------------------------------------------------------------------------------
+
+History: From electronic version of the journal
+
+================================================================================
+(End)                                      Patricia Vannier [CDS]    02-Jul-2014

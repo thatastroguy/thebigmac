@@ -1,0 +1,9 @@
+SDSS,zDPAGN,zcompanion,zcompanion_err,vDPAGN-vcompanion,vDPAGN-vcompanion_err,Distance_to_Companion(as),Distance_to_Companion(as)_err,Distance_to_Companion(kpc),Distance_to_Companion(kpc)_err,Companion_BPT_class,System_class
+J0952+2552,0.33887,0.00030,0.33888,0.00199,-3,130,1.00,0.01a,4.82,0.05,Seyfert,Candidate Dual AGNs
+J1157+0816,0.20133,0.00042,0.20201,0.00385,-170,262,2.52,0.01,8.35,0.01,Seyfert,Candidate Dual AGNs
+J1245+3723,0.27910,0.00062,0.27836,0.00125,173,162,1.38,0.01,5.83,0.02,Composite,Candidate Dual AGNs
+J1248-0257,0.48675,0.00161,0.48774,0.00145,-199,333,0.53b,3.2,Seyfert,Candidate Dual AGNs
+J1301-0058,0.24544,0.00030,0.24514,0.00137,72,109,1.40c,5.4,Seyfert,Candidate Dual AGNs
+J1323+0308,0.26953,0.00114,0.26978,0.00121,-59,278,6.90,0.01,28.46,0.02,Seyfert Candidate,Dual AGNs
+J1541+2036,0.50795,0.00137,0.50851,0.00131,-112,281,2.00b,12.2,Seyfert,Candidate Dual AGNs
+J1610+1308,0.22868,0.00021,0.22925,0.00053,-138,61,2.35b,8.6,Seyfert,Candidate Dual AGNs

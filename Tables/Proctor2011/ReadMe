@@ -1,0 +1,219 @@
+J/ApJS/194/31     Morphology for groups in the FIRST database    (Proctor, 2011)
+================================================================================
+Morphological annotations for groups in the FIRST database.
+    Proctor D.D.
+   <Astrophys. J. Suppl. Ser., 194, 31 (2011)>
+   =2011ApJS..194...31P
+================================================================================
+ADC_Keywords: Surveys ; Radio sources ; Morphology
+Keywords: astronomical databases: miscellaneous - catalogs - galaxies: general -
+          methods: data analysis - methods: statistical -
+          techniques: image processing
+
+Abstract:
+    The morphology of selected groups of sources in the Faint Images of
+    the Radio Sky at Twenty Centimeters (FIRST) survey and catalog is
+    examined. Sources in the FIRST catalog (2003 April release, 811117
+    entries) were sorted into singles, doubles, triples, and groups of
+    higher-count membership based on a proximity criteria. The 7106 groups
+    with four or more components were examined individually for bent types
+    including, but not limited to, wide-angle tail and narrow-angle tail
+    types. In the process of this examination, ring, double-double,
+    X-shaped, hybrid morphology, giant radio sources, and the herein
+    described W-shaped and tri-axial morphology systems were also
+    identified. For the convenience of the reader separate tables for
+    distinctive types were generated. A few curiosities were found. For
+    the 16950 three-component groups and 74788 two-component groups,
+    catalogs with probability estimates for bent classification, as
+    determined by pattern recognition techniques, are presented.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table1.dat    172      412   WAT (wide-angle tail) and NAT (narrow-angle tail)
+                             sources
+table2.dat    163      147   W-shaped sources
+table3.dat    181       45   TB-type sources (three-component bent)
+table4.dat    138       33   B-type sources (two-component bent)
+table5.dat    237       65   Ring-type sources
+table6.dat    180       82   Ring-lobe type sources
+table7.dat    226       28   HYMOR (hybrid morphology) candidates -
+                             an incidental list
+table8.dat    181      156   X-shaped sources
+table9.dat    177      242   DD (Double-double) sources
+table10.dat   151      103   Core-jet sources
+table11.dat   170      400   S or Z-shaped sources
+table12.dat   183       25   GRS (Giant radio sources) - an incidental list
+table13.dat   161       48   Tri-axial type morphology sources
+table14.dat   153       52   Quad-type morphology sources
+table15.dat   211      119   Other interesting sources
+table16.dat   204       91   Selected sources from three component group
+                             training set
+table17.dat    90    16950   Probability estimates for a three component group
+                             being bent
+table18.dat   169       80   Selected sources from two component groups
+                             training set
+table20.dat    61    74788   Probability estimates for a two component group
+                             being bent
+tablea2.dat   272    41108   Morphological annotations and components for groups
+                             with four or more components
+--------------------------------------------------------------------------------
+
+See also:
+   VIII/71 : The FIRST Survey Catalog, Version 03Apr11 (Becker+ 2003)
+   http://sundog.stsci.edu/ : The VLA FIRST survey home project
+
+Byte-by-byte Description of file: table[1-9].dat table1[0134568].dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  A3    ---     ---       [FCG]
+   5- 20  A16   ---     FCG       Source Designation (JHHHMMSS.s+DDMMSS)
+  24- 25  I2    h       RAh       System Hour of Right Ascension (J2000)
+  27- 28  I2    min     RAm       System Minute of Right Ascension (J2000)
+  30- 35  F6.3  s       RAs       System Second of Right Ascension (J2000)
+      38  A1    ---     DE-       Sign of the System Declination (J2000)
+  39- 40  I2    deg     DEd       System Degree of Declination (J2000)
+  42- 43  I2    arcmin  DEm       System Arcminute of Declination (J2000)
+  45- 49  F5.2  arcsec  DEs       System Arcsec of Declination (J2000)
+  52- 56  F5.2  arcmin  Size      System size
+      57  A1    ---   u_Size      Uncertainty flag on Size
+  61- 62  A2    ---     Type      [cv?* ] Core type (2)
+  64- 65  I2    h       RAc.h     ? Core Hour of Right Ascension (J2000)
+  67- 68  I2    min     RAc.m     ? Core Minute of Right Ascension (J2000)
+  70- 75  F6.3  s       RAc.s     ? Core Second of Right Ascension (J2000)
+      77  A1    ---     DEc.-     Sign of the Core Declination (J2000)
+  78- 79  I2    deg     DEc.d     ? Core Degree of Declination (J2000)
+  81- 82  I2    arcmin  DEc.m     ? Core Arcminute of Declination (J2000)
+  84- 88  F5.2  arcsec  DEc.s     ? Core Arcsec of Declination (J2000)
+  90- 95  I06   ---     Group     Group identification
+  97-102  I06   ---     Group2    ? Second group identification
+ 104-109  I06   ---     Group3    ? Third group identification
+ 111-116  I06   ---     Group4    ? Fourth group identification
+ 118-237  A120  ---     Com       Additional comment(s) (G1)
+--------------------------------------------------------------------------------
+Note (2): Flag as follows:
+    c = (presumed) core coordinate is FIRST catalog entry;
+    v = visual estimate from symmetry considerations.
+    * = unexplained flag
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table17.dat table20.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1-  4  F4.2  ---     Vote    Estimated probability of being bent radio galaxy
+   7-  8  I2    h       RAc1h   Core 1 Hour of Right Ascension (J2000)
+  10- 11  I2    min     RAc1m   Core 1 Minute of Right Ascension (J2000)
+  13- 18  F6.3  s       RAc1s   Core 1 Second of Right Ascension (J2000)
+      21  A1    ---     DEc1-   Sign of the Core 1 Declination (J2000)
+  22- 23  I2    deg     DEc1d   Core 1 Degree of Declination (J2000)
+  25- 26  I2    arcmin  DEc1m   Core 1 Arcminute of Declination (J2000)
+  28- 32  F5.2  arcsec  DEc1s   Core 1 Arcsec of Declination (J2000)
+  36- 37  I2    h       RAc2h   Core 2 Hour of Right Ascension (J2000)
+  39- 40  I2    min     RAc2m   Core 2 Minute of Right Ascension (J2000)
+  42- 47  F6.3  s       RAc2s   Core 2 Second of Right Ascension (J2000)
+      50  A1    ---     DEc2-   Sign of the Core 2 Declination (J2000)
+  51- 52  I2    deg     DEc2d   Core 2 Degree of Declination (J2000)
+  54- 55  I2    arcmin  DEc2m   Core 2 Arcminute of Declination (J2000)
+  57- 61  F5.2  arcsec  DEc2s   Core 2 Arcsec of Declination (J2000)
+  65- 66  I2    h       RAc3h   ? Core 3 Hour of Right Ascension (J2000)
+  68- 69  I2    min     RAc3m   ? Core 3 Minute of Right Ascension (J2000)
+  71- 76  F6.3  s       RAc3s   ? Core 3 Second of Right Ascension (J2000)
+      79  A1    ---     DEc3-   Sign of the Core 3 Declination (J2000)
+  80- 81  I2    deg     DEc3d   ? Core 3 Degree of Declination (J2000)
+  83- 84  I2    arcmin  DEc3m   ? Core 3 Arcminute of Declination (J2000)
+  86- 90  F5.2  arcsec  DEc3s   ? Core 3 Arcsec of Declination (J2000)
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: tablea2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  I06   ---     Group     Group identification number
+   8- 13  I06   ---     Source    ?=- Source identification number (1)
+  16- 17  I2    h       RAh       ? Hour of Right Ascension (J2000) (1)
+  19- 20  I2    min     RAm       ? Minute of Right Ascension (J2000) (1)
+  22- 27  F6.3  s       RAs       ? Second of Right Ascension (J2000) (1)
+      30  A1    ---     DE-       Sign of the Declination (J2000) (1)
+  31- 32  I2    deg     DEd       ? Degree of Declination (J2000) (1)
+  34- 35  I2    arcmin  DEm       ? Arcminute of Declination (J2000) (1)
+  37- 41  F5.2  arcsec  DEs       ? Arcsec of Declination (J2000) (1)
+  43-292  A250  ---     Com       Additional comments (G1)
+--------------------------------------------------------------------------------
+Note (1):
+  * coordinates are for the Group in the first line for each group
+    (Source = "------")
+  * subsequent lines give source positions.
+     otherwise the coordinates are for the source.
+--------------------------------------------------------------------------------
+
+Global Notes:
+Note (G1): the additional comments use the abbreviations:
+      a = ambiguous
+    arc = arc or C, possible edge brightened lobe, bent jets, or ring fragment
+   asym = asymmetric
+      b = bent (B), little visual indication of core
+   bifurcation = a same side splitting of jet from apparent core
+     bs = bent slightly
+ butterfly = four lobe morphology
+    cat = catalog
+     cj = core-jet
+    CJC = Core-jet core component
+    CJJ = Core-jet jet component
+   CORE = Core component
+     cp = chance projection
+      d = double lobe radio galaxy - may include core-jet sources
+     dd = double double radio galaxy (DD)
+   diag = diagonal
+   distorted = smearing of prototypical morphologies with low level emission
+     dl = dogleg, generally an abrupt change in direction
+    fan = low level triangular shape lobe
+   hook = an apparent approximately 180 change in direction of jet
+  hymor = hybrid morphology - a few HYMOR candidates were specifically annotated
+     id = identification
+    int = interesting
+    irr = irregular, distorted (appear to be physically associated
+          but are not well described by another morphology class)
+      J = Jet
+    jet = jet or occasionally protrusion from lobe
+   lobe = lobe, resolved lobe
+    low level = extended low level flux, diffuse and/or filamentary
+     mg = multiple groupings possible
+    nat = narrow angle tail (NAT)
+  pinwheel = spiral type similar to optical star forming regions of
+          spiral galaxies
+    ppd = perpendicular
+   quad = group of four approximately point-like sources (QUAD)
+  quint = group of five approximately point-like sources (QUINT)
+     rc = resolved compact source, non-point-like
+   RING = Ring component
+    ring-lobe = edge brightened lobe or embedded ring
+     RJ = Resolved jet
+     RL = Component of resolved lobe
+      s = single source (often with sidelobes) or probable chance projection
+          of point-like source into group sidelobe
+     sl = sidelobe
+     ss = apparent single sided jet and/or lobe
+     sz = S-shaped or Z-shaped
+    SZC = Core component of S-shape or Z-shape
+    SZJ = Jet component of S-shape or Z-shape
+      t = triple, no bend, little extended structure
+     tb = bent triple (TB), little indication of extended structure
+    tbs = slightly bent triple
+     td = triple double
+    tri = 120 deg. rotational symmetry - may include chance projections
+    unu = unusual, uncommon - may be due to chance projection
+      w = W-shape, wiggles
+    wat = wide angle tail (WAT)
+      X = Transverse component of X group
+      x = X-shape
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                 Greg Schwarz [AAS], Emmanuelle Perret [CDS]    28-Jul-2011

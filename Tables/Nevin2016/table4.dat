@@ -1,0 +1,71 @@
+J0002+0045 > 2  < 400  > 500    > 500   yes Outflow Composite
+J0009-0036   2  < 400  > 500    > 500   no  Outflow
+J0135+1435 > 2  < 400 >= 500    > 500   no  Outflow Composite
+J0156-0007 > 2  < 400  > 500   >= 500   yes Outflow Composite
+J0731+4528 > 2  < 400  > 500    > 500   no  Outflow Composite
+J0736+4759   2  < 400  > 500    < 500   yes Rotation Dominated + Obscuration
+J0749+4514 > 2  < 400  < 500   >= 500   yes Outflow Composite
+J0752+2736   2  < 400  > 500   <= 500   no  Ambiguous
+J0802+3046 > 2  < 400  > 500    < 500   no  Ambiguous
+J0803+3926 > 2  < 400  > 500    > 500   no  Outflow Composite
+J0814+2657   2  < 400  > 500    < 500   no  Ambiguous
+J0821+5021   2  < 400  > 500    > 500   yes Outflow
+J0854+5026   2  < 400  > 500    > 500   no  Outflow
+J0855+6423   2  < 400  > 500    < 500   no  Ambiguous
+J0930+3430   2  < 400  > 500    > 500   yes Outflow
+J0944+1447   2  < 400  > 500   >= 500   yes Outflow
+J0959+2619 > 2  < 400 <= 500    > 500   no  Outflow Composite
+J0959-0013   2  < 400  > 500    > 500   yes Outflow
+J1013-0054   2 <= 400  > 500    > 500   no  Outflow
+J1018+5127   2  < 400  > 500    < 500   yes Rotation Dominated + Disturbance
+J1027+1049   2  > 400  > 500    > 500   no  Outflow
+J1056+3319   2  < 400  > 500    > 500   no  Outflow
+J1108+5918   2  < 400 <= 500   >= 500   no  Outflow
+J1109+0201   2  > 400  > 500   >= 500   no  Outflow
+J1112+2750 > 2  < 400  > 500    > 500   no  Outflow Composite
+J1113+1657   2 <= 400  > 500    > 500   yes Outflow
+J1136+1358   2 <= 400 <= 500   >= 500   no  Outflow
+J1137+1437   2  < 400  > 500   >= 500   no  Outflow
+J1140+4452   2 >= 400 >= 500   >= 500   yes Outflow
+J1148-0216   2 >= 400 >= 500   >= 500   yes Outflow
+J1150+0441 > 2  < 400  < 500    > 500   no  Outflow Composite
+J1152+1016 > 2  < 400  > 500    > 500   no  Outflow Composite
+J1152+1903 > 2  < 400  > 500    > 500   no  Outflow Composite
+J1156+0459   2  < 400  > 500    > 500   yes Outflow
+J1203+1319 > 2  < 400  > 500    > 500   no  Outflow Composite
+J1203+2808   2 <= 400 >= 500   >= 500   yes Outflow
+J1208+2304   2  < 400  > 500    > 500   yes Outflow
+J1221+6049   2  < 400  > 500    > 500   no  Outflow
+J1235+0608   2 >= 400 >= 500   >= 500   yes Outflow
+J1235+0502   2  < 400 <= 500   >= 500   yes Outflow
+J1250+0746   2  < 400  < 500   <= 500   yes Rotation Dominated + Disturbance
+J1307+1243   2 <= 400  > 500   >= 500   no  Outflow
+J1315+2134   2  > 400  > 500    > 500   no  Outflow
+J1321-0014   2 <= 400 >= 500   >= 500   no  Outflow
+J1328+2752   2  < 400  < 500   >= 500   yes Outflow
+J1337+0353 > 2  < 400  > 500   >= 500   yes Outflow Composite
+J1350+2311   2  > 400  > 500    > 500   no  Outflow
+J1352+0525 > 2  < 400  > 500    > 500   yes Outflow Composite
+J1420+4959   2  < 400  < 500   >= 500   yes Outflow
+J1431+4358   2 <= 400  < 500   >= 500   no  Outflow
+J1434+1405 > 2  < 400 <= 500    > 500   yes Outflow Composite
+J1448+1825 > 2  < 400 >= 500   >= 500   yes Outflow Composite
+J1452+5110 > 2  < 400 >= 500   >= 500   no  Outflow Composite
+J1516+0517   2 <= 400  > 500   <= 500   yes Rotation Dominated + Disturbance
+J1524+2743   2  > 400  > 500    > 500   no  Outflow
+J1526+4140   2  < 400  < 500   >= 500   no  Outflow
+J1532+4532   2 <= 400 >= 500   >= 500   no  Outflow
+J1532+2601   2  > 400  > 500    > 500   yes Outflow
+J1533+5750 > 2  < 400  < 500    > 500   yes Outflow Composite
+J1552+0433 > 2  < 400  > 500    > 500   no  Outflow Composite
+J1556+0948 > 2  < 400  > 500    > 500   no  Outflow Composite
+J1605+1522 > 2  < 400  > 500   >= 500   no  Outflow Composite
+J1606+3427 > 2  > 400 >= 500   >= 500   yes Outflow Composite
+J1629+2408 > 2  < 400  < 500   >= 500   yes Outflow Composite
+J1630+1649 > 2  < 400  > 500    > 500   yes Outflow Composite
+J1633+2627 > 2  < 400  > 500   >= 500   no  Outflow Composite
+J1652+3107 > 2  < 400 >= 500   <= 500   no  Ambiguous
+J1720+3106 > 2 >= 400 <= 500    > 500   no  Outflow Composite
+J2254-0051   2  < 400  > 500    > 500   yes Outflow
+J2304-0933   2  < 400  > 500    > 500   yes Outflow
+J2310-0900   2  < 400  > 500   <= 500   no  Ambiguous

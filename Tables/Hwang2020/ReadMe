@@ -1,0 +1,97 @@
+J/ApJ/888/73   Varstrometry of SDSS quasars with Gaia DR2 data   (Hwang+, 2020)
+================================================================================
+Varstrometry for Off-nucleus and Dual subKiloparsec AGN (VODKA): methodology
+and initial results with Gaia DR2.
+    Hwang H.-C., Shen Y., Zakamska N., Liu X.
+   <Astrophys. J., 888, 73 (2020)>
+   =2020ApJ...888...73H
+================================================================================
+ADC_Keywords: QSOs; Proper motions; Parallaxes, trigonometric; Spectra, optical
+Keywords: Quasars ; Double quasars
+
+Abstract:
+    Gaia's precision astrometry allows systematic identification of
+    optically selected subkiloparsec dual active galactic nuclei (AGNs),
+    off-nucleus AGNs, and small-scale lensed quasars by
+    "varstrometry"-where variability-induced astrometric jitter, i.e.,
+    temporal displacements of photocenter in unresolved sources, can be
+    reasonably well detected or constrained. This approach extends
+    systematic searches for small-scale (>=mas) dual and off-nucleus AGNs
+    to the poorly explored regime between ~10pc and ~1kpc, with Gaia's
+    full sky coverage and depth to G~21. We outline the general principles
+    of this method and calculate the expected astrometric signals from the
+    full time series of photocenter measurements and light curves. We
+    demonstrate the feasibility of varstrometry by using Gaia DR2 data on
+    a sample of variable pre-main-sequence stars with known close
+    companions. We find that extended host galaxies have a significant
+    impact on the accuracy of astrometric and photometric variability in
+    Gaia DR2, a situation to be improved in future Gaia releases. Using
+    spectroscopically confirmed Sloan Digital Sky Survey quasars, we
+    present several examples of candidate subkiloparsec off-nucleus or
+    dual AGNs selected from Gaia DR2. We discuss the merits and
+    limitations of this method and a follow-up strategy for promising
+    candidates. We highlight Gaia's potential of systematically
+    discovering and characterizing the subkiloparsec off-nucleus and dual
+    AGN population in the entire optical sky.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl  Records  Explanations
+--------------------------------------------------------------------------------
+ReadMe          80        .  This file
+table2.dat      97       19  List of genuine quasars that have
+                              significant non-zero parallaxes from Gaia DR2
+table3.dat     100       30  List of genuine quasars that have
+                              significant non-zero proper motions from Gaia DR2
+--------------------------------------------------------------------------------
+
+See also:
+ I/345   : Gaia DR2 (Gaia Collaboration, 2018)
+ VIII/92 : The FIRST Survey Catalog, Version 2014Dec17 (Helfand+ 2015)
+ VII/289 : SDSS quasar catalog, sixteenth data release (DR16Q) (Lyke+, 2020)
+ J/AJ/126/1720 : ugriz and H{alpha} of double-peaked AGN (Strateva+, 2003)
+ J/AJ/129/2542 : BL Lac from SDSS (Collinge+, 2005)
+ J/ApJS/194/45 : QSO properties from SDSS-DR7 (Shen+, 2011)
+ J/ApJS/201/23 : Spectroscopy of 88 z<0.7 SDSS QSOs (Eracleous+, 2012)
+ J/ApJ/745/119 : Close companions to young stars. I. ChaI & Tau (Nguyen+, 2012)
+ J/ApJ/789/112 : Offset AGN Candidates (Comerford+, 2014)
+ J/ApJ/789/140 : SDSS quasars balmer emission lines (Liu+, 2014)
+ J/ApJ/799/72  : Binary AGNs from the VLA Stripe 82 survey (Fu+, 2015)
+ J/MNRAS/453/1562 : CRTS close supermassive black hole binaries (Graham+, 2015)
+ J/ApJS/221/12 : AGNs in the MIR using AllWISE data (Secrest+, 2015)
+ J/MNRAS/446/2985 : Double-lobed radio sources catalog (van Velzen+, 2015)
+ J/ApJS/224/19 : The KepVIM catalog (Makarov+, 2016)
+ J/A+A/618/A56 : Gaia GraL. II. Known multiply imaged quasars (Ducourant+, 2018)
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units Label   Explanations
+--------------------------------------------------------------------------------
+   1- 18 A18    ---   SDSS    SDSS identifier (HHMMSS.ss+DDMMSS.s; J2000)
+  20- 38 F19.15 deg   RAdeg   [15.5/339] Gaia DR2 barycentric
+                               right ascension (ICRS) at Ep=2015.5
+  40- 58 F19.16 deg   DEdeg   [-9.5/60.5] Gaia DR2 barycentric
+                               declination (ICRS) at Ep=2015.5
+  60- 78 F19.16 mas   plx     [0.43/13.97]? Parallax
+  80- 97 F18.16 ---   Errplx  [0.8/9.2]? Parallax divided by the error
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units  Label  Explanations
+--------------------------------------------------------------------------------
+   1- 18 A18    ---    SDSS   SDSS Identifier (HHMMSS.ss+DDMMSS.s; J2000)
+  20- 38 F19.15 deg    RAdeg  [8.2/260.8] Gaia DR2 barycentric
+                               right ascension (ICRS) at Ep=2015.5
+  40- 59 F20.16 deg    DEdeg  [-10.9/52.8] Gaia DR2 barycentric
+                               declination (ICRS) at Ep=2015.5
+  61- 80 F20.17 mas/yr pm     [0.13/43.52]? Total proper motion
+  82-100 F19.16 ---    Errpm  [0.49/47.8]? Total proper motion divided
+                                by the error
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                    Prepared by [AAS], Emmanuelle Perret [CDS]  22-Oct-2021

@@ -1,0 +1,106 @@
+J/MNRAS/463/24 Type 2 AGNs with double-peaked narrow emission lines (Lyu+, 2016)
+================================================================================
+A high fraction of double-peaked narrow emission lines in powerful
+active galactic nuclei.
+    Lyu Y., Liu X.
+   <Mon. Not. R. Astron. Soc., 463, 24-36 (2016)>
+   =2016MNRAS.463...24L    (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Active gal. nuclei ; Redshifts ; Equivalent widths
+Keywords: black hole physics - galaxies: active - galaxies: interactions -
+          galaxies: nuclei = quasars: general - galaxies: Seyfert
+
+Abstract:
+    1 per cent of redshift z~0.1 active galactic nuclei (AGNs) show
+    velocity splitting of a few hundred km/s in the narrow emission lines
+    in spatially integrated spectra. Such line profiles have been found to
+    arise from the bulk motion of ionized gas clouds associated with
+    galactic-scale outflows, merging pairs of galaxies each harbouring a
+    supermassive black hole (SMBH), and/or galactic-scale disc rotation.
+    It remains unclear, however, how the frequency of narrow-line velocity
+    splitting may depend on AGN luminosity. Here we study the correlation
+    between the fraction of Type 2 AGNs with double-peaked narrow emission
+    lines and AGN luminosity as indicated by [OIII] {lambda}5007
+    emission-line luminosity L_[OIII]_. We combine the sample of Liu et
+    al. (2010. Cat. J/ApJ/708/427) at z~0.1 with a new sample of 178 Type
+    2 AGNs with double-peaked [OIII] emission lines at z~0.5. We select
+    the new sample from a parent sample of 2089 Type 2 AGNs from the
+    SDSS-III/Baryon Oscillation Spectroscopic Survey. We find a
+    statistically significant (~4.2{sigma}) correlation between L_[OIII}]_
+    and the fraction of objects that exhibit double-peaked narrow emission
+    lines among all Type 2 AGNs, corrected for selection bias and
+    incompleteness due to [OIII] line width, equivalent width, splitting
+    velocity, and/or equivalent width ratio between the two velocity
+    components. Our result suggests that galactic-scale outflows and/or
+    merging pairs of SMBHs are more prevalent in more powerful AGNs,
+    although spatially resolved follow-up observations are needed to
+    resolve the origin(s) for the narrow-line velocity splitting for
+    individual AGNs.
+
+Description:
+    We have studied the luminosity dependence of the fraction of
+    double-peaked narrow emission lines in optically selected Type 2
+    (obscured) AGNs using [OIII] {lambda}5007 luminosity as a surrogate
+    for AGN luminosity. We have combined the sample of (Liu et al., 2010,
+    Cat. J/ApJ/708/427) at z~0.1 with a new sample of 178 AGNs at z~0.5
+    with double-peaked narrow lines that we have identified from the
+    SDSS-III/BOSS survey. The new sample was selected from a parent sample
+    of 2089 Type 2 AGNs with high quality BOSS spectra
+    (amplitude-over-noise ratios >5 for all the relevant emission lines).
+    It includes more galaxies at higher redshifts with larger intrinsic
+    AGN luminosity which allows us to probe a large enough dynamic range
+    to address the luminosity dependence.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe            80        .   This file
+table1.dat        86      178   A new sample of 178 Type 2 Seyfert AGNs with
+                                 double-peaked narrow [OIII] emission lines at
+                                 <z>~0.5 selected from SDSS-III/BOSS
+--------------------------------------------------------------------------------
+
+See also:
+   J/ApJ/708/427 : Type 2 AGNs with double-peaked [OIII] lines (Liu+, 2010)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units  Label       Explanations
+--------------------------------------------------------------------------------
+   1- 19  A19   ---    SDSS        SDSS designation (JHHMMSS.ss+DDMMSS.s)
+  21- 24  I4    ---    Plate       SDSS plate number
+  26- 28  I3    ---    Fiber       SDSS fiber number
+  30- 34  I5    d      MJD         SDSS MJD number
+  36- 41  F6.4  ---    z           BOSS pipeline redshift
+  43- 48  F6.4  ---    zg          GANDALF-corrected redshift
+      49  A1    ---  n_zg          [*] Note on zg (1)
+  50- 53  I4    km/s   FWHM[OIII]1 FWHM of [OIII] blueshifted component
+  55- 58  I4    km/s   FWHM[OIII]2 FWHM of [OIII] redshifted component
+  60- 63  I4    km/s   v[OIII]1    Velocity offset relative to the systemic
+                                    redshift of the host galaxy of
+                                    [OIII] blueshifted component (1)
+  65- 68  I4    km/s   v[OIII]2    Velocity offset relative to the systemic
+                                    redshift of the host galaxy of
+                                    [OIII] redshifted component
+  70- 73  I4    km/s   vHb1        Velocity offset relative to the systemic
+                                    redshift of the host galaxy of
+                                    H{beta} blueshifted component
+  75- 78  I4    km/s   vHb2        Velocity offset relative to the systemic
+                                    redshift of the host galaxy of
+                                    H{beta} redshifted component
+  80- 82  I3    0.1nm  EW[OIII]1   Equivalent width of [OIII] blueshifted
+                                    component
+  84- 86  I3    0.1nm  EW[OIII]2   Equivalent width of [OIII] redshifted
+                                    component
+--------------------------------------------------------------------------------
+Note (1): velocity offsets relative to the systemic redshift of the host galaxy
+  either from the BOSS pipeline (z) for the majority of the sample or from the
+  GANDALF-corrected redshift (zg) for a few objects denoted with an '*'.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                                      Patricia Vannier [CDS]    30-Apr-2018

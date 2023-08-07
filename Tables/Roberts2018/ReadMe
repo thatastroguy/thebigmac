@@ -1,0 +1,142 @@
+J/ApJ/852/47      "X-shaped" radio sources. I. VLA imaging      (Roberts+, 2018)
+================================================================================
+What are "X-shaped" radio sources telling us?
+I. Very Large Array imaging of a large sample of candidate XRGs.
+    Roberts D.H., Saripalli L., Wang K.X., Rao M.S., Subrahmanyan R.,
+    KleinStern C.C., Morii-Sciolla C.Y., Simpson L.
+   <Astrophys. J., 852, 47 (2018)>
+   =2018ApJ...852...47R
+================================================================================
+ADC_Keywords: Galaxies, radio ; Redshifts ; Radio continuum ; Morphology
+Keywords: galaxies: active ; galaxies: nuclei ; radio continuum: galaxies
+
+Abstract:
+    We present archival and Jansky Very Large Array multi-frequency
+    multi-array radio continuum imaging of a unique sample of 100 radio
+    sources that have been selected to be candidate "X-shaped" radio
+    galaxies (XRGs). The archival data were calibrated in AIPS (Bridle &
+    Greisen 1994, NRAO AIPS Memo 87) and imaged using DIFMAP (Shepherd+
+    1994BAAS...26..987S), while the new Very Large Array data were
+    calibrated and imaged in CASA (McMullin+ 2007ASPC..376..127M). No
+    attempt was made to re-image the archival data in CASA. Altogether we
+    present images of 95 of the 100 sources. These observations give us
+    the opportunity to study radio sources with synchrotron plasma that is
+    significantly offset from the main radio axis and therefore to open a
+    window into investigations of physical mechanisms responsible for
+    depositing the plasma in off-axis regions. Here, we present the
+    technical details of the observations and all of the total intensity
+    images, while in subsequent papers we use them to examine critically
+    various models for the formation of XRGs. Spectral index and linear
+    polarization information is also presented and analyzed in further
+    papers in this series.
+
+Description:
+    We observed 89 of the 100 sources in the Cheung (2007, J/AJ/133/2097)
+    sample of candidate "X-shaped" radio galaxies (XRGs) from 2016
+    February 4 through 2017 January 10 using the VLA at L (1.4GHz) and S
+    bands (3GHz).
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName  Lrecl  Records  Explanations
+--------------------------------------------------------------------------------
+ReadMe        80        .  This file
+table1.dat    43      100  The Cheung (2007, J/AJ/133/2097) sample of X-shaped
+                            radio source candidates
+table2.dat    86      100  Log of Very Large Array observations of the
+                            Cheung sample of candidate XRGs
+table4.dat   126       95  Figure 2 data
+--------------------------------------------------------------------------------
+
+See also:
+ J/AJ/133/2097  : FIRST "Winged" and X-shaped radio source cand. (Cheung, 2007)
+ J/ApJS/181/548 : X-shaped radio sources cand. II. New redshifts (Cheung+, 2009)
+ J/ApJS/220/7   : X-shaped radio source abundances. I. VLA (Roberts+, 2015)
+ J/ApJ/852/48   : X-shaped radio sources. II. Sample data (Saripalli+, 2018)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units    Label   Explanations
+--------------------------------------------------------------------------------
+   1- 10 A10    ---      [C2007] Source, IAU Name (JHHMM+DDMM) (G1)
+  12- 13 I2     h        RAh     Hour of Right Ascension (J2000)
+  15- 16 I2     min      RAm     Minute of Right Ascension (J2000)
+  18- 21 F4.1   s        RAs     Second of Right Ascension (J2000)
+  23- 23 A1     ---      DE-     Sign of the Declination (J2000)
+  24- 25 I2     deg      DEd     Degree of Declination (J2000)
+  27- 28 I2     arcmin   DEm     Arcminute of Declination (J2000)
+  30- 33 F4.1   arcsec   DEs     Arcsecond of Declination (J2000)
+  35- 40 F6.4   ---      z       [0.03/0.9]? Redshift (1)
+  42- 43 A2     ---    f_z       Flag on redshift (2)
+--------------------------------------------------------------------------------
+Note (1): Redshifts are largely from SDSS DR-12, with the remaining ones
+          from Cheung (2007, J/AJ/133/2097), Cheung+ (2009, J/ApJS/181/548),
+          and Landt+ (2010MNRAS.408.1103L).
+Note (2): Flag as follows:
+    S  = photometric redshifts from SDSS DR-12;
+    NA = no redshift information is available.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units Label     Explanations
+--------------------------------------------------------------------------------
+   1- 10 A10    ---   [C2007]   Source, IAU Name (JHHMM+DDMM) (G1)
+  12- 19 A8     ---   Archival  Archival Band/Array data (G2)
+  21- 86 A66    ---   JVLA      JVLA Band/Array, YYYY-MM-DD obs
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+  Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+  1- 10 A10    ---     [C2007] Source, IAU name (JHHMM+DDMM) (G1)
+ 12- 35 A24    ---     Fig2    Element number(s) in Figure 2 (VLA image)
+ 37- 40 F4.2  mJy/beam FA1.4Lc [0.07/0.7]? A-Array L-band (~1.4GHz), 
+                                Lowest contour (G2)
+ 42- 47 F6.2  mJy/beam FA1.4Pk [0.8/178]? A-Array L-band (~1.4GHz),
+                                Peak intensity (G2)
+ 49- 52 F4.2  mJy/beam FB5Lc   [0.08/0.5]? B-Array C-band (~5GHz), 
+                                Lowest contour (G2)
+ 54- 58 F5.1  mJy/beam FB5Pk   [10/113]? B-Array C-band (~5GHz),
+                                Peak intensity (G2)
+ 60- 63 F4.2  mJy/beam FAB3Lc  [0.04/0.1]? AB-Array S-band (~3GHz),
+                                Lowest contour
+ 65- 69 F5.2  mJy/beam FAB3Pk  [2/23.4]? AB-Array S-band (~3GHz), Peak intensity
+ 71- 74 F4.2  mJy/beam FB1.4LC [0.1/0.5]? B-Array L-band (~1.4GHz),
+                                Lowest contour
+ 76- 81 F6.2  mJy/beam FB1.4Pk [6.8/586]? B-Array L-band (~1.4GHz),
+                                Peak intensity
+ 83- 86 F4.2  mJy/beam FB3Lc   [0.05/0.3]? B-Array S-band (~3GHz), 
+                                Lowest contour
+ 88- 93 F6.2  mJy/beam FB3Pk   [1/160]? B-Array S-band (~3GHz), Peak intensity
+ 95- 98 F4.2  mJy/beam FC3Lc   [0.06/0.4]? C-Array S-band (~3GHz),
+                                Lowest contour
+100-105 F6.2  mJy/beam FC3Pk   [5.8/335]? C-Array S-band (~3GHz), Peak intensity
+107-116 A10    ---     Source2 Source, IAU name (G1) ????
+118-126 A9     ---     Fig3    Element number(s) in Figure 3 (optical overlay);
+                                column added by CDS (1)
+--------------------------------------------------------------------------------
+Note (1): The overlays are made with the one image of each source that we judged
+    to have the best combination of dynamic range and angular resolution
+    to relate the radio and optical structures. The overlays were mostly
+    derived from SDSS DR-12 r-band images, and in the nine cases where
+    these were unavailable, from the USNO Image and Catalog Archive
+    Server (http://www.usno.navy.mil/USNO/astrometry/optical-IR-prod/icas).
+    See section 4.
+--------------------------------------------------------------------------------
+
+Global notes:
+Note (G1): XRG candidates from the Cheung (2007, J/AJ/133/2097) sample.
+Note (G2): Archival data from Roberts et al. (2015ApJS..220....7C)
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+    Roberts et al.    Paper I.   2018ApJ...852...47R   This Catalog
+    Saripalli et al.  Paper II.  2018ApJ...852...48S   Cat. J/ApJ/852/48
+
+================================================================================
+(End)                    Prepared by [AAS], Emmanuelle Perret [CDs]  23-Jul-2018

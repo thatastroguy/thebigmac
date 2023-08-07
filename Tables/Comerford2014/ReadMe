@@ -1,0 +1,93 @@
+J/ApJ/789/112             Offset AGN Candidates               (Comerford+, 2014)
+================================================================================
+Offset active galactic nuclei as tracers of galaxy mergers and supermassive
+black hole growth.
+    Comerford J.M., Greene J.E.
+   <Astrophys. J., 789, 112 (2014)>
+   =2014ApJ...789..112C    (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Active gal. nuclei ; Redshifts ; Spectroscopy
+Keywords: galaxies: active - galaxies: interactions - galaxies: nuclei
+
+Abstract:
+    Offset active galactic nuclei (AGNs) are AGNs that are in ongoing
+    galaxy mergers, which produce kinematic offsets in the AGNs relative
+    to their host galaxies. Offset AGNs are also close relatives of dual
+    AGNs. We conduct a systematic search for offset AGNs in the Sloan
+    Digital Sky Survey by selecting AGN emission lines that exhibit
+    statistically significant line-of-sight velocity offsets relative to
+    systemic. From a parent sample of 18,314 Type 2 AGNs at z < 0.21, we
+    identify 351 offset AGN candidates with velocity offsets of
+    50 km/s <|{Delta}v| < 410 km/s. When we account for projection effects
+    in the observed velocities, we estimate that 4%-8% of AGNs are offset
+    AGNs. We designed our selection criteria to bypass velocity offsets
+    produced by rotating gas disks, AGN outflows, and gravitational recoil
+    of supermassive black holes, but follow-up observations are still
+    required to confirm our candidates as offset AGNs. We find that the
+    fraction of AGNs that are offset candidates increases with AGN
+    bolometric luminosity, from 0.7% to 6% over the luminosity range
+    43 < log (L_bol_) [erg/s] <46. If these candidates are shown to be
+    bona fide offset AGNs, then this would be direct observational
+    evidence that galaxy mergers preferentially trigger high-luminosity
+    AGNs. Finally, we find that the fraction of AGNs that are offset AGN
+    candidates increases from 1.9% at z = 0.1 to 32% at z = 0.7, in step
+    with the growth in the galaxy merger fraction over the same redshift
+    range.
+
+Description:
+    Our selection criteria for offset AGNs are as follows. In the OSSY
+    catalog (Oh et al. 2011ApJS..195...13O), all forbidden lines are
+    forced to have the same kinematics, while all the Balmer lines are fit
+    with a separate kinematical model (e.g., Tremonti et al.
+    2004ApJ...613..898T). We use the velocities of the forbidden lines,
+    Balmer lines, and stellar absorption features measured in OSSY to
+    derive line-of-sight velocity offsets of the forbidden and Balmer
+    lines relative to the stars.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe            80        .   This file
+table1.dat        78      351   Summary of Offset AGN Candidates
+--------------------------------------------------------------------------------
+
+See also:
+ J/MNRAS/392/1509     : Distribution of AGNs in galaxy clusters (Gilmour+, 2009)
+ J/MNRAS/398/1165     : AGN in nearby galaxies (Goulding+, 2009)
+ J/MNRAS/405/2062     : AGN candidates from 2MASS/ROSAT catalogs
+                                                               (Kouzuma+, 2010)
+ J/MNRAS/407/2399     : AGN activity and black hole mass (McKernan+, 2010)
+ J/other/RMxAA/47.361 : AGN activity in isolated SDSS galaxies (Coziol+, 2011)
+ J/ApJS/218/8         : Swift AGN and Cluster Survey (SACS). I. (Dai+, 2015)
+ J/MNRAS/454/3722     : AGN in nearby low-mass galaxies (Sartori+, 2015)
+ J/ApJS/222/13        : Swift AGN and Cluster Survey (SWCL). II. SDSS
+                                                               (Griffin+, 2016)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units    Label     Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4    ---      ---       [SDSS]
+   6- 24  A19   ---      SDSS      SDSS designation (JHHMMSS.ss+DDMMSS.s)
+  26- 33  F8.6  ---      z         Host galaxy redshift
+  35- 42  F8.6  ---    e_z         Uncertainty in z
+  44- 49  F6.1  km/s     DelVB     Line-of-sight velocity offset of
+                                   Balmer emission lines (1)
+  51- 54  F4.1  km/s   e_DelVB     Uncertainty in DelVB
+  56- 61  F6.1  km/s     DelVF     Line-of-sight velocity offset of
+                                   forbidden emission lines (1)
+  63- 66  F4.1  km/s   e_DelVF     Uncertainty in DelVF
+  68- 73  F6.1  km/s     DelVW     Weighted line-of-sight velocity offset (2)
+  75- 78  F4.1  km/s   e_DelVW     Uncertainty in DelVW
+--------------------------------------------------------------------------------
+Note (1): Relative to stellar absorption features.
+Note (2): Mean of the Balmer and forbidden line-of-sight velocity offsets,
+          weighted by their inverse variances.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)            Prepared by [AAS], Tiphaine Pouvreau [CDS]          08-Mar-2017
