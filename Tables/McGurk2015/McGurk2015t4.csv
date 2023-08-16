@@ -1,14 +1,13 @@
-SDSSName,z,dV[OIII],NIRC2sep(as),NIRC2sep(kpc)
-J091646.03+283526.7,09:16:46.03,+28:35:26.7,0.142,425,1.23,3.1
-J110851.04+065901.4,11:08:51.04,+06:59:01.4,0.182,209,0.73,2.2
-J115714.97+081632.0,11:57:14.97,+08:16:32.0,0.201,420,2.61,8.6
-J072554.42+374436.9,07:25:54.42,+37:44:36.9,0.634,250,2.91,19.9
-J080315.67+483603.0,08:03:15.67,+48:36:03.0,0.635,280,2.63,18.0
-J094032.25+311328.6,09:40:32.25,+31:13:28.6,0.170,371,2.45,7.1
-J105104.54+625159.3,10:51:04.54,+62:51:59.3,0.436,360,1.52,8.6
-J114642.47+511029.6,11:46:42.47,+51:10:29.6,0.130,284,2.84,6.6
-J115714.97+081632.0,11:57:14.97,+08:16:32.0,0.201,420,2.61,8.6
-J130724.08+460400.9,13:07:24.08,+46:04:00.9,0.353,580,2.37,11.6
-J133226.34+060627.3,13:32:26.34,+06:06:27.3,0.207,420,1.58,5.4
-J161027.41+130806.8,16:10:27.41,+13:08:06.8,0.229,290,2.35,8.6
-J165206.15+310707.6,16:52:06.15,+31:07:07.6,0.075,310,2.96,4.2
+Name,RA,Dec,z,dV[OIII],NIRC2sep(as),NIRC2sep(kpc),Notes
+J091646.03+283526.7,09:16:46.03,+28:35:26.7,0.142,425,1.23,3.1,Ionized outflow; companion is quiescent or at a different redshift.
+J110851.04+065901.4,11:08:51.04,+06:59:01.4,0.182,209,0.73,2.2,At least one AGN in this system but it is not clear which galaxy it is hosted in. Near-IR line ratios indicate both galaxies are dominated by SF. But Liu+ argue both components likely contain an AGN.
+J115714.97+081632.0,11:57:14.97,+08:16:32.0,0.201,420,2.61,8.6,Only the central object showed double-peaks. Two companions shoow featureless continuua. The resolved subarcsecond emission peaks observed by Comerford+ not seen by McGurk+. Spatially-coincident emission lines down to less than 0.15 arcseconds. Could still be an unresolved dual AGN or could be unresolved kinematics or small scale outflow.
+J072554.42+374436.9,07:25:54.42,+37:44:36.9,0.634,250,2.91,19.9,The second OIII emission peak could not be observed by McGurk+2015.
+J080315.67+483603.0,08:03:15.67,+48:36:03.0,0.635,280,2.63,18.0,Emssion line peaks show separations incompatible with the second peak originating in the companion. No continuum observed in companion or at location of second peak.
+J094032.25+311328.6,09:40:32.25,+31:13:28.6,0.170,371,2.45,7.1,Spatially-coincident emission lines down to less than 0.15 arcseconds.
+J105104.54+625159.3,10:51:04.54,+62:51:59.3,0.436,360,1.52,8.6,Spatially-coincident emission lines down to less than 0.15 arcseconds.
+J114642.47+511029.6,11:46:42.47,+51:10:29.6,0.130,284,2.84,6.6,McGurk+ find emission peaks spatially coincident with two nuclei and consistent with the companion giving rise to the second peak.
+J130724.08+460400.9,13:07:24.08,+46:04:00.9,0.353,580,2.37,11.6,Emssion line peaks show separations incompatible with the second peak originating in the companion. No continuum observed in companion or at location of second peak.
+J133226.34+060627.3,13:32:26.34,+06:06:27.3,0.207,420,1.58,5.4,McGurk+ find emission peaks spatially coincident with two nuclei and consistent with the companion giving rise to the second peak. But companion shows more LINER or composite-like line ratios. Dual AGN not ruled out but also cannot be proven.
+J161027.41+130806.8,16:10:27.41,+13:08:06.8,0.229,290,2.35,8.6,Emssion line peaks show separations incompatible with the second peak originating in the companion. No continuum observed in companion or at location of second peak.
+J165206.15+310707.6,16:52:06.15,+31:07:07.6,0.075,310,2.96,4.2,Emssion line peaks show separations incompatible with the second peak originating in the companion. No continuum observed in companion or at location of second peak.
