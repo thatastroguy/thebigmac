@@ -1,4 +1,4 @@
-SDSSName,RA,Dec,OpticalType,z,DeltaV,R,Imager,Exptime,UT,Seeing,IFS,Reference
+SDSS,RA,Dec,OpticalType,z,DeltaV,R,Imager,Exptime,UT,Seeing,IFS,Reference
 000249.1+004505,00:02:49.1,+00:45:05,Type 2,0.087,534,7,NIRC2/Kp,192,110105,0.6,0,1;2
 000656.9+154848,00:06:56.9,+15:48:48,Type 2,0.125,382,,NIRC2/Kp,300,110105,0.7,0,2
 014209.0-005050,01:42:09.0,-00:50:50,Type 2,0.133,248,,NIRC2/Kp,240,110105,0.7,0,2
