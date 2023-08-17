@@ -83,7 +83,7 @@ Byte-by-byte Description of file: table7.dat
 --------------------------------------------------------------------------------
    Bytes Format Units   Label   Explanations
 --------------------------------------------------------------------------------
-   1-  5  A5    ---     ---     [LQAC_]
+   1-  5  A5    ---     LQAC    [LQAC_]
    6- 20  A15   ---     QSO1/2  Quasar names (NNN+NNN_NNN/NNN)
   22- 26  F5.2  mag     U1mag   ?=0 U magnitude of first quasar
   28- 32  F5.2  mag     U2mag   ?=0 U magnitude of first quasar
