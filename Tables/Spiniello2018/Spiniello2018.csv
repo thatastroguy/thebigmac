@@ -1,10 +1,18 @@
 Name,RA,Dec,Methods,Grade,Notes
+KIDS0848+0115,08:48:56,+01:15:39,Multipl. BaROQuES DIA,2.5,One of the images has a QSO SDSS spectrum (z = 0.645)
+KIDS2307-3039,23:07:18,-30:39:15,Multipl. BaROQuES DIA,2.5,
+KIDS0841+0101,08:41:35,+01:01:56,Multipl. BaROQuES,2.5,Possible gravitational arc
+KIDS1217-0256,12:17:09,-02:56:21,Multipl. BaROQuES,2.5,
+KIDS2316-3320,23:16:27,-33:20:02,Multipl. BaROQuES,2.5,Possible NIQ
+KIDS0324-3042,03:24:27,-30:42:50,Multipl. DIA,2.5,
+KIDS0924-0128,09:24:37,-01:28:44,Multipl. DIA,3.0,One of the images has a QSO SDSS spectrum (z = 2.446)
+KIDS1441+0237,14:41:45,+02:37:43,Multipl. DIA,3.0,One of the images has a QSO SDSS spectrum (z = 1.61)
+KIDS1042+0023,10:42:37,+00:23:02,Multipl. DIA,3.5,Spectroscopic data confirmed the lensing nature (Fig. 4)
 KIDS0219-3430,02:19:36,-34:30:36,BaROQuES,2.0,
 KIDS0237-3408,02:37:20,-34:08:24,DIA,3.0,
 KIDS0256-3101,02:56:08,-31:01:09,BaROQuES,2.5,
 KIDS0313-3016,03:13:10,-30:16:26,BaROQuES,3.0,Very low separation between components <0.2 arcsec
 KIDS0324-3109,03:24:55,-31:09:18,DIA,2.0,
-KIDS0834-0139,08:34:40,-01:39:08,DIA,3.0,Not a lens. TNG Spectroscopy reveals that the two objects are stars.
 KIDS0835+0003,08:35:56,+00:03:06,DIA,2.0,
 KIDS0838+0124,08:38:41,+01:24:50,Multiplet,2.0,
 KIDS0841-0008,08:41:01,-00:08:58,DIA,2.0,

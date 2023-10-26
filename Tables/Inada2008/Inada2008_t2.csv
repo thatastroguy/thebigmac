@@ -1,4 +1,4 @@
-SDSS,z1,i_cor,theta_SDSS,theta_iband,Comment,Ref,z2
+iSDSS,z1,i_cor,theta_SDSS,theta_iband,Comment,Ref,z2
 SDSSJ034801.20-070416.9,1.959,18.10,1.54,1.54,No lensing object,
 SDSSJ072843.03+370834.9,1.404,18.97,1.34,0.08,No lensing object,
 SDSSJ074352.62+245743.6,2.166,19.01,1.02,1.14,No lensing object,
