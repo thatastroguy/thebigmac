@@ -13,6 +13,8 @@ Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 
 Additional changes and additions occurred during the period (not tracked by Git): November 2020 - March 2023 <br />
 Last Revision Date: 28 March 2023
 
+# WARNING: This repository is public but you are viewing the BETA version of this catalog! Proceed with EXTREME caution prior to the formal data release 1!
+
 ## Catalog Content of the DR0.1
 The purpose of this catalog is to have an exhaustive list of all known multiple AGNs from the literature. A multiple AGN is defined as the manifestation of two or more AGNs at some wavelength that are associated with each other due to some astrophysical process. This astrophysical process can be: <br />
 - Multiple AGNs in a galaxy interaction, merger, or post-merger <br />
