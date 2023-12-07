@@ -6,7 +6,7 @@ Contributor(s): Kimberly Weaver<sup>1</sup>, Nathan Secrest<sup>2</sup>
 <sup>1</sup> X-ray Astrophysics Laboratory, NASA Goddard Space Flight Center (GSFC)<br />
 <sup>2</sup> United States Naval Observatory (USNO)<br />
 <br />
-Current Version: 0.1.5 <br />
+Current Version: 0.5 <br />
 Git Repo Creation Date: 23 July 2022 <br />
 First 'official' update to README.md (here): 28 March 2023 <br />
 Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 2020 <br />
@@ -15,7 +15,7 @@ Last Revision Date: 28 March 2023
 
 # WARNING: This repository is public but you are viewing the BETA version of this catalog! Proceed with EXTREME caution prior to the formal data release 1!
 
-## Catalog Content of the DR0.1
+## Catalog Content of the DR0.1 and DR0.5. (Larger update to the readme coming after DR0.5.)
 The purpose of this catalog is to have an exhaustive list of all known multiple AGNs from the literature. A multiple AGN is defined as the manifestation of two or more AGNs at some wavelength that are associated with each other due to some astrophysical process. This astrophysical process can be: <br />
 - Multiple AGNs in a galaxy interaction, merger, or post-merger <br />
 - Multiple AGNs that are gravitationally bound, e.g. binary AGNs <br />
