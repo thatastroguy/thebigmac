@@ -1,11 +1,11 @@
-Name,g,Sep_as,z1,z2,class
-DESJ 0058-6120,20.10,3.03,1.322,0,NIQ
-DESJ 0120-4354,19.97,0.84,1.910,0,NIQ
-DESJ 0544-5922,18.93,1.24,1.319,0,NIQ
-DESJ 2141-4629,20.46,0.91,1.762,0,NIQ
-DESJ 2200-4719,19.78,3.60,1.608,0,NIQ
-DESJ 2250-6047,21.02,2.02,1.080,0,NIQ
-DESJ 2337+0056,20.39,1.35,0.710,0,NIQ
-DESJ 0425−4539,20.73,1.90,1.020,0.913,Possible pair or projected z1=1.020; z2=0.913
-DESJ 0230−0704,18.05,0.57,2.01,0,(Unclear)QSO z=2.01+point source
-DESJ 0509−2350,19.94,1.99,2.08,0,(Unclear)QSO z=2.08+point source
+Name,Selection Method,Confirmation Method,g,Sep_as,z1,z2,class
+DESJ 0058-6120,Mid-IR Colors / Optical Imaging,"-99",20.10,3.03,1.322,0,NIQ
+DESJ 0120-4354,Mid-IR Colors / Optical Imaging,"-99",19.97,0.84,1.910,0,NIQ
+DESJ 0544-5922,Mid-IR Colors / Optical Imaging,"-99",18.93,1.24,1.319,0,NIQ
+DESJ 2141-4629,Mid-IR Colors / Optical Imaging,"-99",20.46,0.91,1.762,0,NIQ
+DESJ 2200-4719,Mid-IR Colors / Optical Imaging,"-99",19.78,3.60,1.608,0,NIQ
+DESJ 2250-6047,Mid-IR Colors / Optical Imaging,"-99",21.02,2.02,1.080,0,NIQ
+DESJ 2337+0056,Mid-IR Colors / Optical Imaging,"-99",20.39,1.35,0.710,0,NIQ
+DESJ 0425−4539,Mid-IR Colors / Optical Imaging,"-99",20.73,1.90,1.020,0.913,Possible pair or projected z1=1.020; z2=0.913
+DESJ 0230−0704,Mid-IR Colors / Optical Imaging,"-99",18.05,0.57,2.01,0,(Unclear)QSO z=2.01+point source
+DESJ 0509−2350,Mid-IR Colors / Optical Imaging,"-99",19.94,1.99,2.08,0,(Unclear)QSO z=2.08+point source

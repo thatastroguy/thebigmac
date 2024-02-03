@@ -1,222 +1,222 @@
-Name,RAdeg,DEdeg,Num_comp,i_mag,Sep(as),Rank,Confirmation_flag,Notes
-013459+243049,23.745589,24.513635,2,19.40,3.7,C,1,G=19.60; 20.17; p-l; two SDSS QSOs at z=2.093 and z=2.104
-014710+463043,26.792452,46.512081,2,15.57,3.2,A,1,G=15.89; 16.18; 16.74; 18.26; similar colour p-l sources; PSJ0147+4630 (quad; Berghea et al. 2017)
-024526-055700,41.356685,-5.950128,2,18.67,1.7,C,1,G=19.73; 19.25; similar colour p-l + red inner component; DESJ0245-0556 (double; Agnello et al. 2018b)
-025934-233802,44.889982,-23.633792,2,19.21,2.7,B,1,G=20.34; 19.37; p-l + red inner component; PSJ0259-2338 (double; Lemon et al. 2018)
-094235+231030,145.645825,23.175133,2,18.87,2.4,C,1,G=19.10; 19.92; similar colour p-l; z=1.83 QSO pair (Findlay et al. 2018)
-110633-182124,166.639282,-18.356688,2,16.95,3.1,C,1,G=17.07; 18.20; similar colour p-l; HE1104-1805 (double; Wisotzki et al. 1993)
-110932+531636,167.384487,53.276552,2,18.71,3.2,C,1,G=18.97; 19.68; similar colour p-l; includes SDSS z=0.982 QSO; SQLS QSO pair
-113441-210323,173.668953,-21.056307,3,16.81,3.7,A,1,G=17.17; 17.19; 18.94; 17.27; four p-l sources; 2M1134-2103 (quad; Lucey et al. 2018)
-120451+442836,181.210712,44.47659,2,18.84,3.0,B,1,G=18.81; 19.65; similar colour p-l; SQLS QSO at z=1.84 and z=1.14
-120630+433219,181.623684,43.538734,2,18.52,3.0,B,1,G=18.87; 18.84; similar colour p-l + red component; SDSSJ1206+4332 (double; Oguri et al. 2005)
-120659-254331,181.744763,-25.725376,2,19.41,2.1,B,1,19.97; 20.40; similar colour p-l; both have negligible AEN; pm; and p; double; discovered; and confirmed independently by C. Lemon; private communication
-124614+503049,191.556942,50.513634,2,19.22,2.4,C,1,G=19.31; 19.50; similar colour p-l; SDSS quasar pair z=2.73; 2.11
-132100+164403,200.246658,16.734072,3,18.51,8.8,B,1,G=18.66; 19.46; similar colour p-l + red component; SDSSJ1320+1644 (double or binary quasar; Rusu et al. 2013)
-133713+601208,204.304581,60.202141,2,18.55,3.1,C,1,G=18.68; 19.63; similar colour p-l; z=1.721; 1.726 QSO pair (Hennawi et al. 2006)
-140515+095930,211.314397,9.991796,2,18.96,1.9,B,1,G=19.38; 20.32; p-l + extended red; ULAS J1405+0959 (double Jackson et al. 2012)
-141818-161008,214.573673,-16.168771,2,18.53,2.4,C,1,G=18.46; 19.33; similar colour p-l; NIQ z=1.13 (Lemon et al. 2019)
-143323+600715,218.345158,60.120864,5,19.49,3.7,A,1,G=19.87; 19.99; 20.26; p-l; SDSSJ1433+6007 (quad; Agnello et al. 2018a)
-143351+145007,218.462505,14.835308,2,18.90,3.3,C,1,G=18.99; 19.35; similar colour p-l; z=1.51 QSO pair (Findlay et al. 2018)
-151539+151135,228.910562,15.193168,2,17.94,2.0,C,1,G=18.03; 18.42; similar colour p-l; SDSSJ1515+1511 (double; Inada et al. 2014)
-153725-301017,234.355599,-30.171336,4,19.12,3.1,A,1,G=20.32; 20.22; 20.44; four p-l + inner red component; (quad; Delchambre et al. 2019; Lemon et al. 2019)
-160600-233322,241.500981,-23.556046,3,17.96,2.9,C,1,G=18.85; 18.97; 19.33; 19.61; p-l + red component; PSJ1606-2333 (quad; Lemon et al. 2018)
-172145+884222,260.43637,88.706169,2,17.33,2.3,B,1,G=18.18; 18.33; similar colour; PSJ1721+8842 (quad; Lemon et al. 2018)
-203238-235822,308.157206,-23.972856,2,18.75,2.0,C,1,G=19.12; 19.26; similar colour p-l; z=1.64 NIQ (Lemon et al. 2018)
-215316+273235,328.31765,27.543058,2,18.69,3.6,C,1,G=18.72; 19.69; similar colour p-ls; quasar pair (Sergeyev et al. 2016)
-221208+314417,333.033412,31.73809,2,19.27,2.6,C,1,G=19.28; 19.97; two similar colour p-l + red component; (double; Lemon et al. 2019)
-000823+031342,2.094362,3.228219,2,17.70,3.2,C,2,p-l; PB 5757 (star); large pm
-001313-152007,3.302628,-15.335383,2,16.82,1.9,C,2,similar colour p-l; companion has large pm
-002605+401519,6.522825,40.255255,2,17.85,2.3,C,2,p-l; companion has large pm
-002719+300336,6.827338,30.059894,2,17.90,3.0,C,2,similar colour p-l; companion has large pm
-004346+282715,10.942056,28.454297,2,17.58,3.3,C,2,point sources; bright component has large pm and p
-004446+472400,11.192613,47.399741,2,18.13,3.3,C,2,similar colour p-l; companion has large pm
-005801-231711,14.502676,-23.286411,2,17.82,3.1,C,2,similar colour p-l; one component has large AEN
-011305+454905,18.269259,45.818058,2,17.60,1.7,C,2,similar colour p-l; companion has large pm
-011639+405252,19.163546,40.881125,2,18.72,1.3,C,2,similar colour p-l; includes SDSS z=1.86 QSO; one component has large p
-015109+315521,27.786404,31.922389,2,18.11,3.1,C,2,includes galaxy (Ochner et al. 2014); companion has large pm
-020122+212637,30.340775,21.443685,2,17.45,3.6,C,2,similar colour p-l; SQLS candidate; companion has large pm
-020649+803347,31.703677,80.563065,2,17.36,2.2,C,2,similar colour p-l; companion has large pm and p
-020722+374720,31.843188,37.788868,2,16.60,2.2,C,2,similar colour p-l +extended; companion has large pm and p
-024414-073747,41.059791,-7.629853,2,19.75,1.4,C,2,p-l; includes z=0.319 galaxy (Szabo et al. 2011); companion has no Gaia pm and p
-024722-172547,41.843352,-17.429683,2,18.67,1.6,C,2,similar colour p-l; companion has large pm
-025339+070440,43.414166,7.077896,2,18.17,2.8,C,2,similar colour p-l; companion has large pm
-025644+394153,44.183373,39.697932,2,19.28,2.4,C,2,similar colour p-l; companion has large pm
-034955-071723,57.479613,-7.289607,2,16.12,2.5,C,2,p-l; companion has large pm and p
-035119-182302,57.829409,-18.383904,2,16.92,1.8,C,2,p-l; companion has large pm and p
-041304+155206,63.266175,15.868444,2,17.60,3.5,C,2,similar colour p-l; companion has large pm
-043324-111537,68.348462,-11.260161,2,18.31,2.7,C,2,similar colour p-l; companion has large pm
-045230-295335,73.125436,-29.893138,2,15.36,2.0,B,2,similar colour p-l + extended? star + interacting galaxy + QSO HE0450-2958 (Magain et al. 2005)
-051139-035102,77.911071,-3.850553,2,19.02,2.9,C,2,similar colour p-l; QSO + other (Lemon et al. 2018); both negligible AEN; pm; and p
-052131+730136,80.380313,73.026614,2,17.55,3.0,C,2,p-l; companion has large pm and p
-052419-065727,81.077162,-6.957592,2,16.98,1.8,C,2,p-l; companion has large pm
-052833+042744,82.136604,4.462234,2,16.72,1.9,C,2,p-l; companion has large pm
-053733+815634,84.386019,81.942802,2,18.72,3.2,C,2,similar colour p-l; companion has large pm
-054335-152624,85.894214,-15.439864,2,17.63,2.8,C,2,p-l; companion has large pm
-061050-201839,92.710135,-20.310915,2,18.37,2.8,C,2,p-l; companion has large pm
-061911-295857,94.796622,-29.982405,3,18.70,2.3,C,2,different colour p-l; outer component has large AEN and pm; included in the Delchambre et al. (2019) Gaia clusters catalogue
-062529-285546,96.371981,-28.929452,2,18.25,3.0,C,2,p-l; companion has large pm
-063724+434603,99.34909,43.767531,3,16.9,5.3,C,2,similar colour p-l (companion has large pm and p) + red inner component
-065513+850519,103.804667,85.088737,3,17.50,4.5,B,2,similar colour p-l (companion has large pm) + red inner component (large AEN); included in the Delchambre et al. (2019) Gaia clusters catalogue
-072846+420701,112.190784,42.116988,2,16.79,3.9,C,2,similar colour p-l; includes SDSS z=1.120 QSO; SQLS candidate; companion has large pm and p
-072850+570125,112.206878,57.02358,2,16.03,3.5,C,2,p-l; includes z=0.426 Seyfert 1 (Henstock et al. 1997); companion has large pm and p
-074242+651038,115.673761,65.177097,2,15.17,2.0,C,2,consistent with single extended source; Mrk 78 (Seyfert 2); no Gaia data
-074555+181818,116.478082,18.304882,2,17.80,2.5,C,2,p-l; includes SDSS z=1.060 QSO; SQLS candidate; companion has large pm
-080938+275648,122.407538,27.946714,2,17.09,3.1,C,2,similar colour p-l; includes SDSS z=0.406 QSO; companion has large pm and p
-081130+255541,122.876253,25.927955,2,18.96,2.7,C,2,p-l; companion has large pm
-082218+665957,125.574156,66.999183,2,18.61,3.0,C,2,similar colour p-l; QSO + other (Lemon et al. 2018); both negligible AEN; pm; and p
-082353-085114,125.970487,-8.853931,2,16.88,2.2,C,2,similar colour p-l; companion has large pm and p
-082442+592409,126.176996,59.402484,2,17.77,3.1,C,2,similar colour p-l; companion has large pm
-083229+563235,128.119012,56.542997,3,18.76,3.0,C,2,similar colour p-l (companion has large pm) + inner red component; includes SDSS z=0.683 QSO; SQLS QSO + star
-084441+334909,131.16938,33.819226,2,18.28,2.9,C,2,similar colour p-l; includes SDSS z=1.425 QSO; SQLS candidate; companion has large pm
-084513+543422,131.302961,54.57264,2,18.51,1.4,C,2,similar colour p-l; includes SDSS z=1.290 QSO; SQLS QSO + star (large pm)
-085055-052735,132.72728,-5.459747,2,19.11,2.0,C,2,similar colour p-l; companion has large pm
-085838-152907,134.656619,-15.485172,2,17.27,2.5,C,2,similar colour p-l; companion has large pm
-090852+304332,137.215844,30.725594,2,18.51,2.1,C,2,p-l; includes SDSS z=0.399 Seyfert 1; companion has large pm
-091453-265223,138.722422,-26.873106,2,17.80,2.4,C,2,similar colour p-l; companion has large pm
-091746-160623,139.443706,-16.106479,4,18.41,2.3,C,2,similar colour p-l; companion has large pm; included in the Delchambre et al. (2019) Gaia clusters catalogue
-092016-063144,140.064718,-6.529,2,18.16,2.7,C,2,similar colour p-l; companion has large pm
-092438-012845,141.157105,-1.479089,2,17.99,3.0,C,2,similar colour p-l; includes SDSS z=2.446 QSO; companion has large pm
-092718+211357,141.826656,21.232549,2,17.47,2.3,C,2,p-l; includes SDSS z=1.851 QSO; SQLS candidate; no lensing object; companion has large pm
-094115+305810,145.314113,30.969479,2,19.29,2.3,C,2,similar colour; SQLS z=1.193 QSO + blue galaxy
-094437-263355,146.154045,-26.565394,2,16.77,2.3,C,2,similar colour; includes Seyfert 1 galaxy at z=0.142 (Jones et al. 2009) companion has large pm
-094903+280022,147.264552,28.006127,2,18.79,1.2,C,2,similar colour p-l; SQLS QSO + star
-100450+773753,151.208619,77.63132,2,19.05,1.9,C,2,similar colour p-l; companion has large pm
-102803-153028,157.011143,-15.507813,3,19.60,4.5,B,2,p-l + red inner component (large pm)
-102813+171902,157.054777,17.317297,2,18.53,1.9,C,2,p-l; only one component has Gaia p and pm; large pm
-104704-241459,161.765852,-24.249719,2,16.95,2.8,B,2,similar colour p-l (companion has large pm) + red inner component
-105852-275715,164.715138,-27.954048,2,18.01,2.4,C,2,similar colour p-l; companion has large pm
-111524-042218,168.848654,-4.371723,2,18.60,2.7,C,2,similar colour p-l; includes galaxy at z=0.209 (Colless et al. 2001); no Gaia p and pm; large AEN for companion
-113431+111918,173.628607,11.321701,2,18.49,1.6,C,2,similar colour p-l; large companion pm; z=1.62 QSO + star (Ostrovski et al; in preparation)
-114214-075619,175.556357,-7.93867,2,18.93,3.4,C,2,similar colour p-l; companion has large pm
-115443-224432,178.680182,-22.742147,2,17.75,2.4,B,2,similar colour p-l; companion has large pm
-115541+131105,178.919792,13.184774,2,17.52,2.4,B,2,similar colour p-l; companion has large pm
-115957+644406,179.987136,64.735049,2,18.77,3.1,C,2,similar colour p-l; includes SDSS z=1.61 QSO; companion has large pm
-123441+341000,188.672008,34.166556,2,18.29,2.2,C,2,similar colour p-l; includes SDSS z=1.429 QSO; SQLS candidate; companion has large pm
-123559-023503,188.993809,-2.58423,2,17.78,3.0,C,2,similar colour p-l; SDSS z=2.062 QSO + star; SQLS candidate
-130738+640252,196.907012,64.047899,2,18.17,3.5,C,2,similar colour p-l; companion has large pm
-131425+181232,198.605024,18.208753,2,19.46,2.5,C,2,p-l; companion has large pm
-132223+512017,200.595155,51.338029,2,18.29,2.7,C,2,similar colour p-l; includes SDSS z=1.772 QSO; SQLS candidate; companion has large pm
-132405+282334,201.022027,28.392698,2,18.54,2.1,C,2,similar colour p-l; includes SDSS z=0.904 QSO; SQLS candidate; no lensing object; companion has large pm
-132853+261501,202.222599,26.250248,2,18.91,2.6,C,2,similar colour p-l; SQLS candidate; SDSS z=1.522 QSO + star; companion has large pm
-132916+414554,202.31656,41.765054,2,17.59,2.8,C,2,similar colour p-l; companion has large pm
-133543-294239,203.927943,-29.710967,2,18.50,2.4,C,2,p-l; companion has large pm
-134222-261001,205.593589,-26.166945,2,18.30,2.9,C,2,similar colour p-l; companion has large pm
-134539-262819,206.411024,-26.471915,2,17.82,2.6,C,2,similar colour p-l; companion has large pm
-134626+045245,206.609217,4.879294,2,18.73,2.7,C,2,similar colour p-l; companion has large pm
-134941+011054,207.420114,1.181594,2,16.55,2.2,C,2,similar colour p-l; includes SDSS star
-140610-250809,211.540001,-25.135907,2,17.88,2.9,B,2,similar colour p-l; companion has large pm
-141349+475113,213.452222,47.853718,2,18.55,3.0,C,2,similar colour p-l; includes SDSS z=2.175 QSO; SQLS candidate; no lensing object; companion has large pm
-141432-052951,213.631386,-5.49754,2,19.17,2.2,C,2,similar colour p-l; companion has large pm
-142040+122507,215.16569,12.418669,2,18.31,3.1,C,2,similar colour p-l; includes SDSS z=2.252 QSO; companion has large pm
-142402+710911,216.008966,71.152985,2,18.70,2.9,C,2,similar colour p-l; companion has large pm
-142609-210327,216.538323,-21.057381,2,19.44,2.8,C,2,similar colour p-l; companion has large pm
-143153-094341,217.972653,-9.727974,3,18.56,5.8,B,2,p-l (companion has large pm) + red inner component
-143154+530033,217.973863,53.009266,3,18.09,4.3,C,2,p-l; includes SDSS z=1.389 QSO + star; third component has large pm included in the Delchambre et al. (2019) Gaia clusters catalogue
-143245-273713,218.188947,-27.620192,2,17.78,3.0,C,2,similar colour p-l; companion has large pm
-144145+023743,220.437914,2.628697,2,19.13,1.1,C,2,similar colour p-l; SQLS z=1.160 QSO + star
-144245+041619,220.689582,4.271996,2,19.27,3.0,C,2,p-l; includes SDSS z=2.012 QSO; SQLS candidate; companion has large pm
-144303+260329,220.763978,26.058137,2,17.98,3.5,C,2,similar colour p-l; includes SDSS z=0.257 Seyfert 1; companion has large pm
-145115+052936,222.813312,5.493197,2,16.20,2.3,C,2,similar colour p-l; includes SDSS z=2.052 QSO; SQLS candidate; companion has large pm
-145232-052947,223.134353,-5.496432,2,18.04,2.9,C,2,p-l + red inner component; companion has large pm
-145647-091751,224.197573,-9.297562,2,17.99,3.0,C,2,similar colour p-l; companion has large p and pm
-150925+113851,227.35556,11.647604,2,19.37,2.5,C,2,similar colour p-l; includes SDSS star; only one component has Gaia p and pm; negligible values
-151044-074043,227.684808,-7.678621,2,18.27,2.5,C,2,similar colour p-l; companion has large pm
-151205+182706,228.018788,18.451666,2,17.76,2.5,C,2,similar colour p-l; companion has large pm
-151237+553901,228.15381,55.650295,2,19.01,1.9,C,2,similar colour p-l; includes SDSS z=1.363 QSO; SQLS QSO + star
-151527-203609,228.862483,-20.602366,2,17.84,2.9,C,2,p-l; companion has large pm
-151832+343325,229.632917,34.557016,2,18.87,3.0,C,2,similar colour p-l; includes SDSS z=1.672 QSO; SQLS candidate; companion has large pm
-151858-022443,229.74139,-2.411924,3,16.9,3.3,B,2,p-l; inner component has large pm; the other two have negligible AEN; p and pm
-151918+094205,229.826754,9.701277,2,18.11,3.7,C,2,similar colour p-l; companion has large pm
-152005+195038,230.021454,19.843884,3,18.73,1.4,C,2,similar colour; a single companion has Gaia data (only AEN; large)
-152050+263741,230.209019,26.627994,2,18.93,2.1,C,2,p-l; includes SDSS z=1.365 QSO; SQLS candidate candidate; companion has large p and pm
-152444+054628,231.182118,5.77438,2,17.68,3.7,C,2,similar colour p-l; includes SDSS z=1.445 QSO; SQLS candidate; companion has large pm
-153223-291257,233.094882,-29.215933,2,19.05,1.8,C,2,similar colour p-l; companion has large pm
-153311-001509,233.296204,-0.252541,3,19.49,4.0,C,2,similar colours; only one; outer component has Gaia data; large pm; the others are galaxies
-153510+082347,233.79015,8.396438,2,18.77,2.5,C,2,p-l; third component? includes SDSS z=1.953 QSO; SQLS candidate; companion has large pm
-154226-023456,235.610402,-2.582135,2,18.74,3.1,C,2,similar colour p-l; companion has large pm
-154726-153237,236.857051,-15.543614,2,17.96,2.7,C,2,similar colour p-l; companion has large pm
-160138+172852,240.407737,17.48102,3,17.80,5.6,C,2,similar colour p-l (one component has large pm) + red inner components (large pm); includes SDSS z=2.239 QSO
-160927+175431,242.361547,17.90869,2,17.67,2.6,C,2,similar colour p-l; includes SDSS z=1.993 QSO; SQLS candidate; companion has large pm
-161008+234837,242.533565,23.810394,2,19.14,3.0,C,2,similar colour p-l; companion has large pm
-161657-170647,244.235836,-17.113065,2,18.12,2.6,C,2,similar colour p-l; companion has large pm
-161722-230546,244.340087,-23.096165,2,18.80,1.8,C,2,similar colour p-l; QSO + star (Lemon et al. 2018)
-161841+301311,244.669946,30.2196,2,17.61,2.5,B,2,similar colour p-l; includes SDSS z=1.403 QSO; companion has large pm
-161931+162123,244.878602,16.356363,2,19.08,2.6,C,2,similar colour p-l; includes SDSS z=2.455 QSO; companion has large pm
-162417+064152,246.070533,6.697785,2,18.44,2.4,C,2,similar colour p-l; companion has large pm
-163113-171407,247.804331,-17.235305,2,17.59,3.0,C,2,similar colour p-l; companion has large pm
-163533+205229,248.886788,20.87476,2,18.49,2.1,C,2,similar colour p-l; companion has large pm
-163614+094317,249.056552,9.721352,2,19.21,2.2,C,2,similar colour p-l; companion has large pm
-163959-210652,249.995488,-21.114331,2,18.84,1.7,C,2,similar colour p-l; companion has large pm
-164304+754120,250.765894,75.688987,2,18.08,3.5,C,2,similar colour p-l; companion has large pm
-164552+152025,251.465796,15.340377,2,19.04,2.2,B,2,similar colour p-l; companion has large pm
-170002+250336,255.009344,25.060094,3,18.50,4.7,C,2,similar colour p-l; 2 components have large pm
-170024+005815,255.099997,0.970862,2,16.44,1.6,C,2,similar colour p-l; companion has large pm
-170514+331637,256.307089,33.276899,2,18.98,2.2,C,2,similar colour p-l; includes SDSS z=2.224 QSO; companion has large pm
-170516+251533,256.316261,25.259123,2,18.34,2.1,C,2,similar colour p-l; companion has large pm
-170602+270515,256.509411,27.087583,2,17.31,2.3,C,2,similar colour; one component has large pm; the other one large AEN
-170817+325311,257.072403,32.886393,2,18.38,2.1,C,2,similar colour p-l; companion has large AEN and pm
-170858-030510,257.240718,-3.086224,2,17.60,2.5,C,2,p-l; companion has large pm
-170943+334304,257.427474,33.717724,2,19.13,3.3,C,2,similar colour p-l; both have large pm
-171102+292951,257.757094,29.497482,2,17.92,2.2,C,2,similar colour p-l; includes SDSS z=1.329 QSO; SQLS candidate; companion has large pm; no lensing object
-172634+530300,261.639624,53.050095,2,18.76,1.3,C,2,similar colour p-l; includes white dwarf (Kleinman et al. 2013)
-173152+743615,262.968365,74.604272,3,16.60,5.9,C,2,p-l (one has large p and pm) + red inner component
-173316+084954,263.31709,8.831643,2,17.78,2.4,C,2,similar colour p-l; companion has large pm
-173509+094022,263.787393,9.672832,2,17.07,2.4,C,2,similar colour p-l; companion has large pm
-173703+271724,264.262899,27.290003,2,18.37,2.5,C,2,p-l; companion has large pm
-173820+041756,264.581302,4.298981,2,18.88,2.0,C,2,similar colour p-l; companion has large pm
-173905+120306,264.77013,12.051664,2,17.77,2.8,C,2,similar colour p-l; companion has large pm
-173915+112257,264.813269,11.382484,2,18.84,3.4,C,2,similar colour p-l; companion has large pm
-174006+221101,265.024352,22.183576,2,17.45,1.8,C,2,similar colour p-l; includes z=1.406 QSO (Healey et al. 2008); companion has large pm
-174154+333616,265.474939,33.604416,3,16.54,8.5,C,2,p-l; outer components have large p and pm
-174213+402717,265.55245,40.454758,2,18.30,3.1,C,2,similar colour p-l; companion has large pm
-175243+093822,268.179389,9.639313,2,18.29,2.6,C,2,similar colour p-l; companion has large pm
-175826+191732,269.608868,19.292361,2,17.57,2.5,C,2,similar colour p-l; companion has large pm
-180257+244143,270.737205,24.695406,3,17.27,4.3,C,2,similar colour p-l (one companion has large pm) + red central component
-180901+160103,272.254121,16.017515,2,18.59,3.1,C,2,similar colour p-l; companion has large pm
-181045+742546,272.686785,74.429515,2,18.39,2.0,C,2,similar colour p-l; companion has large pm
-181400+705410,273.499637,70.902881,2,17.69,2.4,C,2,similar colour p-l; companion has large pm
-182159+275657,275.494183,27.949111,2,18.43,2.4,C,2,similar colour p-l; companion has large pm
-182301+500140,275.753046,50.027664,2,17.91,2.0,C,2,p-l; companion has large pm
-183204+491637,278.015957,49.276889,2,18.06,1.9,C,2,similar colour p-l; companion has large pm
-183852+520350,279.718445,52.063814,2,18.13,3.1,C,2,p-l; companion has large pm
-183916+454103,279.818168,45.684238,2,18.70,3.0,C,2,similar colour p-l; 4C 45.38; z=0.958 QSO; companion has large pm
-184256+442102,280.733259,44.350567,2,18.33,3.1,C,2,similar colour p-l; companion has large pm
-185008+441126,282.533367,44.190435,2,17.64,2.7,C,2,similar colour p-l; companion has large pm
-185824+475553,284.600174,47.931329,3,18.54,3.6,B,2,p-l (one component has large pm); red inner component
-190003+522319,285.012245,52.388677,3,18.18,2.8,C,2,similar colour p-l (one component has large pm) + red inner component
-190433+575031,286.139132,57.841829,2,19.00,3.2,C,2,similar colour p-l; companion has large pm
-192457+492126,291.239533,49.357218,2,18.71,2.8,C,2,similar colour p-l; companion has large pm
-195629-064134,299.121219,-6.692813,2,19.12,1.6,C,2,similar colour p-l; companion has large pm
-200550-030100,301.456704,-3.016733,2,18.49,3.7,C,2,similar colour p-l; companion has large pm
-201810-022908,304.540147,-2.485511,2,18.25,1.8,C,2,similar colour p-l; companion has large pm
-202339-290706,305.91091,-29.1182,2,17.93,2.0,C,2,similar colour p-l; companion has large pm
-203106-122005,307.776472,-12.334677,3,17.59,3.1,C,2,similar colour p-l (one component has large pm) + red companion
-204541+122718,311.419538,12.454995,2,17.86,3.0,C,2,similar colour p-l; companion has large pm
-204628-120049,311.615311,-12.01355,2,19.12,1.9,C,2,similar colour p-l; companion has large pm
-210519+161334,316.330544,16.226221,2,18.71,1.7,C,2,similar colour p-l; companion has large pm
-210820+122340,317.08394,12.394343,2,17.89,1.8,C,2,similar colour p-l; one component has large p
-211017+050707,317.571284,5.118593,2,18.60,2.8,C,2,similar colour p-l; companion has large pm
-211945+153713,319.938477,15.620234,2,17.58,2.9,C,2,similar colour p-l; companion has large pm
-212753+085302,321.972353,8.883872,2,18.50,2.2,C,2,similar colour p-l; companion has large pm
-213147-030935,322.946983,-3.159735,3,18.52,6.9,C,2,similar colour p-l (one has large pm) + extended inner component
-213707+124621,324.279402,12.772593,2,18.67,1.8,C,2,similar colour p-l; BL Lac (D'Abrusco et al. 2014); companion has large pm
-214102+265252,325.257922,26.881249,2,17.78,2.8,C,2,p-l; companion has large pm
-214210+255233,325.543115,25.875914,2,16.95,2.4,C,2,similar colour p-l; companion has large pm
-214248+290427,325.698926,29.074187,2,17.38,3.6,C,2,similar colour p-l; X-ray source (D'Abrusco et al. 2014); companion has large p and pm
-214605+264507,326.52051,26.75202,2,19.2,2.3,C,2,similar colour p-l; companion has large pm
-215502+190303,328.756839,19.050739,2,16.86,2.1,B,2,similar colour p-l; QSO+star (NTT run 0100.A-0297(A); PI. T. Anguita)
-220822-142722,332.093734,-14.455987,2,17.25,2.1,C,2,similar colour p-l; companion has large p and pm
-222238+354225,335.656449,35.707081,2,18.30,2.1,C,2,similar colour p-l; companion has large pm
-222611-282413,336.547769,-28.403508,2,19.18,2.7,C,2,similar colour p-l; includes z=0.016 galaxy (Maddox et al. 1990); companion has large pm
-223604+221604,339.015242,22.267863,2,17.98,3.1,C,2,similar colour p-l; companion has large pm
-223713+245120,339.304497,24.85563,2,18.26,1.7,B,2,similar brightness p-l; companion has large pm
-223831+140027,339.629583,14.007554,2,19.50,3.1,B,2,similar colour p-l + extended? HS 2236+1344 (blue compact galaxy); both have large AEN; no other Gaia data
-230258-281314,345.740301,-28.220566,2,18.24,1.7,C,2,similar colour p-l; QSO+star (Lemon et al. 2018)
-231209+203543,348.036702,20.595139,2,19.16,3.1,C,2,p-l +extended; companion has large pm
-231313+194722,348.302961,19.7895,2,17.63,3.2,C,2,similar colour p-l; companion has large pm
-231445+303530,348.687176,30.591695,2,17.20,3.0,C,2,p-l; companion has large p and pm
-232837+435308,352.152836,43.885431,2,17.33,2.1,B,2,p-l; companion has large pm
-233611-093523,354.043989,-9.589647,2,15.63,4.1,C,2,similar colour p-l; companion has large p and pm
-233700+180520,354.249022,18.088753,2,17.63,3.7,C,2,p-l; companion has large pm
-234155+132902,355.480568,13.483904,2,18.82,3.2,C,2,similar colour p-l; includes SDSS z=0.729 QSO; companion has large pm
-235351-053956,358.462667,-5.665505,3,16.5,6.2,B,2,similar colour p-l (companion has large p and pm) +red inner component; QSO+star (Williams et al. 2017)
+Name,Selection Method,Confirmation Method,RAdeg,DEdeg,Num_comp,i_mag,Sep(as),Rank,Confirmation_flag,Notes
+013459+243049,Mid-IR Colors / Optical Imaging / Optical Colors,Optical Spectroscopy / Fiber Optical Spectroscopy,23.745589,24.513635,2,19.40,3.7,C,1,G=19.60; 20.17; p-l; two SDSS QSOs at z=2.093 and z=2.104
+014710+463043,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",26.792452,46.512081,2,15.57,3.2,A,1,G=15.89; 16.18; 16.74; 18.26; similar colour p-l sources; PSJ0147+4630 (quad; Berghea et al. 2017)
+024526-055700,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",41.356685,-5.950128,2,18.67,1.7,C,1,G=19.73; 19.25; similar colour p-l + red inner component; DESJ0245-0556 (double; Agnello et al. 2018b)
+025934-233802,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",44.889982,-23.633792,2,19.21,2.7,B,1,G=20.34; 19.37; p-l + red inner component; PSJ0259-2338 (double; Lemon et al. 2018)
+094235+231030,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",145.645825,23.175133,2,18.87,2.4,C,1,G=19.10; 19.92; similar colour p-l; z=1.83 QSO pair (Findlay et al. 2018)
+110633-182124,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",166.639282,-18.356688,2,16.95,3.1,C,1,G=17.07; 18.20; similar colour p-l; HE1104-1805 (double; Wisotzki et al. 1993)
+110932+531636,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",167.384487,53.276552,2,18.71,3.2,C,1,G=18.97; 19.68; similar colour p-l; includes SDSS z=0.982 QSO; SQLS QSO pair
+113441-210323,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",173.668953,-21.056307,3,16.81,3.7,A,1,G=17.17; 17.19; 18.94; 17.27; four p-l sources; 2M1134-2103 (quad; Lucey et al. 2018)
+120451+442836,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",181.210712,44.47659,2,18.84,3.0,B,1,G=18.81; 19.65; similar colour p-l; SQLS QSO at z=1.84 and z=1.14
+120630+433219,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",181.623684,43.538734,2,18.52,3.0,B,1,G=18.87; 18.84; similar colour p-l + red component; SDSSJ1206+4332 (double; Oguri et al. 2005)
+120659-254331,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",181.744763,-25.725376,2,19.41,2.1,B,1,19.97; 20.40; similar colour p-l; both have negligible AEN; pm; and p; double; discovered; and confirmed independently by C. Lemon; private communication
+124614+503049,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",191.556942,50.513634,2,19.22,2.4,C,1,G=19.31; 19.50; similar colour p-l; SDSS quasar pair z=2.73; 2.11
+132100+164403,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",200.246658,16.734072,3,18.51,8.8,B,1,G=18.66; 19.46; similar colour p-l + red component; SDSSJ1320+1644 (double or binary quasar; Rusu et al. 2013)
+133713+601208,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",204.304581,60.202141,2,18.55,3.1,C,1,G=18.68; 19.63; similar colour p-l; z=1.721; 1.726 QSO pair (Hennawi et al. 2006)
+140515+095930,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",211.314397,9.991796,2,18.96,1.9,B,1,G=19.38; 20.32; p-l + extended red; ULAS J1405+0959 (double Jackson et al. 2012)
+141818-161008,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",214.573673,-16.168771,2,18.53,2.4,C,1,G=18.46; 19.33; similar colour p-l; NIQ z=1.13 (Lemon et al. 2019)
+143323+600715,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",218.345158,60.120864,5,19.49,3.7,A,1,G=19.87; 19.99; 20.26; p-l; SDSSJ1433+6007 (quad; Agnello et al. 2018a)
+143351+145007,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",218.462505,14.835308,2,18.90,3.3,C,1,G=18.99; 19.35; similar colour p-l; z=1.51 QSO pair (Findlay et al. 2018)
+151539+151135,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",228.910562,15.193168,2,17.94,2.0,C,1,G=18.03; 18.42; similar colour p-l; SDSSJ1515+1511 (double; Inada et al. 2014)
+153725-301017,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",234.355599,-30.171336,4,19.12,3.1,A,1,G=20.32; 20.22; 20.44; four p-l + inner red component; (quad; Delchambre et al. 2019; Lemon et al. 2019)
+160600-233322,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",241.500981,-23.556046,3,17.96,2.9,C,1,G=18.85; 18.97; 19.33; 19.61; p-l + red component; PSJ1606-2333 (quad; Lemon et al. 2018)
+172145+884222,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",260.43637,88.706169,2,17.33,2.3,B,1,G=18.18; 18.33; similar colour; PSJ1721+8842 (quad; Lemon et al. 2018)
+203238-235822,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",308.157206,-23.972856,2,18.75,2.0,C,1,G=19.12; 19.26; similar colour p-l; z=1.64 NIQ (Lemon et al. 2018)
+215316+273235,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",328.31765,27.543058,2,18.69,3.6,C,1,G=18.72; 19.69; similar colour p-ls; quasar pair (Sergeyev et al. 2016)
+221208+314417,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",333.033412,31.73809,2,19.27,2.6,C,1,G=19.28; 19.97; two similar colour p-l + red component; (double; Lemon et al. 2019)
+000823+031342,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",2.094362,3.228219,2,17.70,3.2,C,2,p-l; PB 5757 (star); large pm
+001313-152007,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",3.302628,-15.335383,2,16.82,1.9,C,2,similar colour p-l; companion has large pm
+002605+401519,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",6.522825,40.255255,2,17.85,2.3,C,2,p-l; companion has large pm
+002719+300336,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",6.827338,30.059894,2,17.90,3.0,C,2,similar colour p-l; companion has large pm
+004346+282715,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",10.942056,28.454297,2,17.58,3.3,C,2,point sources; bright component has large pm and p
+004446+472400,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",11.192613,47.399741,2,18.13,3.3,C,2,similar colour p-l; companion has large pm
+005801-231711,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",14.502676,-23.286411,2,17.82,3.1,C,2,similar colour p-l; one component has large AEN
+011305+454905,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",18.269259,45.818058,2,17.60,1.7,C,2,similar colour p-l; companion has large pm
+011639+405252,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",19.163546,40.881125,2,18.72,1.3,C,2,similar colour p-l; includes SDSS z=1.86 QSO; one component has large p
+015109+315521,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",27.786404,31.922389,2,18.11,3.1,C,2,includes galaxy (Ochner et al. 2014); companion has large pm
+020122+212637,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",30.340775,21.443685,2,17.45,3.6,C,2,similar colour p-l; SQLS candidate; companion has large pm
+020649+803347,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",31.703677,80.563065,2,17.36,2.2,C,2,similar colour p-l; companion has large pm and p
+020722+374720,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",31.843188,37.788868,2,16.60,2.2,C,2,similar colour p-l +extended; companion has large pm and p
+024414-073747,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",41.059791,-7.629853,2,19.75,1.4,C,2,p-l; includes z=0.319 galaxy (Szabo et al. 2011); companion has no Gaia pm and p
+024722-172547,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",41.843352,-17.429683,2,18.67,1.6,C,2,similar colour p-l; companion has large pm
+025339+070440,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",43.414166,7.077896,2,18.17,2.8,C,2,similar colour p-l; companion has large pm
+025644+394153,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",44.183373,39.697932,2,19.28,2.4,C,2,similar colour p-l; companion has large pm
+034955-071723,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",57.479613,-7.289607,2,16.12,2.5,C,2,p-l; companion has large pm and p
+035119-182302,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",57.829409,-18.383904,2,16.92,1.8,C,2,p-l; companion has large pm and p
+041304+155206,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",63.266175,15.868444,2,17.60,3.5,C,2,similar colour p-l; companion has large pm
+043324-111537,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",68.348462,-11.260161,2,18.31,2.7,C,2,similar colour p-l; companion has large pm
+045230-295335,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",73.125436,-29.893138,2,15.36,2.0,B,2,similar colour p-l + extended? star + interacting galaxy + QSO HE0450-2958 (Magain et al. 2005)
+051139-035102,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",77.911071,-3.850553,2,19.02,2.9,C,2,similar colour p-l; QSO + other (Lemon et al. 2018); both negligible AEN; pm; and p
+052131+730136,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",80.380313,73.026614,2,17.55,3.0,C,2,p-l; companion has large pm and p
+052419-065727,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",81.077162,-6.957592,2,16.98,1.8,C,2,p-l; companion has large pm
+052833+042744,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",82.136604,4.462234,2,16.72,1.9,C,2,p-l; companion has large pm
+053733+815634,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",84.386019,81.942802,2,18.72,3.2,C,2,similar colour p-l; companion has large pm
+054335-152624,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",85.894214,-15.439864,2,17.63,2.8,C,2,p-l; companion has large pm
+061050-201839,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",92.710135,-20.310915,2,18.37,2.8,C,2,p-l; companion has large pm
+061911-295857,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",94.796622,-29.982405,3,18.70,2.3,C,2,different colour p-l; outer component has large AEN and pm; included in the Delchambre et al. (2019) Gaia clusters catalogue
+062529-285546,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",96.371981,-28.929452,2,18.25,3.0,C,2,p-l; companion has large pm
+063724+434603,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",99.34909,43.767531,3,16.9,5.3,C,2,similar colour p-l (companion has large pm and p) + red inner component
+065513+850519,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",103.804667,85.088737,3,17.50,4.5,B,2,similar colour p-l (companion has large pm) + red inner component (large AEN); included in the Delchambre et al. (2019) Gaia clusters catalogue
+072846+420701,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",112.190784,42.116988,2,16.79,3.9,C,2,similar colour p-l; includes SDSS z=1.120 QSO; SQLS candidate; companion has large pm and p
+072850+570125,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",112.206878,57.02358,2,16.03,3.5,C,2,p-l; includes z=0.426 Seyfert 1 (Henstock et al. 1997); companion has large pm and p
+074242+651038,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",115.673761,65.177097,2,15.17,2.0,C,2,consistent with single extended source; Mrk 78 (Seyfert 2); no Gaia data
+074555+181818,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",116.478082,18.304882,2,17.80,2.5,C,2,p-l; includes SDSS z=1.060 QSO; SQLS candidate; companion has large pm
+080938+275648,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",122.407538,27.946714,2,17.09,3.1,C,2,similar colour p-l; includes SDSS z=0.406 QSO; companion has large pm and p
+081130+255541,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",122.876253,25.927955,2,18.96,2.7,C,2,p-l; companion has large pm
+082218+665957,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",125.574156,66.999183,2,18.61,3.0,C,2,similar colour p-l; QSO + other (Lemon et al. 2018); both negligible AEN; pm; and p
+082353-085114,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",125.970487,-8.853931,2,16.88,2.2,C,2,similar colour p-l; companion has large pm and p
+082442+592409,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",126.176996,59.402484,2,17.77,3.1,C,2,similar colour p-l; companion has large pm
+083229+563235,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",128.119012,56.542997,3,18.76,3.0,C,2,similar colour p-l (companion has large pm) + inner red component; includes SDSS z=0.683 QSO; SQLS QSO + star
+084441+334909,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",131.16938,33.819226,2,18.28,2.9,C,2,similar colour p-l; includes SDSS z=1.425 QSO; SQLS candidate; companion has large pm
+084513+543422,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",131.302961,54.57264,2,18.51,1.4,C,2,similar colour p-l; includes SDSS z=1.290 QSO; SQLS QSO + star (large pm)
+085055-052735,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",132.72728,-5.459747,2,19.11,2.0,C,2,similar colour p-l; companion has large pm
+085838-152907,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",134.656619,-15.485172,2,17.27,2.5,C,2,similar colour p-l; companion has large pm
+090852+304332,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",137.215844,30.725594,2,18.51,2.1,C,2,p-l; includes SDSS z=0.399 Seyfert 1; companion has large pm
+091453-265223,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",138.722422,-26.873106,2,17.80,2.4,C,2,similar colour p-l; companion has large pm
+091746-160623,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",139.443706,-16.106479,4,18.41,2.3,C,2,similar colour p-l; companion has large pm; included in the Delchambre et al. (2019) Gaia clusters catalogue
+092016-063144,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",140.064718,-6.529,2,18.16,2.7,C,2,similar colour p-l; companion has large pm
+092438-012845,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",141.157105,-1.479089,2,17.99,3.0,C,2,similar colour p-l; includes SDSS z=2.446 QSO; companion has large pm
+092718+211357,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",141.826656,21.232549,2,17.47,2.3,C,2,p-l; includes SDSS z=1.851 QSO; SQLS candidate; no lensing object; companion has large pm
+094115+305810,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",145.314113,30.969479,2,19.29,2.3,C,2,similar colour; SQLS z=1.193 QSO + blue galaxy
+094437-263355,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",146.154045,-26.565394,2,16.77,2.3,C,2,similar colour; includes Seyfert 1 galaxy at z=0.142 (Jones et al. 2009) companion has large pm
+094903+280022,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",147.264552,28.006127,2,18.79,1.2,C,2,similar colour p-l; SQLS QSO + star
+100450+773753,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",151.208619,77.63132,2,19.05,1.9,C,2,similar colour p-l; companion has large pm
+102803-153028,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",157.011143,-15.507813,3,19.60,4.5,B,2,p-l + red inner component (large pm)
+102813+171902,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",157.054777,17.317297,2,18.53,1.9,C,2,p-l; only one component has Gaia p and pm; large pm
+104704-241459,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",161.765852,-24.249719,2,16.95,2.8,B,2,similar colour p-l (companion has large pm) + red inner component
+105852-275715,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",164.715138,-27.954048,2,18.01,2.4,C,2,similar colour p-l; companion has large pm
+111524-042218,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",168.848654,-4.371723,2,18.60,2.7,C,2,similar colour p-l; includes galaxy at z=0.209 (Colless et al. 2001); no Gaia p and pm; large AEN for companion
+113431+111918,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",173.628607,11.321701,2,18.49,1.6,C,2,similar colour p-l; large companion pm; z=1.62 QSO + star (Ostrovski et al; in preparation)
+114214-075619,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",175.556357,-7.93867,2,18.93,3.4,C,2,similar colour p-l; companion has large pm
+115443-224432,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",178.680182,-22.742147,2,17.75,2.4,B,2,similar colour p-l; companion has large pm
+115541+131105,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",178.919792,13.184774,2,17.52,2.4,B,2,similar colour p-l; companion has large pm
+115957+644406,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",179.987136,64.735049,2,18.77,3.1,C,2,similar colour p-l; includes SDSS z=1.61 QSO; companion has large pm
+123441+341000,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",188.672008,34.166556,2,18.29,2.2,C,2,similar colour p-l; includes SDSS z=1.429 QSO; SQLS candidate; companion has large pm
+123559-023503,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",188.993809,-2.58423,2,17.78,3.0,C,2,similar colour p-l; SDSS z=2.062 QSO + star; SQLS candidate
+130738+640252,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",196.907012,64.047899,2,18.17,3.5,C,2,similar colour p-l; companion has large pm
+131425+181232,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",198.605024,18.208753,2,19.46,2.5,C,2,p-l; companion has large pm
+132223+512017,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",200.595155,51.338029,2,18.29,2.7,C,2,similar colour p-l; includes SDSS z=1.772 QSO; SQLS candidate; companion has large pm
+132405+282334,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",201.022027,28.392698,2,18.54,2.1,C,2,similar colour p-l; includes SDSS z=0.904 QSO; SQLS candidate; no lensing object; companion has large pm
+132853+261501,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",202.222599,26.250248,2,18.91,2.6,C,2,similar colour p-l; SQLS candidate; SDSS z=1.522 QSO + star; companion has large pm
+132916+414554,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",202.31656,41.765054,2,17.59,2.8,C,2,similar colour p-l; companion has large pm
+133543-294239,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",203.927943,-29.710967,2,18.50,2.4,C,2,p-l; companion has large pm
+134222-261001,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",205.593589,-26.166945,2,18.30,2.9,C,2,similar colour p-l; companion has large pm
+134539-262819,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",206.411024,-26.471915,2,17.82,2.6,C,2,similar colour p-l; companion has large pm
+134626+045245,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",206.609217,4.879294,2,18.73,2.7,C,2,similar colour p-l; companion has large pm
+134941+011054,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",207.420114,1.181594,2,16.55,2.2,C,2,similar colour p-l; includes SDSS star
+140610-250809,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",211.540001,-25.135907,2,17.88,2.9,B,2,similar colour p-l; companion has large pm
+141349+475113,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",213.452222,47.853718,2,18.55,3.0,C,2,similar colour p-l; includes SDSS z=2.175 QSO; SQLS candidate; no lensing object; companion has large pm
+141432-052951,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",213.631386,-5.49754,2,19.17,2.2,C,2,similar colour p-l; companion has large pm
+142040+122507,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",215.16569,12.418669,2,18.31,3.1,C,2,similar colour p-l; includes SDSS z=2.252 QSO; companion has large pm
+142402+710911,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",216.008966,71.152985,2,18.70,2.9,C,2,similar colour p-l; companion has large pm
+142609-210327,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",216.538323,-21.057381,2,19.44,2.8,C,2,similar colour p-l; companion has large pm
+143153-094341,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",217.972653,-9.727974,3,18.56,5.8,B,2,p-l (companion has large pm) + red inner component
+143154+530033,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",217.973863,53.009266,3,18.09,4.3,C,2,p-l; includes SDSS z=1.389 QSO + star; third component has large pm included in the Delchambre et al. (2019) Gaia clusters catalogue
+143245-273713,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",218.188947,-27.620192,2,17.78,3.0,C,2,similar colour p-l; companion has large pm
+144145+023743,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",220.437914,2.628697,2,19.13,1.1,C,2,similar colour p-l; SQLS z=1.160 QSO + star
+144245+041619,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",220.689582,4.271996,2,19.27,3.0,C,2,p-l; includes SDSS z=2.012 QSO; SQLS candidate; companion has large pm
+144303+260329,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",220.763978,26.058137,2,17.98,3.5,C,2,similar colour p-l; includes SDSS z=0.257 Seyfert 1; companion has large pm
+145115+052936,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",222.813312,5.493197,2,16.20,2.3,C,2,similar colour p-l; includes SDSS z=2.052 QSO; SQLS candidate; companion has large pm
+145232-052947,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",223.134353,-5.496432,2,18.04,2.9,C,2,p-l + red inner component; companion has large pm
+145647-091751,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",224.197573,-9.297562,2,17.99,3.0,C,2,similar colour p-l; companion has large p and pm
+150925+113851,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",227.35556,11.647604,2,19.37,2.5,C,2,similar colour p-l; includes SDSS star; only one component has Gaia p and pm; negligible values
+151044-074043,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",227.684808,-7.678621,2,18.27,2.5,C,2,similar colour p-l; companion has large pm
+151205+182706,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",228.018788,18.451666,2,17.76,2.5,C,2,similar colour p-l; companion has large pm
+151237+553901,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",228.15381,55.650295,2,19.01,1.9,C,2,similar colour p-l; includes SDSS z=1.363 QSO; SQLS QSO + star
+151527-203609,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",228.862483,-20.602366,2,17.84,2.9,C,2,p-l; companion has large pm
+151832+343325,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",229.632917,34.557016,2,18.87,3.0,C,2,similar colour p-l; includes SDSS z=1.672 QSO; SQLS candidate; companion has large pm
+151858-022443,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",229.74139,-2.411924,3,16.9,3.3,B,2,p-l; inner component has large pm; the other two have negligible AEN; p and pm
+151918+094205,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",229.826754,9.701277,2,18.11,3.7,C,2,similar colour p-l; companion has large pm
+152005+195038,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",230.021454,19.843884,3,18.73,1.4,C,2,similar colour; a single companion has Gaia data (only AEN; large)
+152050+263741,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",230.209019,26.627994,2,18.93,2.1,C,2,p-l; includes SDSS z=1.365 QSO; SQLS candidate candidate; companion has large p and pm
+152444+054628,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",231.182118,5.77438,2,17.68,3.7,C,2,similar colour p-l; includes SDSS z=1.445 QSO; SQLS candidate; companion has large pm
+153223-291257,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",233.094882,-29.215933,2,19.05,1.8,C,2,similar colour p-l; companion has large pm
+153311-001509,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",233.296204,-0.252541,3,19.49,4.0,C,2,similar colours; only one; outer component has Gaia data; large pm; the others are galaxies
+153510+082347,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",233.79015,8.396438,2,18.77,2.5,C,2,p-l; third component? includes SDSS z=1.953 QSO; SQLS candidate; companion has large pm
+154226-023456,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",235.610402,-2.582135,2,18.74,3.1,C,2,similar colour p-l; companion has large pm
+154726-153237,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",236.857051,-15.543614,2,17.96,2.7,C,2,similar colour p-l; companion has large pm
+160138+172852,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",240.407737,17.48102,3,17.80,5.6,C,2,similar colour p-l (one component has large pm) + red inner components (large pm); includes SDSS z=2.239 QSO
+160927+175431,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",242.361547,17.90869,2,17.67,2.6,C,2,similar colour p-l; includes SDSS z=1.993 QSO; SQLS candidate; companion has large pm
+161008+234837,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",242.533565,23.810394,2,19.14,3.0,C,2,similar colour p-l; companion has large pm
+161657-170647,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",244.235836,-17.113065,2,18.12,2.6,C,2,similar colour p-l; companion has large pm
+161722-230546,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",244.340087,-23.096165,2,18.80,1.8,C,2,similar colour p-l; QSO + star (Lemon et al. 2018)
+161841+301311,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",244.669946,30.2196,2,17.61,2.5,B,2,similar colour p-l; includes SDSS z=1.403 QSO; companion has large pm
+161931+162123,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",244.878602,16.356363,2,19.08,2.6,C,2,similar colour p-l; includes SDSS z=2.455 QSO; companion has large pm
+162417+064152,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",246.070533,6.697785,2,18.44,2.4,C,2,similar colour p-l; companion has large pm
+163113-171407,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",247.804331,-17.235305,2,17.59,3.0,C,2,similar colour p-l; companion has large pm
+163533+205229,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",248.886788,20.87476,2,18.49,2.1,C,2,similar colour p-l; companion has large pm
+163614+094317,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",249.056552,9.721352,2,19.21,2.2,C,2,similar colour p-l; companion has large pm
+163959-210652,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",249.995488,-21.114331,2,18.84,1.7,C,2,similar colour p-l; companion has large pm
+164304+754120,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",250.765894,75.688987,2,18.08,3.5,C,2,similar colour p-l; companion has large pm
+164552+152025,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",251.465796,15.340377,2,19.04,2.2,B,2,similar colour p-l; companion has large pm
+170002+250336,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",255.009344,25.060094,3,18.50,4.7,C,2,similar colour p-l; 2 components have large pm
+170024+005815,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",255.099997,0.970862,2,16.44,1.6,C,2,similar colour p-l; companion has large pm
+170514+331637,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",256.307089,33.276899,2,18.98,2.2,C,2,similar colour p-l; includes SDSS z=2.224 QSO; companion has large pm
+170516+251533,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",256.316261,25.259123,2,18.34,2.1,C,2,similar colour p-l; companion has large pm
+170602+270515,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",256.509411,27.087583,2,17.31,2.3,C,2,similar colour; one component has large pm; the other one large AEN
+170817+325311,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",257.072403,32.886393,2,18.38,2.1,C,2,similar colour p-l; companion has large AEN and pm
+170858-030510,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",257.240718,-3.086224,2,17.60,2.5,C,2,p-l; companion has large pm
+170943+334304,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",257.427474,33.717724,2,19.13,3.3,C,2,similar colour p-l; both have large pm
+171102+292951,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",257.757094,29.497482,2,17.92,2.2,C,2,similar colour p-l; includes SDSS z=1.329 QSO; SQLS candidate; companion has large pm; no lensing object
+172634+530300,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",261.639624,53.050095,2,18.76,1.3,C,2,similar colour p-l; includes white dwarf (Kleinman et al. 2013)
+173152+743615,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",262.968365,74.604272,3,16.60,5.9,C,2,p-l (one has large p and pm) + red inner component
+173316+084954,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",263.31709,8.831643,2,17.78,2.4,C,2,similar colour p-l; companion has large pm
+173509+094022,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",263.787393,9.672832,2,17.07,2.4,C,2,similar colour p-l; companion has large pm
+173703+271724,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",264.262899,27.290003,2,18.37,2.5,C,2,p-l; companion has large pm
+173820+041756,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",264.581302,4.298981,2,18.88,2.0,C,2,similar colour p-l; companion has large pm
+173905+120306,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",264.77013,12.051664,2,17.77,2.8,C,2,similar colour p-l; companion has large pm
+173915+112257,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",264.813269,11.382484,2,18.84,3.4,C,2,similar colour p-l; companion has large pm
+174006+221101,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",265.024352,22.183576,2,17.45,1.8,C,2,similar colour p-l; includes z=1.406 QSO (Healey et al. 2008); companion has large pm
+174154+333616,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",265.474939,33.604416,3,16.54,8.5,C,2,p-l; outer components have large p and pm
+174213+402717,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",265.55245,40.454758,2,18.30,3.1,C,2,similar colour p-l; companion has large pm
+175243+093822,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",268.179389,9.639313,2,18.29,2.6,C,2,similar colour p-l; companion has large pm
+175826+191732,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",269.608868,19.292361,2,17.57,2.5,C,2,similar colour p-l; companion has large pm
+180257+244143,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",270.737205,24.695406,3,17.27,4.3,C,2,similar colour p-l (one companion has large pm) + red central component
+180901+160103,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",272.254121,16.017515,2,18.59,3.1,C,2,similar colour p-l; companion has large pm
+181045+742546,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",272.686785,74.429515,2,18.39,2.0,C,2,similar colour p-l; companion has large pm
+181400+705410,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",273.499637,70.902881,2,17.69,2.4,C,2,similar colour p-l; companion has large pm
+182159+275657,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",275.494183,27.949111,2,18.43,2.4,C,2,similar colour p-l; companion has large pm
+182301+500140,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",275.753046,50.027664,2,17.91,2.0,C,2,p-l; companion has large pm
+183204+491637,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",278.015957,49.276889,2,18.06,1.9,C,2,similar colour p-l; companion has large pm
+183852+520350,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",279.718445,52.063814,2,18.13,3.1,C,2,p-l; companion has large pm
+183916+454103,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",279.818168,45.684238,2,18.70,3.0,C,2,similar colour p-l; 4C 45.38; z=0.958 QSO; companion has large pm
+184256+442102,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",280.733259,44.350567,2,18.33,3.1,C,2,similar colour p-l; companion has large pm
+185008+441126,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",282.533367,44.190435,2,17.64,2.7,C,2,similar colour p-l; companion has large pm
+185824+475553,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",284.600174,47.931329,3,18.54,3.6,B,2,p-l (one component has large pm); red inner component
+190003+522319,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",285.012245,52.388677,3,18.18,2.8,C,2,similar colour p-l (one component has large pm) + red inner component
+190433+575031,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",286.139132,57.841829,2,19.00,3.2,C,2,similar colour p-l; companion has large pm
+192457+492126,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",291.239533,49.357218,2,18.71,2.8,C,2,similar colour p-l; companion has large pm
+195629-064134,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",299.121219,-6.692813,2,19.12,1.6,C,2,similar colour p-l; companion has large pm
+200550-030100,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",301.456704,-3.016733,2,18.49,3.7,C,2,similar colour p-l; companion has large pm
+201810-022908,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",304.540147,-2.485511,2,18.25,1.8,C,2,similar colour p-l; companion has large pm
+202339-290706,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",305.91091,-29.1182,2,17.93,2.0,C,2,similar colour p-l; companion has large pm
+203106-122005,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",307.776472,-12.334677,3,17.59,3.1,C,2,similar colour p-l (one component has large pm) + red companion
+204541+122718,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",311.419538,12.454995,2,17.86,3.0,C,2,similar colour p-l; companion has large pm
+204628-120049,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",311.615311,-12.01355,2,19.12,1.9,C,2,similar colour p-l; companion has large pm
+210519+161334,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",316.330544,16.226221,2,18.71,1.7,C,2,similar colour p-l; companion has large pm
+210820+122340,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",317.08394,12.394343,2,17.89,1.8,C,2,similar colour p-l; one component has large p
+211017+050707,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",317.571284,5.118593,2,18.60,2.8,C,2,similar colour p-l; companion has large pm
+211945+153713,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",319.938477,15.620234,2,17.58,2.9,C,2,similar colour p-l; companion has large pm
+212753+085302,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",321.972353,8.883872,2,18.50,2.2,C,2,similar colour p-l; companion has large pm
+213147-030935,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",322.946983,-3.159735,3,18.52,6.9,C,2,similar colour p-l (one has large pm) + extended inner component
+213707+124621,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",324.279402,12.772593,2,18.67,1.8,C,2,similar colour p-l; BL Lac (D'Abrusco et al. 2014); companion has large pm
+214102+265252,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",325.257922,26.881249,2,17.78,2.8,C,2,p-l; companion has large pm
+214210+255233,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",325.543115,25.875914,2,16.95,2.4,C,2,similar colour p-l; companion has large pm
+214248+290427,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",325.698926,29.074187,2,17.38,3.6,C,2,similar colour p-l; X-ray source (D'Abrusco et al. 2014); companion has large p and pm
+214605+264507,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",326.52051,26.75202,2,19.2,2.3,C,2,similar colour p-l; companion has large pm
+215502+190303,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",328.756839,19.050739,2,16.86,2.1,B,2,similar colour p-l; QSO+star (NTT run 0100.A-0297(A); PI. T. Anguita)
+220822-142722,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",332.093734,-14.455987,2,17.25,2.1,C,2,similar colour p-l; companion has large p and pm
+222238+354225,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",335.656449,35.707081,2,18.30,2.1,C,2,similar colour p-l; companion has large pm
+222611-282413,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",336.547769,-28.403508,2,19.18,2.7,C,2,similar colour p-l; includes z=0.016 galaxy (Maddox et al. 1990); companion has large pm
+223604+221604,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",339.015242,22.267863,2,17.98,3.1,C,2,similar colour p-l; companion has large pm
+223713+245120,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",339.304497,24.85563,2,18.26,1.7,B,2,similar brightness p-l; companion has large pm
+223831+140027,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",339.629583,14.007554,2,19.50,3.1,B,2,similar colour p-l + extended? HS 2236+1344 (blue compact galaxy); both have large AEN; no other Gaia data
+230258-281314,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",345.740301,-28.220566,2,18.24,1.7,C,2,similar colour p-l; QSO+star (Lemon et al. 2018)
+231209+203543,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",348.036702,20.595139,2,19.16,3.1,C,2,p-l +extended; companion has large pm
+231313+194722,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",348.302961,19.7895,2,17.63,3.2,C,2,similar colour p-l; companion has large pm
+231445+303530,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",348.687176,30.591695,2,17.20,3.0,C,2,p-l; companion has large p and pm
+232837+435308,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",352.152836,43.885431,2,17.33,2.1,B,2,p-l; companion has large pm
+233611-093523,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",354.043989,-9.589647,2,15.63,4.1,C,2,similar colour p-l; companion has large p and pm
+233700+180520,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",354.249022,18.088753,2,17.63,3.7,C,2,p-l; companion has large pm
+234155+132902,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",355.480568,13.483904,2,18.82,3.2,C,2,similar colour p-l; includes SDSS z=0.729 QSO; companion has large pm
+235351-053956,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",358.462667,-5.665505,3,16.5,6.2,B,2,similar colour p-l (companion has large p and pm) +red inner component; QSO+star (Williams et al. 2017)

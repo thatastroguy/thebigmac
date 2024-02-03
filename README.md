@@ -1,7 +1,7 @@
-# The Washington Multi-AGN Catalog (WMAGN)
+# The Big Multi-AGN Catalog (Big MAC)
 
 Author: Ryan W. Pfeifle<sup>1</sup> <br />
-Contributor(s): Kimberly Weaver<sup>1</sup>, Nathan Secrest<sup>2</sup>
+Contributor(s): Kimberly Weaver<sup>1</sup>, Nathan Secrest<sup>2</sup>, Barry Rothberg<sup>2</sup>
 <br />
 <sup>1</sup> X-ray Astrophysics Laboratory, NASA Goddard Space Flight Center (GSFC)<br />
 <sup>2</sup> United States Naval Observatory (USNO)<br />
@@ -11,7 +11,7 @@ Git Repo Creation Date: 23 July 2022 <br />
 First 'official' update to README.md (here): 28 March 2023 <br />
 Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 2020 <br />
 Additional changes and additions occurred during the period (not tracked by Git): November 2020 - March 2023 <br />
-Last Revision Date: 28 March 2023
+Last Revision Date: 29 December 2023
 
 # WARNING: This repository is public but you are viewing the BETA version of this catalog! Proceed with EXTREME caution prior to the formal data release 1!
 
@@ -25,7 +25,7 @@ This catalog should be exhaustive, so include not only confirmed systems but als
 
 **_DR0.1 consists of work done during the period June 2020 - October 2020 and was only an internal release at USNO._**
 
-## WMAGN catalog columns: <br />
+## Big MAC catalog columns: <br />
 - System type (Ex: Dual/triple AGN, binary AGN, or gravitational lens)
 - Discovery method (e.g., multiple X-ray/radio components, spectroscopic, astrometric, etc.)
 - Confirmation method (if available)

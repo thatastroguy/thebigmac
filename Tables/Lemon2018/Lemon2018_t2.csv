@@ -1,14 +1,14 @@
-Name,RA,Dec,z,Sep_as,Selection,Gaia_G1,Gaia_G2
-J0127-1441,21.78539,-14.68861,1.76,2.96,D+WISE,20.15,20.50
-J0139+3526,24.88888,35.43658,0.65,2.22,D+WISE,19.46,19.65
-J0140+4107,25.20420,41.13331,2.50,1.44,S+WISE,17.54,
-J0723+4739,110.93660,47.65259,-99,-99,S+WISE,19.60,
-J0740+2926,115.05603,29.44677,0.98,2.59,D+GMM/WISE,18.20,19.64
-J0812+3349,123.22844,33.83062,1.49,1.99,S+GMM,19.75,
-J1139+4143,174.94610,41.73088,2.23,2.30,D+GMM/WISE,19.46,19.62
-J1540+4445,235.10759,44.75457,0.61,2.74,D+GMM/WISE,19.73,20.37
-J1551+3157,237.77584,31.95027,-99,-99,S+GMM/WISE,20.48,
-J1821+6005,275.37642,60.09062,2.05,1.48,S+WISE,19.96
-J2032-2358,308.15741,-23.97291,1.64,1.91,D+WISE,19.04,19.17
-J2057+0217,314.46696,2.29683,1.52,1.06,D+GMM/WISE,20.06,20.10
-J2327+2238,351.75343,22.63698,0.53,0.55,D+GMM/WISE,20.68,20.75
+Name,RA,Dec,z,Sep_as,Selection,Selection Method,Confirmation Method,Gaia_G1,Gaia_G2
+J0127-1441,21.78539,-14.68861,1.76,2.96,D+WISE,Mid-IR Colors / Optical Imaging / Mid-IR Imaging,Optical Spectroscopy,20.15,20.50
+J0139+3526,24.88888,35.43658,0.65,2.22,D+WISE,Mid-IR Colors / Optical Imaging / Mid-IR Imaging,Optical Spectroscopy,19.46,19.65
+J0140+4107,25.20420,41.13331,2.50,1.44,S+WISE,Mid-IR Colors / Optical Imaging / Mid-IR Imaging,Optical Spectroscopy,17.54,
+J0723+4739,110.93660,47.65259,-99,-99,S+WISE,Mid-IR Colors / Optical Imaging / Mid-IR Imaging,Optical Spectroscopy,19.60,
+J0740+2926,115.05603,29.44677,0.98,2.59,D+GMM/WISE,Optical Imaging / Optical Colors / Optical-Mid-IR Colors / Mid-IR Colors / Mid-IR Imaging,Optical Spectroscopy,18.20,19.64
+J0812+3349,123.22844,33.83062,1.49,1.99,S+GMM,Optical Imaging / Optical Colors / Optical-Mid-IR Colors,Optical Spectroscopy,19.75,
+J1139+4143,174.94610,41.73088,2.23,2.30,D+GMM/WISE,Optical Imaging / Optical Colors / Optical-Mid-IR Colors / Mid-IR Colors / Mid-IR Imaging,Optical Spectroscopy,19.46,19.62
+J1540+4445,235.10759,44.75457,0.61,2.74,D+GMM/WISE,Optical Imaging / Optical Colors / Optical-Mid-IR Colors / Mid-IR Colors / Mid-IR Imaging,Optical Spectroscopy,19.73,20.37
+J1551+3157,237.77584,31.95027,-99,-99,S+GMM/WISE,Optical Imaging / Optical Colors / Optical-Mid-IR Colors / Mid-IR Colors / Mid-IR Imaging,Optical Spectroscopy,20.48,
+J1821+6005,275.37642,60.09062,2.05,1.48,S+WISE,Mid-IR Colors / Optical Imaging / Mid-IR Imaging,Optical Spectroscopy,19.96
+J2032-2358,308.15741,-23.97291,1.64,1.91,D+WISE,Mid-IR Colors / Optical Imaging / Mid-IR Imaging,Optical Spectroscopy,19.04,19.17
+J2057+0217,314.46696,2.29683,1.52,1.06,D+GMM/WISE,Optical Imaging / Optical Colors / Optical-Mid-IR Colors / Mid-IR Colors / Mid-IR Imaging,Optical Spectroscopy,20.06,20.10
+J2327+2238,351.75343,22.63698,0.53,0.55,D+GMM/WISE,Optical Imaging / Optical Colors / Optical-Mid-IR Colors / Mid-IR Colors / Mid-IR Imaging,Optical Spectroscopy,20.68,20.75

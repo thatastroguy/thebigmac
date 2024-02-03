@@ -1,16 +1,16 @@
-Name,z1,imag,theta,Com,z2
-SDSSJ092718.37+211357.4,1.845,17.24,2.36,no lensing object,-99
-SDSSJ095511.67+194112.2,1.362,17.87,0.97,no lensing object,-99
-SDSSJ095636.42+690028.3,1.975,17.60,0.77,no lensing object,-99
-SDSSJ112235.03+232634.9,1.249,19.03,0.70,separation 0.7 arcsec,-99
-SDSSJ114019.74+205853.4,1.789,17.85,3.21,no lensing object,-99
-SDSSJ124257.32+254303.0,0.827,18.71,2.77,QSO pair (z = 0.827 0.824),0.824
-SDSSJ132559.51+144110.3,1.102,18.71,0.62,no lensing object,-99
-SDSSJ132752.04+103627.2,1.895,18.68,0.54,no lensing object,-99
-SDSSJ133243.66+343300.5,1.925,19.08,1.16,no lensing object,-99
-SDSSJ140901.87+294633.6,1.583,18.54,0.95,no lensing object,-99
-SDSSJ141737.89+293510.0,0.835,18.55,0.63,no lensing object,-99
-SDSSJ142341.94+204001.5,0.842,18.97,1.06,QSO pair (z = 0.842 0.842),0.842
-SDSSJ155259.18+230104.9,1.357,17.71,0.83,no lensing object,-99
-SDSSJ161320.01+170839.2,1.549,18.67,0.78,no lensing object,-99
-SDSSJ161848.15+171459.4,1.247,19.04,1.15,no lensing object,-99
+Name,z1,Selection Method,Confirmation Method,imag,theta,Com,z2
+SDSSJ092718.37+211357.4,1.845,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,17.24,2.36,no lensing object,-99
+SDSSJ095511.67+194112.2,1.362,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,17.87,0.97,no lensing object,-99
+SDSSJ095636.42+690028.3,1.975,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,17.60,0.77,no lensing object,-99
+SDSSJ112235.03+232634.9,1.249,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,19.03,0.70,separation 0.7 arcsec,-99
+SDSSJ114019.74+205853.4,1.789,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,17.85,3.21,no lensing object,-99
+SDSSJ124257.32+254303.0,0.827,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,18.71,2.77,QSO pair (z = 0.827 0.824),0.824
+SDSSJ132559.51+144110.3,1.102,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,18.71,0.62,no lensing object,-99
+SDSSJ132752.04+103627.2,1.895,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,18.68,0.54,no lensing object,-99
+SDSSJ133243.66+343300.5,1.925,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,19.08,1.16,no lensing object,-99
+SDSSJ140901.87+294633.6,1.583,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,18.54,0.95,no lensing object,-99
+SDSSJ141737.89+293510.0,0.835,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,18.55,0.63,no lensing object,-99
+SDSSJ142341.94+204001.5,0.842,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,18.97,1.06,QSO pair (z = 0.842 0.842),0.842
+SDSSJ155259.18+230104.9,1.357,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,17.71,0.83,no lensing object,-99
+SDSSJ161320.01+170839.2,1.549,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,18.67,0.78,no lensing object,-99
+SDSSJ161848.15+171459.4,1.247,Fiber Optical Spectroscopy / Optical Spectroscopy / Optical Imaging,,19.04,1.15,no lensing object,-99

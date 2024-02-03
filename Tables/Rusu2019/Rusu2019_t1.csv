@@ -1,92 +1,92 @@
-Name,RAdeg,DEdeg,Num_comp,i_mag,Sep(as),Rank,Gmag1,Gmag2,Gmag3,Notes
-000815-043634,2.061059,-4.609377,2,18.57,2.4,C,18.82,20.09,,similar colour p-l; both components negligible AEN; p; and pm 
-003309-120520,8.287252,-12.088925,3,18.10,6.8,C,18.93,20.38,,p-l (both negligible AEN; pm; and p) + red inner component
-004106+032726,10.273022,3.457205,2,18.43,2.4,C,18.91,20.36,,p-l; includes SDSS z=1.282 QSO; both negligible AEN; pm; and p
-004518+405433,11.325876,40.909217,2,18.69,3.1,C,19.32,18.85,,similar colour p-l; includes z=1.228 QSO (Huo et al. 2013); both negligible AEN; pm; and p
-012221+291431,20.587958,29.242069,2,18.30,2.4,C,18.41,20.72,,similar colour p-l; one component negligible AEN; pm; and p; companion has no Gaia pm and p 
-012256+783855,20.733302,78.648546,2,18.43,2.0,C,18.94,18.99,,similar colour p-l; both negligible AEN; pm; and p
-012648+411136,21.698143,41.193204,2,19.13,3.1,C,19.26,20.15,,similar colour p-l; both negligible AEN; pm; and p
-013021+072516,22.585897,7.421231,2,18.80,2.0,C,18.98,19.65,,p-l; one component negligible AEN; pm; and p; companion has no Gaia pm and p
-014114-062740,25.307825,-6.461006,2,19.05,2.4,C,20.79,,,similar colour p-l; only one has Gaia data; negligible AEN; pm; and p 
-014455+271137,26.230638,27.193616,2,19.01,1.9,C,19.53,19.63,,similar colour p-l; both negligible AEN; pm; and p
-014912+422843,27.299792,42.478624,2,17.85,2.8,C,17.99,18.82,,similar colour p-l; both AEN; negligible pm and p 
-015417+433319,28.571648,43.555321,2,18.05,2.7,C,18.92,18.28,,similar colour p-l; both negligible AEN; pm; and p
-022205-234144,35.521817,-23.69567,2,18.99,2.1,C,18.96,20.45,,similar colour p-l; both negligible AEN; pm; and p
-022958+032031,37.492401,3.341935,2,18.02,2.1,C,18.15,18.79,,similar colour p-l; both negligible AEN; pm; and p
-024245-100257,40.688737,-10.049076,2,18.43,2.4,C,18.73,19.50,,similar colour p-l; both negligible AEN; pm; and p
-024950+260651,42.459532,26.114096,2,18.56,3.2,C,18.81,20.15,,similar colour p-l; both negligible AEN; pm; and p
-042022-101932,65.092136,-10.325513,2,18.54,3.2,B,,,,extended + p-l; no Gaia data
-045048-280957,72.701208,-28.165922,2,18.95,5.0,C,18.87,19.07,,similar colour p-l; both negligible AEN; pm; and p
-051623-043755,79.096146,-4.631812,2,18.20,3.0,C,18.48,18.47,,p-l; both negligible AEN; pm; and p 
-052026-045245,80.10733,-4.879078,2,19.30,2.4,C,19.57,19.65,,similar colour p-l; both negligible AEN; pm; and p
-052902-032948,82.260144,-3.496646,2,19.27,1.4,C,19.84,20.37,,similar colour p-l; both negligible AEN; pm; and p
-061215-193928,93.063509,-19.657707,2,17.49,2.2,C,18.26,20.34,,similar colour p-l (both negligible AEN; pm; and p) + red companion; included in the Delchambre et al. (2019) Gaia clusters catalogue 
-063019-264851,97.580318,-26.814116,3,18.58,3.4,C,18.99,19.05,19.54,p-l; all have negligible AEN; pm; and p; included in the Delchambre et al. (2019) Gaia clusters catalogue 
-064505+505755,101.269368,50.965199,2,18.84,3.0,C,19.56,19.14,,similar colour p-l; both negligible AEN; pm; and p
-064519+380712,101.327789,38.119957,2,17.3,2.4,B,18.50,17.63,,similar colour p-l; both negligible pm and p
-070249+530654,105.704772,53.114994,2,19.05,2.5,C,19.05,19.65,,p-l; both negligible AEN; pm; and p 
-073017+152842,112.570702,15.4782,2,18.52,2.2,C,19.40,18.78,,similar colour p-l; both negligible AEN; pm; and p
-081357+103304,123.486422,10.551007,2,18.62,2.7,C,18.97,18.70,,similar colour p-l; includes SDSS z=0.799 QSO; SQLS candidate; both negligible AEN; pm; and p 
-081806+524732,124.523269,52.792161,2,17.66,3.3,C,18.96,17.82,,similar colour p-l; includes SDSS z=1.793 QSO; SQLS candidate; both negligible AEN; pm; and p 
-085254-014850,133.223992,-1.813836,2,18.56,3.2,C,18.51,19.94,,similar colour p-l; both have negligible AEN; pm; and p 
-090611-093755,136.545112,-9.632052,2,18.76,2.8,C,18.86,19.66,,similar colour p-l; both have negligible AEN; pm; and p 
-091724-054200,139.348239,-5.700061,2,18.80,2.6,C,18.87,19.21,,similar colour p-l; both have negligible AEN; pm; and p 
-092823+213853,142.096969,21.647987,2,18.84,2.6,C,19.05,19.14,,similar colour p-l; both have negligible AEN; pm; and p 
-094450+243459,146.208841,24.582929,2,19.08,2.4,C,19.84,20.98,,p-l; only one component has Gaia pm and p; negligible values
-095324+570319,148.351564,57.055364,2,18.70,2.6,C,19.33,18.90,,similar colour; includes SDSS z=0.619 QSO; SQLS candidate; no lensing object; both have negligible AEN; pm; and p 
-100406+523132,151.025821,52.525602,2,19.45,2.3,C,,,,similar colour p-l; no Gaia data
-100809-044923,152.038129,-4.823158,2,18.56,2.9,C,18.61,20.14,,p-l; only one component has Gaia pm and p; negligible values
-110928-233315,167.366219,-23.554197,2,19.13,2.3,C,19.47,20.59,,similar colour; both have negligible AEN; pm; and p 
-111524-030727,168.850362,-3.124282,2,18.78,2.6,C,20.12,19.06,,similar colour p-l; both have negligible AEN; pm; and p 
-112145+011422,170.436445,1.239436,2,19.17,1.5,C,19.35,19.81,,similar colour p-l; includes SDSS z=1.292 QSO; companion has no Gaia p and pm 
-112456-230507,171.233583,-23.085325,2,19.10,1.8,C,19.48,19.51,,similar colour p-l; both have negligible AEN; pm; and p 
-113800+073004,174.495987,7.501138,2,18.25,2.8,C,18.39,19.40,,similar colour p-l; includes SDSS z=1.209 QSO; SQLS candidate; no Gaia p and pm 
-115458+185527,178.740065,18.924205,3,18.83,2.7,C,18.88,20.31,,similar colour p-l (both have negligible AEN; pm; and p) + red component
-121410+333703,183.540724,33.617445,3,18.91,2.5,B,19.14,20.41,,similar colour p-l (one component has Gaia data; negligible AEN; pm; and p) + red component; includes SDSS z=1.774 QSO; SQLS candidate
-121410+292445,183.541535,29.412494,2,19.47,1.5,C,19.81,,,similar colour p-l; only one component has Gaia data; negligible AEN; pm; and p 
-121710-025622,184.290272,-2.939367,2,19.08,1.7,C,19.68,,,similar colour p-l; includes SDSS z=1.465 QSO (Croom et al. 2001); companion has no Gaia data 
-121756-181837,184.481806,-18.310394,2,19.42,2.5,C,19.44,20.45,,p-l; both have negligible AEN; pm; and p
-130451-102826,196.211716,-10.473908,2,19.00,2.2,C,19.28,20.14,,p-l; both have negligible AEN; pm; and p
-130602+210549,196.510055,21.09696,2,18.01,2.1,C,,,,third red component; no Gaia data 
-132202+030933,200.508342,3.159175,2,19.33,2.7,C,19.32,,,similar colour; includes SDSS z=0.961 QSO; SQLS candidate; companion has no Gaia data 
-135425-094103,208.60498,-9.684109,2,19.05,2.1,C,19.77,,,similar colour p-l; only one component has Gaia data; negligible values of AEN; pm; and p 
-141855+244107,214.731082,24.685389,2,18.88,4.5,C,19.06,20.60,,similar colour p-l; includes SDSS z=0.573 QSO; (Williams et al. 2017) candidate; companion has no Gaia data 
-142816+095443,217.065054,9.911986,2,18.63,1.8,C,18.55,19.67,,p-l; includes SDSS z=1.467 QSO; no lens object; both have negligible AEN; p; and pm 
-143125-044338,217.854924,-4.727349,2,19.30,2.3,C,19.30,20.10,,similar colour p-l; both have negligible AEN; p; and pm 
-143928-065828,219.867271,-6.974503,2,19.17,2.3,C,19.47,19.98,,similar colour p-l; both have negligible AEN; p; and pm 
-144446-163241,221.189796,-16.544779,2,18.59,2.0,C,19.34,18.95,,similar colour p-l; both have negligible AEN; p; and pm 
-145939+162155,224.914314,16.365409,2,18.67,3.5,C,18.88,20.27,,similar colour p-l; includes SDSS z=1.569 QSO; SQLS candidate; both have negligible AEN; p; and pm
-151545+004328,228.936742,0.724443,2,18.96,3.5,C,19.51,19.33,,similar colour p-l; both have negligible AEN; p; and pm 
-151546-032231,228.941104,-3.375202,2,19.31,2.3,C,19.53,20.23,,similar colour p-l; both have negligible AEN; p; and pm 
-152841+393229,232.169429,39.541466,2,19.46,1.9,C,19.61,20.35,,similar colour p-l; includes SDSS z=1.215 QSO; both have negligible AEN; p; and pm
-153808-192310,234.535305,-19.386104,2,19.29,2.8,C,19.54,20.43,,p-l; both have negligible AEN; p; and pm
-162900-140856,247.247099,-14.148889,2,18.55,2.4,C,19.76,19.00,,similar colour; both have negligible AEN; p; and pm 
-162903+372433,247.260887,37.409037,2,19.05,4.3,C,19.18,19.40,,similar colour p-l; includes SDSS z=0.926 QSO; no lensing object; both have negligible AEN; p; and pm; Williams et al. (2017) candidate 
-164556+402246,251.482344,40.379443,2,19.01,2.3,C,19.23,,,similar colour p-l; one component has negligible AEN; p; and pm; the other has no Gaia data 
-165831+141605,254.627587,14.268089,2,18.73,2.2,C,19.11,19.08,,similar colour p-l; both have negligible AEN; p; and pm 
-170402+115730,256.009503,11.958322,2,18.59,2.9,C,18.75,,,similar colour p-l; companion has no Gaia data
-172406+640711,261.027058,64.119668,2,18.16,2.4,C,18.35,20.35,,similar colour p-l; includes SDSS z=1.512 QSO; SQLS candidate; both have negligible AEN; p; and pm
-172751+194436,261.960528,19.743295,2,19.32,1.9,C,20.11,,,similar colour p-l; companion has negligible AEN; p; and pm; no Gaia data for main component
-175526+631504,268.857193,63.251051,2,19.28,2.2,C,19.66,19.74,,similar colour p-l; both components have negligible AEN; p; and pm
-175918+345928,269.825014,34.991208,2,19.09,2.3,C,19.21,19.64,,similar colour p-l; both components have negligible AEN; p; and pm
-183230+534914,278.123646,53.8206,2,19.13,3.0,C,19.58,20.15,,similar colour p-l; both components have negligible AEN; p; and pm
-184624+352002,281.599148,35.333764,2,19.33,2.4,C,19.29,19.76,,similar colour p-l; both components have negligible AEN; p; and pm
-192808+553219,292.032689,55.538539,2,18.05,2.7,C,19.00,18.32,,similar colour p-l; both components have negligible AEN; p; and pm
-195243-111715,298.179179,-11.28742,2,19.46,2.3,C,19.70,20.32,,similar colour p-l; both components have negligible AEN; p; and pm
-204258-273754,310.739743,-27.631602,2,19.15,2.3,C,19.14,20.47,,similar colour p-l; both components have negligible AEN; p; and pm
-205006-225929,312.523434,-22.991253,2,18.93,2.3,C,19.00,20.22,,similar colour p-l; both components have negligible AEN; p; and pm
-205143-111444,312.931008,-11.245566,3,18.95,3.2,A,19.66,19.93,20.74,p-l sources in quad-like configuration. Two components have negligible AEN; p; and pm; another has negligible AEN and no other Gaia data; the final one has no Gaia data
-212028+280324,320.116547,28.056796,2,18.65,2.9,C,18.78,19.41,,similar colour p-l; both components have negligible AEN; p; and pm
-213736+201517,324.398524,20.254669,2,19.29,1.6,C,19.64,19.66,,similar colour p-l; both components have negligible AEN; p; and pm
-214132+182621,325.382786,18.439197,2,18.97,2.4,C,18.96,19.65,,similar colour p-l; both components have negligible AEN; p; and pm
-214237+255423,325.654002,25.906285,2,18.81,2.9,B,18.76,,,similar colour p-l; only one component has Gaia data; negligible AEN; p; and pm 
-214315+075120,325.810482,7.855534,2,18.18,2.7,C,18.52,19.00,,similar colour p-l; both components have negligible AEN; p; and pm
-215034-265214,327.643528,-26.870639,2,16.95,1.8,C,,,,includes z=0.115 (lensing?) galaxy (Jones et al. 2009); no Gaia data
-215158+111102,327.99043,11.183861,2,18.77,2.6,C,19.06,19.74,,similar colour p-l; includes SDSS z=1.797 QSO; SQLS candidate; both have negligible AEN; p; and pm
-220943+043217,332.428196,4.538084,2,18.18,2.9,C,18.59,18.40,,similar colour p-l; both have negligible AEN; p; and pm 
-222108+214518,335.283056,21.754907,2,17.34,3.5,C,17.57,,,different colour p-l; only the main component has Gaia data; negligible AEN; p; and pm
-230339+345343,345.91142,34.89518,3,18.36,7.1,C,18.65,18.98,,similar colour p-l (both have negligible AEN; p; and pm) + inner red source 
-231813+025028,349.554123,2.841082,2,19.31,3.2,C,19.59,19.43,,similar colour p-l; both have negligible AEN; p; and pm 
-232223+375439,350.595174,37.910703,2,19.23,2.2,C,19.87,20.81,,p-l; both have negligible AEN; p; and pm
-232449-122555,351.205773,-12.432025,2,18.93,1.8,C,19.25,,,p-l; only one component has Gaiadata; negligible AEN; p; and pm 
-233525+184309,353.85286,18.71912,2,19.31,1.9,C,,,,red components; no Gaia data
+Name,Selection Method,Confirmation Method,RAdeg,DEdeg,Num_comp,i_mag,Sep(as),Rank,Gmag1,Gmag2,Gmag3,Notes
+000815-043634,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",2.061059,-4.609377,2,18.57,2.4,C,18.82,20.09,,similar colour p-l; both components negligible AEN; p; and pm 
+003309-120520,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",8.287252,-12.088925,3,18.10,6.8,C,18.93,20.38,,p-l (both negligible AEN; pm; and p) + red inner component
+004106+032726,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",10.273022,3.457205,2,18.43,2.4,C,18.91,20.36,,p-l; includes SDSS z=1.282 QSO; both negligible AEN; pm; and p
+004518+405433,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",11.325876,40.909217,2,18.69,3.1,C,19.32,18.85,,similar colour p-l; includes z=1.228 QSO (Huo et al. 2013); both negligible AEN; pm; and p
+012221+291431,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",20.587958,29.242069,2,18.30,2.4,C,18.41,20.72,,similar colour p-l; one component negligible AEN; pm; and p; companion has no Gaia pm and p 
+012256+783855,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",20.733302,78.648546,2,18.43,2.0,C,18.94,18.99,,similar colour p-l; both negligible AEN; pm; and p
+012648+411136,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",21.698143,41.193204,2,19.13,3.1,C,19.26,20.15,,similar colour p-l; both negligible AEN; pm; and p
+013021+072516,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",22.585897,7.421231,2,18.80,2.0,C,18.98,19.65,,p-l; one component negligible AEN; pm; and p; companion has no Gaia pm and p
+014114-062740,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",25.307825,-6.461006,2,19.05,2.4,C,20.79,,,similar colour p-l; only one has Gaia data; negligible AEN; pm; and p 
+014455+271137,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",26.230638,27.193616,2,19.01,1.9,C,19.53,19.63,,similar colour p-l; both negligible AEN; pm; and p
+014912+422843,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",27.299792,42.478624,2,17.85,2.8,C,17.99,18.82,,similar colour p-l; both AEN; negligible pm and p 
+015417+433319,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",28.571648,43.555321,2,18.05,2.7,C,18.92,18.28,,similar colour p-l; both negligible AEN; pm; and p
+022205-234144,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",35.521817,-23.69567,2,18.99,2.1,C,18.96,20.45,,similar colour p-l; both negligible AEN; pm; and p
+022958+032031,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",37.492401,3.341935,2,18.02,2.1,C,18.15,18.79,,similar colour p-l; both negligible AEN; pm; and p
+024245-100257,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",40.688737,-10.049076,2,18.43,2.4,C,18.73,19.50,,similar colour p-l; both negligible AEN; pm; and p
+024950+260651,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",42.459532,26.114096,2,18.56,3.2,C,18.81,20.15,,similar colour p-l; both negligible AEN; pm; and p
+042022-101932,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",65.092136,-10.325513,2,18.54,3.2,B,,,,extended + p-l; no Gaia data
+045048-280957,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",72.701208,-28.165922,2,18.95,5.0,C,18.87,19.07,,similar colour p-l; both negligible AEN; pm; and p
+051623-043755,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",79.096146,-4.631812,2,18.20,3.0,C,18.48,18.47,,p-l; both negligible AEN; pm; and p 
+052026-045245,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",80.10733,-4.879078,2,19.30,2.4,C,19.57,19.65,,similar colour p-l; both negligible AEN; pm; and p
+052902-032948,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",82.260144,-3.496646,2,19.27,1.4,C,19.84,20.37,,similar colour p-l; both negligible AEN; pm; and p
+061215-193928,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",93.063509,-19.657707,2,17.49,2.2,C,18.26,20.34,,similar colour p-l (both negligible AEN; pm; and p) + red companion; included in the Delchambre et al. (2019) Gaia clusters catalogue 
+063019-264851,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",97.580318,-26.814116,3,18.58,3.4,C,18.99,19.05,19.54,p-l; all have negligible AEN; pm; and p; included in the Delchambre et al. (2019) Gaia clusters catalogue 
+064505+505755,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",101.269368,50.965199,2,18.84,3.0,C,19.56,19.14,,similar colour p-l; both negligible AEN; pm; and p
+064519+380712,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",101.327789,38.119957,2,17.3,2.4,B,18.50,17.63,,similar colour p-l; both negligible pm and p
+070249+530654,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",105.704772,53.114994,2,19.05,2.5,C,19.05,19.65,,p-l; both negligible AEN; pm; and p 
+073017+152842,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",112.570702,15.4782,2,18.52,2.2,C,19.40,18.78,,similar colour p-l; both negligible AEN; pm; and p
+081357+103304,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",123.486422,10.551007,2,18.62,2.7,C,18.97,18.70,,similar colour p-l; includes SDSS z=0.799 QSO; SQLS candidate; both negligible AEN; pm; and p 
+081806+524732,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",124.523269,52.792161,2,17.66,3.3,C,18.96,17.82,,similar colour p-l; includes SDSS z=1.793 QSO; SQLS candidate; both negligible AEN; pm; and p 
+085254-014850,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",133.223992,-1.813836,2,18.56,3.2,C,18.51,19.94,,similar colour p-l; both have negligible AEN; pm; and p 
+090611-093755,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",136.545112,-9.632052,2,18.76,2.8,C,18.86,19.66,,similar colour p-l; both have negligible AEN; pm; and p 
+091724-054200,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",139.348239,-5.700061,2,18.80,2.6,C,18.87,19.21,,similar colour p-l; both have negligible AEN; pm; and p 
+092823+213853,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",142.096969,21.647987,2,18.84,2.6,C,19.05,19.14,,similar colour p-l; both have negligible AEN; pm; and p 
+094450+243459,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",146.208841,24.582929,2,19.08,2.4,C,19.84,20.98,,p-l; only one component has Gaia pm and p; negligible values
+095324+570319,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",148.351564,57.055364,2,18.70,2.6,C,19.33,18.90,,similar colour; includes SDSS z=0.619 QSO; SQLS candidate; no lensing object; both have negligible AEN; pm; and p 
+100406+523132,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",151.025821,52.525602,2,19.45,2.3,C,,,,similar colour p-l; no Gaia data
+100809-044923,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",152.038129,-4.823158,2,18.56,2.9,C,18.61,20.14,,p-l; only one component has Gaia pm and p; negligible values
+110928-233315,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",167.366219,-23.554197,2,19.13,2.3,C,19.47,20.59,,similar colour; both have negligible AEN; pm; and p 
+111524-030727,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",168.850362,-3.124282,2,18.78,2.6,C,20.12,19.06,,similar colour p-l; both have negligible AEN; pm; and p 
+112145+011422,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",170.436445,1.239436,2,19.17,1.5,C,19.35,19.81,,similar colour p-l; includes SDSS z=1.292 QSO; companion has no Gaia p and pm 
+112456-230507,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",171.233583,-23.085325,2,19.10,1.8,C,19.48,19.51,,similar colour p-l; both have negligible AEN; pm; and p 
+113800+073004,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",174.495987,7.501138,2,18.25,2.8,C,18.39,19.40,,similar colour p-l; includes SDSS z=1.209 QSO; SQLS candidate; no Gaia p and pm 
+115458+185527,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",178.740065,18.924205,3,18.83,2.7,C,18.88,20.31,,similar colour p-l (both have negligible AEN; pm; and p) + red component
+121410+333703,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",183.540724,33.617445,3,18.91,2.5,B,19.14,20.41,,similar colour p-l (one component has Gaia data; negligible AEN; pm; and p) + red component; includes SDSS z=1.774 QSO; SQLS candidate
+121410+292445,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",183.541535,29.412494,2,19.47,1.5,C,19.81,,,similar colour p-l; only one component has Gaia data; negligible AEN; pm; and p 
+121710-025622,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",184.290272,-2.939367,2,19.08,1.7,C,19.68,,,similar colour p-l; includes SDSS z=1.465 QSO (Croom et al. 2001); companion has no Gaia data 
+121756-181837,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",184.481806,-18.310394,2,19.42,2.5,C,19.44,20.45,,p-l; both have negligible AEN; pm; and p
+130451-102826,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",196.211716,-10.473908,2,19.00,2.2,C,19.28,20.14,,p-l; both have negligible AEN; pm; and p
+130602+210549,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",196.510055,21.09696,2,18.01,2.1,C,,,,third red component; no Gaia data 
+132202+030933,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",200.508342,3.159175,2,19.33,2.7,C,19.32,,,similar colour; includes SDSS z=0.961 QSO; SQLS candidate; companion has no Gaia data 
+135425-094103,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",208.60498,-9.684109,2,19.05,2.1,C,19.77,,,similar colour p-l; only one component has Gaia data; negligible values of AEN; pm; and p 
+141855+244107,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",214.731082,24.685389,2,18.88,4.5,C,19.06,20.60,,similar colour p-l; includes SDSS z=0.573 QSO; (Williams et al. 2017) candidate; companion has no Gaia data 
+142816+095443,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",217.065054,9.911986,2,18.63,1.8,C,18.55,19.67,,p-l; includes SDSS z=1.467 QSO; no lens object; both have negligible AEN; p; and pm 
+143125-044338,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",217.854924,-4.727349,2,19.30,2.3,C,19.30,20.10,,similar colour p-l; both have negligible AEN; p; and pm 
+143928-065828,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",219.867271,-6.974503,2,19.17,2.3,C,19.47,19.98,,similar colour p-l; both have negligible AEN; p; and pm 
+144446-163241,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",221.189796,-16.544779,2,18.59,2.0,C,19.34,18.95,,similar colour p-l; both have negligible AEN; p; and pm 
+145939+162155,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",224.914314,16.365409,2,18.67,3.5,C,18.88,20.27,,similar colour p-l; includes SDSS z=1.569 QSO; SQLS candidate; both have negligible AEN; p; and pm
+151545+004328,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",228.936742,0.724443,2,18.96,3.5,C,19.51,19.33,,similar colour p-l; both have negligible AEN; p; and pm 
+151546-032231,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",228.941104,-3.375202,2,19.31,2.3,C,19.53,20.23,,similar colour p-l; both have negligible AEN; p; and pm 
+152841+393229,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",232.169429,39.541466,2,19.46,1.9,C,19.61,20.35,,similar colour p-l; includes SDSS z=1.215 QSO; both have negligible AEN; p; and pm
+153808-192310,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",234.535305,-19.386104,2,19.29,2.8,C,19.54,20.43,,p-l; both have negligible AEN; p; and pm
+162900-140856,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",247.247099,-14.148889,2,18.55,2.4,C,19.76,19.00,,similar colour; both have negligible AEN; p; and pm 
+162903+372433,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",247.260887,37.409037,2,19.05,4.3,C,19.18,19.40,,similar colour p-l; includes SDSS z=0.926 QSO; no lensing object; both have negligible AEN; p; and pm; Williams et al. (2017) candidate 
+164556+402246,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",251.482344,40.379443,2,19.01,2.3,C,19.23,,,similar colour p-l; one component has negligible AEN; p; and pm; the other has no Gaia data 
+165831+141605,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",254.627587,14.268089,2,18.73,2.2,C,19.11,19.08,,similar colour p-l; both have negligible AEN; p; and pm 
+170402+115730,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",256.009503,11.958322,2,18.59,2.9,C,18.75,,,similar colour p-l; companion has no Gaia data
+172406+640711,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",261.027058,64.119668,2,18.16,2.4,C,18.35,20.35,,similar colour p-l; includes SDSS z=1.512 QSO; SQLS candidate; both have negligible AEN; p; and pm
+172751+194436,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",261.960528,19.743295,2,19.32,1.9,C,20.11,,,similar colour p-l; companion has negligible AEN; p; and pm; no Gaia data for main component
+175526+631504,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",268.857193,63.251051,2,19.28,2.2,C,19.66,19.74,,similar colour p-l; both components have negligible AEN; p; and pm
+175918+345928,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",269.825014,34.991208,2,19.09,2.3,C,19.21,19.64,,similar colour p-l; both components have negligible AEN; p; and pm
+183230+534914,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",278.123646,53.8206,2,19.13,3.0,C,19.58,20.15,,similar colour p-l; both components have negligible AEN; p; and pm
+184624+352002,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",281.599148,35.333764,2,19.33,2.4,C,19.29,19.76,,similar colour p-l; both components have negligible AEN; p; and pm
+192808+553219,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",292.032689,55.538539,2,18.05,2.7,C,19.00,18.32,,similar colour p-l; both components have negligible AEN; p; and pm
+195243-111715,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",298.179179,-11.28742,2,19.46,2.3,C,19.70,20.32,,similar colour p-l; both components have negligible AEN; p; and pm
+204258-273754,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",310.739743,-27.631602,2,19.15,2.3,C,19.14,20.47,,similar colour p-l; both components have negligible AEN; p; and pm
+205006-225929,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",312.523434,-22.991253,2,18.93,2.3,C,19.00,20.22,,similar colour p-l; both components have negligible AEN; p; and pm
+205143-111444,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",312.931008,-11.245566,3,18.95,3.2,A,19.66,19.93,20.74,p-l sources in quad-like configuration. Two components have negligible AEN; p; and pm; another has negligible AEN and no other Gaia data; the final one has no Gaia data
+212028+280324,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",320.116547,28.056796,2,18.65,2.9,C,18.78,19.41,,similar colour p-l; both components have negligible AEN; p; and pm
+213736+201517,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",324.398524,20.254669,2,19.29,1.6,C,19.64,19.66,,similar colour p-l; both components have negligible AEN; p; and pm
+214132+182621,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",325.382786,18.439197,2,18.97,2.4,C,18.96,19.65,,similar colour p-l; both components have negligible AEN; p; and pm
+214237+255423,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",325.654002,25.906285,2,18.81,2.9,B,18.76,,,similar colour p-l; only one component has Gaia data; negligible AEN; p; and pm 
+214315+075120,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",325.810482,7.855534,2,18.18,2.7,C,18.52,19.00,,similar colour p-l; both components have negligible AEN; p; and pm
+215034-265214,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",327.643528,-26.870639,2,16.95,1.8,C,,,,includes z=0.115 (lensing?) galaxy (Jones et al. 2009); no Gaia data
+215158+111102,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",327.99043,11.183861,2,18.77,2.6,C,19.06,19.74,,similar colour p-l; includes SDSS z=1.797 QSO; SQLS candidate; both have negligible AEN; p; and pm
+220943+043217,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",332.428196,4.538084,2,18.18,2.9,C,18.59,18.40,,similar colour p-l; both have negligible AEN; p; and pm 
+222108+214518,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",335.283056,21.754907,2,17.34,3.5,C,17.57,,,different colour p-l; only the main component has Gaia data; negligible AEN; p; and pm
+230339+345343,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",345.91142,34.89518,3,18.36,7.1,C,18.65,18.98,,similar colour p-l (both have negligible AEN; p; and pm) + inner red source 
+231813+025028,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",349.554123,2.841082,2,19.31,3.2,C,19.59,19.43,,similar colour p-l; both have negligible AEN; p; and pm 
+232223+375439,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",350.595174,37.910703,2,19.23,2.2,C,19.87,20.81,,p-l; both have negligible AEN; p; and pm
+232449-122555,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",351.205773,-12.432025,2,18.93,1.8,C,19.25,,,p-l; only one component has Gaiadata; negligible AEN; p; and pm 
+233525+184309,Mid-IR Colors / Optical Imaging / Optical Colors,"-99",353.85286,18.71912,2,19.31,1.9,C,,,,red components; no Gaia data
