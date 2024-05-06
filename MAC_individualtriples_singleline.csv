@@ -10,7 +10,7 @@ Triple AGN,1,"-99",-99,SDSS J0849+1114,J0849+1114 Gal 1,Mid-Infrared Selection /
 
 Triple AGN Candidate,0,Recoil AGN Candidate,0,SDSS J1056+5516,SDSS J1056+5516A,Optical Imaging / Optical Spectroscopy,,0.2564,spec,10:56:09.79,+55:16:04.0,J2000,Optical,SDSS,,,,SDSS J1056+5516B,0.2572,spec,10:56:09.48,+55:16:00.9,J2000,Optical,SDSS,,,,SDSS J1056+5516C,0.2566,spec,10:56:09.21,+55:16:04.2,J2000,Optical,SDSS,,,,4.0,,3.9,,4.5,,Kalfountzou+2017,2017ApJ...851L..15K,https://doi.org/10.3847/2041-8213/aa9b2d,
 
-Triple AGN,1,"-99",-99,QQQ J1519+0627,QQQ1519A,Optical Spectroscopy / Optical Fiber Spectroscopy,Follow-up Spectroscopy / Near-IR Imaging,1.504,spec,15:19:47.3,+06:27:53,J2000,Near-IR,Calar Alto,,,,QQQ1519B,1.513,spec,15:19:45.7,+06:27:52,J2000,Near-IR,Calar Alto,,,,QQQ1519C,1.506,spec,15:19:45.9,+06:27:49,J2000,Near-IR,Calar Alto,,,,23.5,,3.7,,21.1,,Farina+2013,2013MNRAS.431.1019F,https://doi.org/10.1093/mnras/stt209,
+Triple AGN Candidate,-1,Dual AGN Candidate,1,QQQ J1519+0627,QQQ1519A,Optical Spectroscopy / Optical Fiber Spectroscopy,Follow-up Spectroscopy / Near-IR Imaging,1.504,spec,15:19:47.3,+06:27:53,J2000,Near-IR,Calar Alto,,,,QQQ1519B,1.513,spec,15:19:45.7,+06:27:52,J2000,Near-IR,Calar Alto,,,,QQQ1519C,1.506,spec,15:19:45.9,+06:27:49,J2000,Near-IR,Calar Alto,,,,23.5,,3.7,,21.1,,Farina+2013,2013MNRAS.431.1019F,https://doi.org/10.1093/mnras/stt209,
 
 Triple AGN,1,"-99",-99,QQQ 1432-0106,QSO A,Follow-up Observations,Imaging / Spectroscopy,2.076,spec,14:32:29.232,-01:06:15.68,J2000,,,,,,QSO B,2.076,spec,14:32:28.9,-01:06:13,J2000,,,,,,QSO C,2.076,spec,14:32:29.2,-01:06:12,J2000,,,,,,5.11,,3.62,,4.29,,Djorgovski+2007,2007ApJ...662L...1D,https://doi.org/10.1086/519162,Brightnesses are nicely listed in the table and I will grab those later
 
