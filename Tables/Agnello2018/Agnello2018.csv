@@ -1,9 +1,9 @@
 Name,Selection Method,Confirmation Method,RA(J2000),Dec(J2000),mag_i,z1,class
-A1132-0730,Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,173.0309094,-7.51178122,18.31,1.99,NIQ
-A1112-0335,Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,168.1809603,-3.58591963,19.33,1.27,NIQ
-A0326-3122(Schecter2017),Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,51.5282775,-31.38157606,19.54,1.35,NIQ
-S1128+2402,Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,172.0770482,24.03819957,17.75,1.608,NIQ
-S0332-0021,Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,53.20211793,-0.3653620,19.32,1.71,QSO+QSO
-A1020-1002,Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,155.2275,-10.038888,18.14,2.03,NIQ
-A0008-3655,Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,2.1224251,-36.92309206,18.57,1.75,unclear
-A0054-3951,Optical Imaging / Optical Colors / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,13.53023503,-39.86433492,19.40,0.35,Uncertain
+A1132-0730,Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,173.0309094,-7.51178122,18.31,1.99,NIQ
+A1112-0335,Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,168.1809603,-3.58591963,19.33,1.27,NIQ
+A0326-3122(Schecter2017),Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,51.5282775,-31.38157606,19.54,1.35,NIQ
+S1128+2402,Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,172.0770482,24.03819957,17.75,1.608,NIQ
+S0332-0021,Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,53.20211793,-0.3653620,19.32,1.71,QSO+QSO
+A1020-1002,Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,155.2275,-10.038888,18.14,2.03,NIQ
+A0008-3655,Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,2.1224251,-36.92309206,18.57,1.75,unclear
+A0054-3951,Optical Imaging / Optical Colors / Mid-IR Imaging / Mid-IR Colors / Optical-Mid-IR Colors,Optical Spectroscopy / Long-Slit Optical Spectroscopy,13.53023503,-39.86433492,19.40,0.35,Uncertain
