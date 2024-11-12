@@ -1,27 +1,27 @@
 # The Big Multi-AGN Catalog (Big MAC)
 
 Author: Ryan W. Pfeifle<sup>1</sup> <br />
-Contributor(s): Kimberly Weaver<sup>1</sup>, Nathan Secrest<sup>2</sup>, Barry Rothberg<sup>2</sup>
+Contributor(s): Kimberly Weaver<sup>1</sup>, Nathan Secrest<sup>2</sup>, Barry Rothberg<sup>2</sup>, David Patton<sup>3</sup>
 <br />
 <sup>1</sup> X-ray Astrophysics Laboratory, NASA Goddard Space Flight Center (GSFC)<br />
 <sup>2</sup> United States Naval Observatory (USNO)<br />
+<sup>3</sup> Trent University<br />
 <br />
-Current Version: 0.5 <br />
+Current Version: 0.9 <br />
 Git Repo Creation Date: 23 July 2022 <br />
 First 'official' update to README.md (here): 28 March 2023 <br />
 Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 2020 <br />
 Additional changes and additions occurred during the period (not tracked by Git): November 2020 - March 2023 <br />
 Last Revision Date: 29 December 2023
 
-# WARNING: This repository is public but you are viewing the BETA version of this catalog! Proceed with EXTREME caution prior to the formal data release 1!
+# WARNING: This repository is public but we are currently rolling out the DR1 and making final adjustments to the release. For the time being, consider this version of the catalog a BETA release and proceed with caution!
 
 ## Catalog Content of the DR0.1 and DR0.5. (Larger update to the readme coming after DR0.5.)
-The purpose of this catalog is to have an exhaustive list of all known multiple AGNs from the literature. A multiple AGN is defined as the manifestation of two or more AGNs at some wavelength that are associated with each other due to some astrophysical process. This astrophysical process can be: <br />
-- Multiple AGNs in a galaxy interaction, merger, or post-merger <br />
-- Multiple AGNs that are gravitationally bound, e.g. binary AGNs <br />
-- The appearance of multiple AGNs due to gravitational lensing (e.g. an Einstein cross) <br />
+The purpose of this catalog is to have an exhaustive list of all known multiple AGNs from the literature. A multiple AGN (multi-AGN) is defined as the manifestation of two or more physically-associated AGNs in an interacting system of galaxies. This includes: <br />
+- Multiple AGNs on kpc- and sub-kpc-scales in a galaxy interaction, merger, or post-merger <br />
+- Multiple AGNs that are gravitationally bound, e.g. binary AGNs (separations <30 pc) <br />
 
-This catalog should be exhaustive, so include not only confirmed systems but also candidate systems. These systems should be everything that indicates or potentially indicates the presence or apparent presence of more than one AGN associated with a system (e.g. multiple X-ray/radio component, doubling of spectroscopic lines, astrometric jitter, etc.) However, note that gravitational lenses **_are not purposefully included in this catalog_**; this catalog is meant to encapsulate only multiple, but physically distinct, AGN systems, not systems comprising images of a single AGN.
+This catalog is designed to be exhaustive, including both all candidate and confirmed dual, binary, recoiling, and N-tuple AGN systems. These systems should be everything that indicates or potentially indicates the presence or apparent presence of more than one AGN associated with a system (e.g. multiple X-ray/radio component, doubling of spectroscopic lines, astrometric jitter, etc.) Note: gravitational lenses **_are not purposefully included in this catalog_**; this catalog is meant to encapsulate only multiple, but physically distinct, AGN systems, not systems comprising images of a single AGN.
 
 **_DR0.1 consists of work done during the period June 2020 - October 2020 and was only an internal release at USNO._**
 
@@ -54,9 +54,6 @@ This catalog should be exhaustive, so include not only confirmed systems but als
 
 
 # Release Notes
-
-## DR0.1.1
-Coming soon.
 
 
 ## DR0.1, DR0.15, and initial commits to this GitHub Repo
