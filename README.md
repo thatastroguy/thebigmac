@@ -16,6 +16,8 @@ Last Revision Date: 29 December 2023
 
 # WARNING: This repository is public but we are currently rolling out the DR1 and making final adjustments to the release. For the time being, consider this version of the catalog a BETA release and proceed with caution!
 
+## Do you have feedback or suggestions for the catalog and/or website? Please reach out to us!
+
 ## Catalog Content of the DR0.1 and DR0.5. (Larger update to the readme coming after DR0.5.)
 The purpose of this catalog is to have an exhaustive list of all known multiple AGNs from the literature. A multiple AGN (multi-AGN) is defined as the manifestation of two or more physically-associated AGNs in an interacting system of galaxies. This includes: <br />
 - Multiple AGNs on kpc- and sub-kpc-scales in a galaxy interaction, merger, or post-merger <br />
