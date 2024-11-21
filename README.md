@@ -14,9 +14,15 @@ Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 
 Additional changes and additions occurred during the period (not tracked by Git): November 2020 - March 2023 <br />
 Last Revision Date: 29 December 2023
 
-# WARNING: This repository is public but we are currently rolling out the DR1 and making final adjustments to the release. For the time being, consider this version of the catalog a BETA release and proceed with caution!
+GitHub Website: https://thatastroguy.github.io/thebigmac/index.html
+
+# WARNING: This repository is public but we are currently rolling out the DR1 and making final adjustments to the release. For the time being, the currently available version of the catalog is the "DR0.9"; consider this version of the catalog a beta release and proceed with caution!
 
 ## Do you have feedback or suggestions for the catalog and/or website? Please reach out to us!
+
+## Matched ICRF3 tables coming soon. Updates for full tables coming soon.
+
+## Interested in using Big MAC for your science? Looking to collaborate on Big MAC? Drop us an email!
 
 ## Catalog Content of the DR0.1 and DR0.5. (Larger update to the readme coming after DR0.5.)
 The purpose of this catalog is to have an exhaustive list of all known multiple AGNs from the literature. A multiple AGN (multi-AGN) is defined as the manifestation of two or more physically-associated AGNs in an interacting system of galaxies. This includes: <br />
