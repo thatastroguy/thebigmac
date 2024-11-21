@@ -1,0 +1,248 @@
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="text/html;charset=UTF-8" http-equiv="Content-type"/>
+  <style>
+body {font-family: sans-serif;}
+table.dataTable {width: auto !important; margin: 0 !important;}
+.dataTables_filter, .dataTables_paginate {float: left !important; margin-left:1em}
+  </style>
+  <link href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css" rel="stylesheet" type="text/css"/>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js">
+  </script>
+  <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js">
+  </script>
+ </head>
+ <body>
+  <script>
+var astropy_sort_num = function(a, b) {
+    var a_num = parseFloat(a);
+    var b_num = parseFloat(b);
+
+    if (isNaN(a_num) && isNaN(b_num))
+        return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+    else if (!isNaN(a_num) && !isNaN(b_num))
+        return ((a_num < b_num) ? -1 : ((a_num > b_num) ? 1 : 0));
+    else
+        return isNaN(a_num) ? -1 : 1;
+}
+
+jQuery.extend( jQuery.fn.dataTableExt.oSort, {
+    "optionalnum-asc": astropy_sort_num,
+    "optionalnum-desc": function (a,b) { return -astropy_sort_num(a, b); }
+});
+
+$(document).ready(function() {
+    $('#table140700355951344').dataTable({
+        order: [],
+        pageLength: 50,
+        lengthMenu: [[10, 25, 50, 100, 500, 1000, -1], [10, 25, 50, 100, 500, 1000, 'All']],
+        pagingType: "full_numbers",
+        columnDefs: [{targets: [1, 3, 5, 8, 12, 17, 21, 26, 30, 35, 39, 44, 48, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93], type: "optionalnum"}]
+    });
+} );  </script>
+  <table class="display compact" id="table140700355951344">
+   <thead>
+    <tr>
+     <th>Primary System Type</th>
+     <th>ST1 Confidence Flag</th>
+     <th>Secondary System Type</th>
+     <th>ST2 Confidence Flag</th>
+     <th>Tertiary System Type</th>
+     <th>ST3 Confidence Flag</th>
+     <th>Literature Name</th>
+     <th>Selection Method</th>
+     <th>Confirmation Method</th>
+     <th>Name1</th>
+     <th>RA1</th>
+     <th>Dec1</th>
+     <th>z1</th>
+     <th>z1_type</th>
+     <th>Equinox1</th>
+     <th>Coordinate_waveband1</th>
+     <th>Coordinate_Source1</th>
+     <th>AGN_type1</th>
+     <th>Name2</th>
+     <th>RA2</th>
+     <th>Dec2</th>
+     <th>z2</th>
+     <th>z2_type</th>
+     <th>Equinox2</th>
+     <th>Coordinate_waveband2</th>
+     <th>Coordinate_Source2</th>
+     <th>AGN_type2</th>
+     <th>Name3</th>
+     <th>RA3</th>
+     <th>Dec3</th>
+     <th>z3</th>
+     <th>z3_type</th>
+     <th>Equinox3</th>
+     <th>Coordinate_waveband3</th>
+     <th>Coordinate_Source3</th>
+     <th>AGN_type3</th>
+     <th>Name4</th>
+     <th>RA4</th>
+     <th>Dec4</th>
+     <th>z4</th>
+     <th>z4_type</th>
+     <th>Equinox4</th>
+     <th>Coordinate_waveband4</th>
+     <th>Coordinate_Source4</th>
+     <th>AGN_type4</th>
+     <th>Name5</th>
+     <th>RA5</th>
+     <th>Dec5</th>
+     <th>z5</th>
+     <th>z5_type</th>
+     <th>Equinox5</th>
+     <th>Coordinate_waveband5</th>
+     <th>Coordinate_Source5</th>
+     <th>AGN_type5</th>
+     <th>Sep12</th>
+     <th>Sep13</th>
+     <th>Sep14</th>
+     <th>Sep15</th>
+     <th>Sep23</th>
+     <th>Sep24</th>
+     <th>Sep25</th>
+     <th>Sep34</th>
+     <th>Sep35</th>
+     <th>Sep45</th>
+     <th>Sep(kpc)12_z1</th>
+     <th>Sep(kpc)12_z2</th>
+     <th>Sep(kpc)13_z1</th>
+     <th>Sep(kpc)13_z3</th>
+     <th>Sep(kpc)14_z1</th>
+     <th>Sep(kpc)14_z4</th>
+     <th>Sep(kpc)15_z1</th>
+     <th>Sep(kpc)15_z5</th>
+     <th>Sep(kpc)23_z2</th>
+     <th>Sep(kpc)23_z3</th>
+     <th>Sep(kpc)24_z2</th>
+     <th>Sep(kpc)24_z4</th>
+     <th>Sep(kpc)25_z2</th>
+     <th>Sep(kpc)25_z5</th>
+     <th>Sep(kpc)34_z3</th>
+     <th>Sep(kpc)34_z4</th>
+     <th>Sep(kpc)35_z3</th>
+     <th>Sep(kpc)35_z5</th>
+     <th>Sep(kpc)45_z4</th>
+     <th>Sep(kpc)45_z5</th>
+     <th>dV_12</th>
+     <th>dV_13</th>
+     <th>dV_14</th>
+     <th>dV_15</th>
+     <th>dV_23</th>
+     <th>dV_24</th>
+     <th>dV_25</th>
+     <th>dV_34</th>
+     <th>dV_35</th>
+     <th>dV_45</th>
+     <th>Paper(s)</th>
+     <th>BibCode(s)</th>
+     <th>DOI(s)</th>
+    </tr>
+   </thead>
+   <tr>
+    <td>Quintuple AGN Candidate</td>
+    <td>0.5</td>
+    <td>Triple AGN Candidate</td>
+    <td>0.5</td>
+    <td>Dual AGN Candidate</td>
+    <td>0.5</td>
+    <td>SDSS J0959+1259 (CG)</td>
+    <td>Optical Spectroscopy / Fiber Spectroscopy / Spectroscopic Emission Line Ratios</td>
+    <td>-99</td>
+    <td>J095859.91+130308.4</td>
+    <td>09:58:59.91</td>
+    <td>+13:03:08.4</td>
+    <td>0.0358</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>5</td>
+    <td>J095900.42+130241.6</td>
+    <td>09:59:00.42</td>
+    <td>+13:02:41.6</td>
+    <td>0.0351</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>5</td>
+    <td>J095903.29+130221.0</td>
+    <td>09:59:03.29</td>
+    <td>+13:02:21.0</td>
+    <td>0.0356</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>1</td>
+    <td>J095906.68+130135.4</td>
+    <td>09:59:06.68</td>
+    <td>+13:01:35.4</td>
+    <td>0.0366</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>0</td>
+    <td>J095908.96+130352.5</td>
+    <td>09:59:08.96</td>
+    <td>+13:03:52.5</td>
+    <td>0.0339</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>0</td>
+    <td>27.816888456263765</td>
+    <td>68.45636792130766</td>
+    <td>135.78088840542964</td>
+    <td>139.39906058032065</td>
+    <td>46.725614378617706</td>
+    <td>112.92059949478823</td>
+    <td>143.524071474443</td>
+    <td>67.33191600941669</td>
+    <td>123.43759283132474</td>
+    <td>141.09023521483857</td>
+    <td>19.800428495489832</td>
+    <td>19.429526866651216</td>
+    <td>48.72814657965725</td>
+    <td>48.46751098634988</td>
+    <td>96.6506292086884</td>
+    <td>98.71598184245585</td>
+    <td>99.2260919368775</td>
+    <td>94.17371886333706</td>
+    <td>32.63688465219795</td>
+    <td>33.08200970935096</td>
+    <td>78.87272601074508</td>
+    <td>82.09600025655003</td>
+    <td>100.2486243962317</td>
+    <td>96.96044938098964</td>
+    <td>47.67139242137071</td>
+    <td>48.95192744914717</td>
+    <td>87.39454149186085</td>
+    <td>83.39064206079249</td>
+    <td>102.57600507096754</td>
+    <td>95.31622444348142</td>
+    <td>202.1343146325913</td>
+    <td>57.7387268924528</td>
+    <td>-230.84343211286517</td>
+    <td>548.9679868977653</td>
+    <td>-144.39560659046398</td>
+    <td>-432.9775207599735</td>
+    <td>346.8341027585586</td>
+    <td>-288.5821159812211</td>
+    <td>491.2294341684451</td>
+    <td>779.8103136318073</td>
+    <td>Liu+2011b ; De Rosa+2015</td>
+    <td>https://doi.org/10.1088/0004-637X/737/2/101 ; https://doi.org/10.1093/mnras/stv1623</td>
+    <td>2011ApJ...737..101L ; 2015MNRAS.453..214D</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
