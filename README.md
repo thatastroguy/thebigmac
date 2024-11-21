@@ -18,6 +18,8 @@ GitHub Website: https://thatastroguy.github.io/thebigmac/index.html
 
 # WARNING: This repository is public but we are currently rolling out the DR1 and making final adjustments to the release. For the time being, the currently available version of the catalog is the "DR0.9"; consider this version of the catalog a beta release and proceed with caution!
 
+## A note to potential users: tables can be downloded via the Big MAC website or found in the DR0p9_tabledownloads folder above. 
+
 ## Do you have feedback or suggestions for the catalog and/or website? Please reach out to us!
 
 ## Matched ICRF3 tables coming soon. Updates for full tables coming soon.
