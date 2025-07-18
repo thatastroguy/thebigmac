@@ -1,0 +1,342 @@
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="text/html;charset=UTF-8" http-equiv="Content-type"/>
+  <style>
+body {font-family: sans-serif;}
+table.dataTable {width: auto !important; margin: 0 !important;}
+.dataTables_filter, .dataTables_paginate {float: left !important; margin-left:1em}
+  </style>
+  <link href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css" rel="stylesheet" type="text/css"/>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js">
+  </script>
+  <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js">
+  </script>
+ </head>
+ <body>
+  <script>
+var astropy_sort_num = function(a, b) {
+    var a_num = parseFloat(a);
+    var b_num = parseFloat(b);
+
+    if (isNaN(a_num) && isNaN(b_num))
+        return ((a < b) ? -1 : ((a > b) ? 1 : 0));
+    else if (!isNaN(a_num) && !isNaN(b_num))
+        return ((a_num < b_num) ? -1 : ((a_num > b_num) ? 1 : 0));
+    else
+        return isNaN(a_num) ? -1 : 1;
+}
+
+jQuery.extend( jQuery.fn.dataTableExt.oSort, {
+    "optionalnum-asc": astropy_sort_num,
+    "optionalnum-desc": function (a,b) { return -astropy_sort_num(a, b); }
+});
+
+$(document).ready(function() {
+    $('#table140504190296656').dataTable({
+        order: [],
+        pageLength: 50,
+        lengthMenu: [[10, 25, 50, 100, 500, 1000, -1], [10, 25, 50, 100, 500, 1000, 'All']],
+        pagingType: "full_numbers",
+        columnDefs: [{targets: [3, 4, 5, 6, 7, 8, 15, 21, 29, 37, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67], type: "optionalnum"}]
+    });
+} );  </script>
+  <table class="display compact" id="table140504190296656">
+   <thead>
+    <tr>
+     <th>System Type 1: Quadruple AGNs</th>
+     <th>System Type 2: Triple AGNs</th>
+     <th>System Type 3: Dual AGNs</th>
+     <th>ST1 Confidence Flag</th>
+     <th>ST2 Confidence Flag</th>
+     <th>ST3 Confidence Flag</th>
+     <th>ST1 Num AGNs</th>
+     <th>ST2 Num AGNs</th>
+     <th>ST3 Num AGNs</th>
+     <th>Literature Name</th>
+     <th>Selection Method</th>
+     <th>Confirmation Method</th>
+     <th>Name1</th>
+     <th>RA1</th>
+     <th>Dec1</th>
+     <th>z1</th>
+     <th>z1_type</th>
+     <th>Equinox1</th>
+     <th>Coordinate_waveband1</th>
+     <th>Coordinate_Source1</th>
+     <th>Name2</th>
+     <th>z2</th>
+     <th>z2_type</th>
+     <th>RA2</th>
+     <th>Dec2</th>
+     <th>Equinox2</th>
+     <th>Coordinate_waveband2</th>
+     <th>Coordinate_Source2</th>
+     <th>Name3</th>
+     <th>z3</th>
+     <th>z3_type</th>
+     <th>RA3</th>
+     <th>Dec3</th>
+     <th>Equinox3</th>
+     <th>Coordinate_waveband3</th>
+     <th>Coordinate_Source3</th>
+     <th>Name4</th>
+     <th>z4</th>
+     <th>z4_type</th>
+     <th>RA4</th>
+     <th>Dec4</th>
+     <th>Equinox4</th>
+     <th>Coordinate_waveband4</th>
+     <th>Coordinate_Source4</th>
+     <th>Sep12</th>
+     <th>Sep13</th>
+     <th>Sep14</th>
+     <th>Sep23</th>
+     <th>Sep24</th>
+     <th>Sep34</th>
+     <th>Sep(kpc)12_z1</th>
+     <th>Sep(kpc)12_z2</th>
+     <th>Sep(kpc)13_z1</th>
+     <th>Sep(kpc)13_z3</th>
+     <th>Sep(kpc)23_z2</th>
+     <th>Sep(kpc)23_z3</th>
+     <th>Sep(kpc)14_z1</th>
+     <th>Sep(kpc)14_z4</th>
+     <th>Sep(kpc)24_z2</th>
+     <th>Sep(kpc)24_z3</th>
+     <th>Sep(kpc)34_z3</th>
+     <th>Sep(kpc)34_z4</th>
+     <th>dV_12</th>
+     <th>dV_13</th>
+     <th>dV_14</th>
+     <th>dV_23</th>
+     <th>dV_24</th>
+     <th>dV_34</th>
+     <th>Paper(s)</th>
+     <th>BibCode(s)</th>
+     <th>DOI(s)</th>
+    </tr>
+   </thead>
+   <tr>
+    <td>Quadruple AGN Candidate</td>
+    <td>Triple AGN Candidate</td>
+    <td>Dual AGN Candidate</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>4.0</td>
+    <td>3.0</td>
+    <td>2.0</td>
+    <td></td>
+    <td>{'Optical':['Spectroscopy','Fiber Spectroscopy','Spectroscopic Emission Line Ratios']}</td>
+    <td>-99</td>
+    <td>J135632.71+232118.3</td>
+    <td>13:56:32.71</td>
+    <td>+23:21:18.3</td>
+    <td>0.0661</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>J135635.73+232136.0</td>
+    <td>0.0668</td>
+    <td>spec</td>
+    <td>13:56:35.73</td>
+    <td>+23:21:36.0</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>J135638.42+232151.5</td>
+    <td>0.0659</td>
+    <td>spec</td>
+    <td>13:56:38.42</td>
+    <td>+23:21:51.5</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>J135639.45+232210.3</td>
+    <td>0.0657</td>
+    <td>spec</td>
+    <td>13:56:39.45</td>
+    <td>+23:22:10.3</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>45.19755398149188</td>
+    <td>85.35134958014184</td>
+    <td>106.3858714782244</td>
+    <td>40.1541780972882</td>
+    <td>61.64756012451899</td>
+    <td>23.549803008743623</td>
+    <td>57.30886581569837</td>
+    <td>57.86827460380997</td>
+    <td>108.22242819335104</td>
+    <td>107.92027752291528</td>
+    <td>51.41103444614917</td>
+    <td>50.77189833881836</td>
+    <td>134.89344214796046</td>
+    <td>134.14003297567794</td>
+    <td>78.92988942280802</td>
+    <td>77.73030039675606</td>
+    <td>29.77693134104715</td>
+    <td>29.693523287161145</td>
+    <td>-196.2585938922113</td>
+    <td>56.09756048192513</td>
+    <td>112.20564385891662</td>
+    <td>252.3561232967758</td>
+    <td>308.46416177000253</td>
+    <td>56.10808732739779</td>
+    <td>Liu+2011b</td>
+    <td>2011ApJ...737..101L</td>
+    <td>https://doi.org/10.1088/0004-637X/737/2/101</td>
+   </tr>
+   <tr>
+    <td>Quadruple AGN Candidate</td>
+    <td>Triple AGN Candidate</td>
+    <td>Dual AGN Candidate</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>4.0</td>
+    <td>3.0</td>
+    <td>2.0</td>
+    <td></td>
+    <td>{'Optical':['Spectroscopy','Fiber Spectroscopy','Spectroscopic Emission Line Ratios']}</td>
+    <td>-99</td>
+    <td>J144702.08+134006.2</td>
+    <td>14:47:02.08</td>
+    <td>+13:40:06.2</td>
+    <td>0.0304</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>J144705.78+133953.1</td>
+    <td>0.0307</td>
+    <td>spec</td>
+    <td>14:47:05.78</td>
+    <td>+13:39:53.1</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>J144708.49+133917.0</td>
+    <td>0.0285</td>
+    <td>spec</td>
+    <td>14:47:08.49</td>
+    <td>+13:39:17.0</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>J144712.81+133939.3</td>
+    <td>0.0323</td>
+    <td>spec</td>
+    <td>14:47:12.81</td>
+    <td>+13:39:39.3</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>55.496917281877415</td>
+    <td>105.59237657506942</td>
+    <td>158.6908709195794</td>
+    <td>53.51147514596551</td>
+    <td>103.39114101448926</td>
+    <td>66.79982590400705</td>
+    <td>33.7624805451191</td>
+    <td>34.08339313859101</td>
+    <td>64.23889351765573</td>
+    <td>60.3615037231174</td>
+    <td>32.86403523212389</td>
+    <td>30.589643031250027</td>
+    <td>96.54225323718838</td>
+    <td>102.34270796681264</td>
+    <td>63.49759732321348</td>
+    <td>66.67887881568042</td>
+    <td>38.18588112884952</td>
+    <td>43.08045595258139</td>
+    <td>-87.04089864596939</td>
+    <td>551.8476042598415</td>
+    <td>-550.8309671655288</td>
+    <td>638.8881596443942</td>
+    <td>-463.79031724546167</td>
+    <td>-1102.6748221909888</td>
+    <td>Liu+2011b</td>
+    <td>2011ApJ...737..101L</td>
+    <td>https://doi.org/10.1088/0004-637X/737/2/101</td>
+   </tr>
+   <tr>
+    <td>Quadruple AGN Candidate</td>
+    <td>-99</td>
+    <td>-99</td>
+    <td>1.0</td>
+    <td>-99.0</td>
+    <td>-99.0</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Jackpot Nebula</td>
+    <td>{'Serendipitous':[], 'Optical':['Imaging','Narrow Band Imaging']}</td>
+    <td>{'Optical': ['Spectroscopy']}</td>
+    <td>J084158.47+392121.0 (f/g QSO)</td>
+    <td>08:41:58.47</td>
+    <td>+39:21:21.0</td>
+    <td>2.0412</td>
+    <td>spec</td>
+    <td>J2000</td>
+    <td>Optical</td>
+    <td>SDSS</td>
+    <td>J084158.24+392129.1 (AGN1)</td>
+    <td>2.055</td>
+    <td>spec</td>
+    <td>08:41:58.24</td>
+    <td>+39:21:29.1</td>
+    <td>J2000</td>
+    <td>Ly-alpha at redshift</td>
+    <td>KECK/LRIS</td>
+    <td>J084158.66+392114.7 (AGN2)</td>
+    <td>2.058</td>
+    <td>spec</td>
+    <td>08:41:58.66</td>
+    <td>+39:21:14.7</td>
+    <td>J2000</td>
+    <td>Ly-alpha at redshift</td>
+    <td>Keck/LRIS</td>
+    <td>J084159.10+392104.6 (AGN3)</td>
+    <td>2.05</td>
+    <td>spec</td>
+    <td>08:41:59.10</td>
+    <td>+39:21:04.6</td>
+    <td>J2000</td>
+    <td>Ly-alpha at redshift</td>
+    <td>Keck/LRIS</td>
+    <td>8.527951510556026</td>
+    <td>6.674304980777198</td>
+    <td>17.95424896164524</td>
+    <td>15.20162552991617</td>
+    <td>26.45270057402292</td>
+    <td>11.316170224879071</td>
+    <td>71.22052248905115</td>
+    <td>71.16256950399536</td>
+    <td>55.73993794334272</td>
+    <td>55.68460499018663</td>
+    <td>126.85188606048216</td>
+    <td>126.82916277876576</td>
+    <td>149.9435110957269</td>
+    <td>149.86598252114285</td>
+    <td>220.7379041540244</td>
+    <td>220.8034415882506</td>
+    <td>94.4122977282236</td>
+    <td>94.45724924227623</td>
+    <td>-1353.688808099488</td>
+    <td>-1647.1543445144162</td>
+    <td>-863.9330536600245</td>
+    <td>-293.47285586910203</td>
+    <td>489.7621612485171</td>
+    <td>783.2337578959515</td>
+    <td>Hennawi+2015</td>
+    <td>2015Sci...348..779H</td>
+    <td>https://doi.org/2015Sci...348..779H</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
