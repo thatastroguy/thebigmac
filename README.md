@@ -7,7 +7,7 @@ Contributor(s): Kimberly Weaver<sup>1</sup>, Nathan Secrest<sup>2</sup>, Barry R
 <sup>2</sup> United States Naval Observatory (USNO)<br />
 <sup>3</sup> Trent University<br />
 <br />
-Current Version: 0.9 <br />
+Current Version: 1.0 <br />
 Git Repo Creation Date: 23 July 2022 <br />
 First 'official' update to README.md (here): 28 March 2023 <br />
 Original DR0.1 catalog creation dates (not tracked by Git): June 2020 - October 2020 <br />
@@ -16,9 +16,7 @@ Last Revision Date: 29 December 2023
 
 GitHub Website: https://thatastroguy.github.io/thebigmac/index.html
 
-# WARNING: This repository is public but we are currently rolling out the DR1 and making final adjustments to the release. For the time being, the currently available version of the catalog is the "DR0.9"; consider this version of the catalog a beta release and proceed with caution!
-
-## A note to potential users: tables can be downloded via the Big MAC website or found in the DR0p9_tabledownloads folder above. 
+## A note to potential users: tables can be downloded via the Big MAC website or found in the DR1_tabledownloads folder above. 
 
 ## Do you have feedback or suggestions for the catalog and/or website? Please reach out to us!
 
